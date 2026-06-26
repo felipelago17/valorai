@@ -1,5 +1,8 @@
 # ValorAI — Measuring the True Financial Value of AI
 
+!!! note "Academic Disclaimer"
+    This site presents an academic discussion based on publicly available data and published literature. Nothing here constitutes legal, financial, or investment advice. All quantitative findings are sourced from third-party research; citations marked `[VERIFY]` require independent confirmation before use in a published or client-facing document. Readers should consult primary sources and qualified professionals before making decisions based on this material.
+
 ## The Core Question
 
 *Does the method measurably improve judgement under uncertainty?*
@@ -56,6 +59,19 @@ The thesis of this framework is simple: **a valuation that ignores these costs d
 | [Base Rates](evidence/base-rates.md) | Key quantitative findings in citable table form |
 | [Bibliography](evidence/bibliography.md) | Annotated reference list |
 | [Use Cases](use-cases/index.md) | Applied examples (forthcoming) |
+
+---
+
+## Related Projects
+
+This framework is part of a broader research programme. See also:
+
+| Project | Focus |
+|---|---|
+| [Sanctions & Export Controls — AI and Oil](https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/) | Sanctions and export-control frameworks for AI and energy |
+| [AI Regulatory Monitor](https://felipelago17.github.io/AI-regulatory-monitor/) | Global AI regulation tracker (EU AI Act, US, UK, APAC) |
+| [Responsible AI Evaluation](https://felipelago17.github.io/Responsible-AI-evaluation/) | Frameworks for fairness, transparency, and accountability |
+| [Joint Ventures & the Energy Trilemma](https://felipelago17.github.io/Joint-ventures-and-Energy-Trilemma-/) | JV structures, energy security, and AI optimisation |
 
 ---
 

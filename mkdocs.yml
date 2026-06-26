@@ -7,6 +7,12 @@ site_url: https://felipelago17.github.io/valorai/
 repo_url: https://github.com/felipelago17/valorai
 repo_name: felipelago17/valorai
 
+copyright: >-
+  <strong>Disclaimer:</strong> This site is an academic discussion based on publicly available data and literature.
+  It does not constitute legal, financial, or investment advice.
+  All findings are sourced from third-party research; citations marked [VERIFY] require independent confirmation.
+  © Felipe Lago
+
 theme:
   name: material
   palette:
@@ -69,3 +75,4 @@ nav:
       - Base Rates: evidence/base-rates.md
       - Bibliography: evidence/bibliography.md
   - Use Cases: use-cases/index.md
+  - Related Projects: related-projects.md
