@@ -1,0 +1,71 @@
+site_name: ValorAI
+site_description: >-
+  A modern framework and use case library for measuring the true financial
+  value of AI — rigorous assessment methodologies, ROI modelling, value
+  realisation, and decision frameworks.
+site_url: https://felipelago17.github.io/valorai/
+repo_url: https://github.com/felipelago17/valorai
+repo_name: felipelago17/valorai
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Methodology:
+      - Measurement Discipline: methodology/measurement-discipline.md
+      - Valuation Models: methodology/valuation-models.md
+  - Indirect Costs:
+      - Overview: indirect-costs/index.md
+      - Technical & Operational Debt: indirect-costs/technical-debt.md
+      - Integration & Implementation: indirect-costs/integration-implementation.md
+      - Verification & Oversight: indirect-costs/verification-oversight.md
+      - Cognitive & Human Capital: indirect-costs/cognitive-human-capital.md
+      - Environmental Externalities: indirect-costs/environmental-externalities.md
+      - Labour & Supply Chain: indirect-costs/labour-supply-chain.md
+      - Governance & Shadow AI: indirect-costs/governance-shadow-ai.md
+  - Evidence:
+      - Base Rates: evidence/base-rates.md
+      - Bibliography: evidence/bibliography.md
+  - Use Cases: use-cases/index.md
