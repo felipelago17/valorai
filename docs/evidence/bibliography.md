@@ -96,6 +96,13 @@ Foundational identification of the mechanisms by which machine-learning systems 
 
 ---
 
+### Stern, J. (2026)
+*I Am Not a Robot: My Year Using AI to Do (Almost) Everything.*
+Harper (HarperCollins). ISBN 9780063446618. Published 12 May 2026.
+Journalist Joanna Stern spent a year delegating as much of her daily life as possible to AI tools — health, finance, food, mobility, childcare, and personal relationships — and documented every cost that standard ROI calculations omit: subscription creep across a multi-tool stack, time lost correcting errors, privacy exposure from multi-provider data sharing, environmental load from underlying infrastructure, cognitive effects of delegating judgement, and ambiguous wellbeing effects of AI companionship. The book is the most accessible worked example of all seven indirect-cost dimensions applied to a single consumer context. Cited in: [Cognitive & Human Capital](../indirect-costs/cognitive-human-capital.md).
+
+---
+
 ### United Nations University INWEH (2025)
 *Environmental Cost of Artificial Intelligence: Carbon, Water and Land Footprints of AI Systems.*
 UN University Institute for Water, Environment and Health, Hamilton, Ontario.

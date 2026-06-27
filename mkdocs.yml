@@ -75,5 +75,8 @@ nav:
       - Base Rates: evidence/base-rates.md
       - "Energy: Pilot-to-Production Gap": evidence/energy-pilot-gap.md
       - Bibliography: evidence/bibliography.md
+  - Literature:
+      - Source Library: literature/index.md
+      - Bibliography: literature/bibliography.md
   - Use Cases: use-cases/index.md
   - Related Projects: related-projects.md
