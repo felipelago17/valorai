@@ -4,7 +4,7 @@ authors: Acemoglu, D. & Restrepo, P.
 year: 2022
 type: journal-article
 publisher: Econometrica
-identifier: "[VERIFY DOI — Econometrica 2022]"
+identifier: "Econometrica, vol. 90, no. 5 (2022), pp. 1973–2016"
 primary_sector: 14-human-capital-hr-future-of-work
 sectors: [14-human-capital-hr-future-of-work, cross-sector]
 value_dimensions: []
@@ -31,4 +31,4 @@ Based on historical automation (robots, earlier-generation software); generative
 
 ## Citation
 
-Acemoglu, D. & Restrepo, P. (2022). Tasks, automation, and the rise in US wage inequality. *Econometrica.* `[VERIFY volume, issue, pages, DOI]`
+Acemoglu, D. & Restrepo, P. (2022). Tasks, automation, and the rise in US wage inequality. *Econometrica,* 90(5), 1973–2016.

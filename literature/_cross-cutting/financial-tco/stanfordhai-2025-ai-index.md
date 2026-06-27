@@ -1,10 +1,10 @@
 ---
 title: "Artificial Intelligence Index Report 2025"
-authors: Stanford Human-Centered AI Institute (multiple contributors)
+authors: "Maslej, N. et al. (Stanford HAI)"
 year: 2025
 type: industry-report
-publisher: Stanford HAI
-identifier: "https://aiindex.stanford.edu/report/ [VERIFY]"
+publisher: Stanford University Human-Centered AI Institute
+identifier: "https://hai.stanford.edu/ai-index/2025-ai-index-report"
 primary_sector: cross-sector
 sectors: [cross-sector]
 value_dimensions: [productivity, quality]
@@ -31,4 +31,4 @@ Descriptive rather than causal; benchmarking methodology varies year-on-year, ma
 
 ## Citation
 
-Stanford Human-Centered AI Institute (2025). *Artificial Intelligence Index Report 2025.* Stanford HAI.
+Maslej, N. et al. (2025). *Artificial Intelligence Index Report 2025.* Stanford University Human-Centered AI Institute. https://hai.stanford.edu/ai-index/2025-ai-index-report

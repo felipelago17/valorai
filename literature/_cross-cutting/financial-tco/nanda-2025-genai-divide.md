@@ -1,10 +1,10 @@
 ---
 title: "The GenAI Divide: State of AI in Business 2025"
-authors: Challapally, A., Pease, A., Raskar, R. & Chari, S.
+authors: "Challapally, A., Pease, C., Raskar, R. & Chari, P."
 year: 2025
 type: industry-report
-publisher: MIT NANDA Initiative
-identifier: "[VERIFY URL/DOI]"
+publisher: MIT Project NANDA
+identifier: "[URL not yet confirmed — July 2025 release]"
 primary_sector: cross-sector
 sectors: [cross-sector]
 value_dimensions: [revenue, cost-to-serve]
@@ -27,8 +27,8 @@ Empirically grounds the 95% pilot-failure base rate; provides the shadow AI gove
 
 ## Caveats / limits
 
-Industry report; specific methodology for P&L attribution not fully disclosed. Figures require verification of full publication details. Already present in abbreviated form in `docs/evidence/bibliography.md`.
+Industry report; not peer-reviewed. Specific methodology for P&L attribution not fully disclosed. Published July 2025 by MIT Project NANDA. Already present in abbreviated form in `docs/evidence/bibliography.md`.
 
 ## Citation
 
-Challapally, A., Pease, A., Raskar, R. & Chari, S. (2025). *The GenAI Divide: State of AI in Business 2025.* MIT NANDA Initiative. `[VERIFY full publication details]`
+Challapally, A., Pease, C., Raskar, R. & Chari, P. (2025). *The GenAI Divide: State of AI in Business 2025.* MIT Project NANDA, July 2025.

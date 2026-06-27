@@ -45,18 +45,18 @@ A source may be tagged to multiple dimensions. The `stance` field (`value-positi
 | Source | Year | Type | Primary sector | Stance | Value dims | Cost dims |
 |---|---|---|---|---|---|---|
 | McKinsey Global Institute — *The Economic Potential of Generative AI* | 2023 | industry-report | cross-sector | value-positive | productivity, quality, revenue, cost-to-serve | — |
-| Stanford HAI — *AI Index Report 2025* | 2025 | gov-report | cross-sector | mixed | productivity, decision-quality | financial-tco, labor-employment |
+| Maslej et al. (Stanford HAI) — *AI Index Report 2025* | 2025 | industry-report | cross-sector | mixed | productivity, quality | financial-tco, environmental |
 | Brynjolfsson, Li & Raymond — *Generative AI at Work* | 2023 | working-paper | 11-technology-software-telecom | value-positive | productivity, quality, time-returned | — |
 | Noy & Zhang — *Experimental evidence on the productivity effects of GenAI* | 2023 | journal-article | 04-legal-compliance-professional-services | value-positive | productivity, quality, time-returned | — |
 | Dell'Acqua et al. — *Navigating the Jagged Technological Frontier* | 2023 | working-paper | 04-legal-compliance-professional-services | mixed | productivity, quality | cognitive-skills, trust-accountability |
-| Acemoglu — *A Simple Macroeconomics of AI* | 2024 | working-paper | cross-sector | reality-check | — | financial-tco, labor-employment |
-| MIT NANDA — *The Generative AI Divide* | 2025 | working-paper | cross-sector | reality-check | — | financial-tco |
+| Acemoglu — *The Simple Macroeconomics of AI* | 2025 | journal-article | cross-sector | reality-check | — | financial-tco, labor-employment |
+| Challapally et al. (MIT NANDA) — *The GenAI Divide* | 2025 | industry-report | cross-sector | reality-check | — | financial-tco |
 | Stern — *I Am Not a Robot* | 2026 | journalism | 15-consumer-personal-household | cost-cautionary | — | cognitive-skills, social-wellbeing |
-| Luccioni et al. — *Estimating the Carbon Footprint of BLOOM* | 2023 | working-paper | cross-sector | cost-cautionary | — | environmental |
+| Luccioni, Jernite & Strubell — *Power Hungry Processing* | 2024 | conference-paper | cross-sector | cost-cautionary | — | environmental |
 | Li et al. — *Making AI Less "Thirsty"* | 2023 | working-paper | cross-sector | cost-cautionary | — | environmental |
-| IEA — *Electricity 2024* | 2024 | gov-report | 03-energy-utilities | cost-cautionary | — | environmental |
+| IEA — *Energy and AI* | 2025 | gov-report | 03-energy-utilities | cost-cautionary | — | environmental |
 | Acemoglu & Restrepo — *Tasks, Automation, and the Rise in US Wage Inequality* | 2022 | journal-article | 14-human-capital-hr-future-of-work | cost-cautionary | — | labor-employment |
-| Lee et al. — *The Impact of Generative AI on Critical Thinking* | 2025 | journal-article | cross-sector | cost-cautionary | — | cognitive-skills, trust-accountability |
+| Lee et al. — *The Impact of Generative AI on Critical Thinking* | 2025 | conference-paper | cross-sector | cost-cautionary | — | cognitive-skills, trust-accountability |
 | Kosmyna et al. — *Your Brain on ChatGPT* | 2025 | working-paper | 09-education-edtech | cost-cautionary | — | cognitive-skills |
 
 ---

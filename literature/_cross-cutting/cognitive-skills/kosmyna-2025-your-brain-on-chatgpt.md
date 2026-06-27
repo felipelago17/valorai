@@ -1,10 +1,10 @@
 ---
-title: "Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Tasks" [VERIFY exact title]
-authors: "Kosmyna, N. et al. (MIT Media Lab) [VERIFY full author list]"
+title: "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"
+authors: "Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I. & Maes, P. (MIT Media Lab)"
 year: 2025
 type: working-paper
-publisher: "[VERIFY venue — MIT Media Lab preprint or conference]"
-identifier: "[VERIFY arXiv ID or DOI]"
+publisher: arXiv
+identifier: "arXiv:2506.08872"
 primary_sector: 09-education-edtech
 sectors: [09-education-edtech, cross-sector]
 value_dimensions: []
@@ -19,7 +19,7 @@ relevance_to_valorai: Experimental cognitive-cost signal for educational and kno
 
 ## Summary
 
-Kosmyna and colleagues at MIT Media Lab conducted an experiment comparing writing task performance and neurological engagement under three conditions: unaided, assisted by search, and assisted by a large language model. The LLM-assisted group showed reduced neural engagement (measured via EEG or similar means) and weaker recall of the content produced. The study coins the term "cognitive debt" to describe the cumulative reduction in active mental processing that may result from repeated AI delegation in learning and professional contexts.
+Kosmyna and colleagues at MIT Media Lab conducted an experiment comparing writing task performance and neurological engagement under three conditions: unaided, assisted by search, and assisted by a large language model. The LLM-assisted group showed reduced neural engagement and weaker recall of the content produced. The study coins the term "cognitive debt" to describe the cumulative reduction in active mental processing that may result from repeated AI delegation in learning and professional contexts.
 
 ## What it lets valorai measure
 
@@ -27,8 +27,8 @@ Provides experimental grounding for the cognitive-skills cost dimension; support
 
 ## Caveats / limits
 
-`[VERIFY]` Title, author list, and publication venue require confirmation before citing. Experimental writing context may not generalise to other task types. Neural measurement methodology should be independently reviewed.
+arXiv preprint — not peer-reviewed. Experimental writing context may not generalise to other task types. A published methodological critique (arXiv:2601.00856) flags concerns about the study design; cite alongside the original when using in formal analysis.
 
 ## Citation
 
-Kosmyna, N. et al. (2025). *[VERIFY title].* `[VERIFY venue and identifier]`. MIT Media Lab.
+Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I. & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. arXiv:2506.08872.
