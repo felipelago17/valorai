@@ -8,6 +8,22 @@ This is not a finding about exceptional projects. It is a finding about the aver
 
 The indirect-cost taxonomy in ValorAI organises these costs into seven categories. Each category has a dedicated page with a literature review, a statement of how the cost should be treated in a TCO model, and citations to primary sources.
 
+```mermaid
+flowchart LR
+    TCO["Full TCO"] --> V["Visible costs\n(licence · compute\nimplementation)"]
+    TCO --> H["Hidden costs\n40–60 % of true TCO"]
+    H --> C1["1 · Technical &\nOperational Debt"]
+    H --> C2["2 · Integration &\nImplementation"]
+    H --> C3["3 · Verification &\nOversight"]
+    H --> C4["4 · Cognitive &\nHuman Capital"]
+    H --> C5["5 · Environmental\nExternalities"]
+    H --> C6["6 · Labour &\nSupply Chain"]
+    H --> C7["7 · Governance &\nShadow AI"]
+```
+
+!!! tip "Sector calibration"
+    Which categories matter most depends on the deployment context. The [Sector Lenses](../sector-lenses.md) page provides directional priors for six sectors — showing where to focus analysis before committing to a full TCO build.
+
 ---
 
 ## Seven Categories
@@ -37,7 +53,7 @@ MIT NANDA's *The GenAI Divide* (2025) reports that approximately 90% of workers 
 
 ## How These Costs Enter the Valuation Model
 
-In the [Valuation Models](../methodology/valuation-models.md) page, these seven categories are structured as Tier 2 explicit line items in the TCO calculation. The starting estimate for their aggregate share is 40–60% of Tier 1 visible costs, calibrated by the base-rate evidence in [Base Rates](../evidence/base-rates.md). Individual categories are then scaled by the specific characteristics of the deployment: scale, data sensitivity, sector regulatory environment, and existing organisational capabilities.
+In the [Valuation Models](../methodology/valuation-models.md) page, these seven categories are structured as Tier 2 explicit line items in the TCO calculation. The starting estimate for their aggregate share is 40–60% of Tier 1 visible costs, calibrated by the base-rate evidence in [Base Rates](../evidence/base-rates.md). Individual categories are then scaled by the specific characteristics of the deployment: scale, data sensitivity, sector regulatory environment, and existing organisational capabilities. The [Sector Lenses](../sector-lenses.md) page provides qualitative guidance on which categories are most salient for six common deployment sectors.
 
 The point is not to inflate cost estimates. It is to make the full decision visible.
 

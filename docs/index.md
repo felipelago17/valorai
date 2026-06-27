@@ -56,9 +56,12 @@ The thesis of this framework is simple: **a valuation that ignores these costs d
 | [Measurement Discipline](methodology/measurement-discipline.md) | The Hubbard methodological anchor; why evidence matters more than process |
 | [Valuation Models](methodology/valuation-models.md) | TCO, ROI/NPV/IRR, real options, value-of-information |
 | [Indirect Costs](indirect-costs/index.md) | Seven-category taxonomy with literature evidence |
+| [Sector Lenses](sector-lenses.md) | Directional priors on which cost categories dominate per sector |
 | [Base Rates](evidence/base-rates.md) | Key quantitative findings in citable table form |
 | [Bibliography](evidence/bibliography.md) | Annotated reference list |
-| [Use Cases](use-cases/index.md) | Applied examples (forthcoming) |
+| [Energy: Predictive Maintenance](use-cases/energy-predictive-maintenance.md) | Canonical worked example — JV upstream O&G PdM deployment |
+| [Use Cases](use-cases/index.md) | Full use-case library (one published; more planned) |
+| [How to Cite](cite.md) | BibTeX, APA, and Chicago citation blocks |
 
 ---
 
