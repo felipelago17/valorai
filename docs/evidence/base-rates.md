@@ -30,6 +30,82 @@ These figures are not assumptions — they are empirical reference points. A val
 
 ---
 
+## Key Rates at a Glance
+
+<div style="position:relative;max-width:720px;margin:1.5rem auto;">
+  <canvas id="base-rates-chart" aria-label="Horizontal bar chart: selected AI base-rate findings, illustrative percentages"></canvas>
+</div>
+<script>
+(function () {
+  var el = document.getElementById('base-rates-chart');
+  if (!el || typeof Chart === 'undefined') return;
+  new Chart(el, {
+    type: 'bar',
+    data: {
+      labels: [
+        'True costs hidden from standard business case',
+        'GenAI pilots with no measurable P&L impact',
+        'Workers using personal (shadow) AI tools',
+        'Workers using officially provisioned AI tools',
+        'Enterprises that can quantify AI business value',
+        'Energy orgs "highly prepared" for AI (17%)',
+        'Energy AI adoption rate (~13.6%)'
+      ],
+      datasets: [{
+        label: 'Low estimate (%)',
+        data: [40, 90, 85, 35, 10, 14, 12],
+        backgroundColor: 'rgba(63,81,181,0.80)',
+        borderColor: 'rgba(63,81,181,1)',
+        borderWidth: 1,
+        borderRadius: 3
+      }, {
+        label: 'High estimate (%)',
+        data: [60, 99, 95, 45, 16, 20, 15],
+        backgroundColor: 'rgba(255,152,0,0.70)',
+        borderColor: 'rgba(255,152,0,1)',
+        borderWidth: 1,
+        borderRadius: 3
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: {
+        title: {
+          display: true,
+          text: 'Selected AI Base-Rate Findings (illustrative % ranges)',
+          font: { size: 13, weight: 'bold' }
+        },
+        subtitle: {
+          display: true,
+          text: 'Range bars encode genuine uncertainty — see table above for exact figures and sources',
+          font: { size: 10 },
+          color: '#888'
+        }
+      },
+      scales: {
+        x: {
+          beginAtZero: true,
+          max: 100,
+          title: { display: true, text: 'Percentage (%)' }
+        }
+      }
+    }
+  });
+}());
+</script>
+
+!!! note "Reading this chart"
+    Each metric is shown as a Low–High bar pair to encode genuine uncertainty, not false precision. Single-point figures (e.g. 17% "highly prepared") are shown with a ±3 pp illustrative band to discourage point-reading. Always consult the table above and the primary source before citing.
+
+---
+
+## Sector Calibration
+
+The figures above are cross-sector aggregates. How the 40–60% hidden-cost share distributes across the seven indirect-cost categories varies substantially by sector and deployment context. The [Sector Lenses](../sector-lenses.md) page translates these base rates into directional priors for six sectors — showing which cost categories deserve the most attention before committing to a TCO build.
+
+---
+
 ## Notes on Interpretation
 
 **Ranges versus point estimates.** Many figures above are ranges. This reflects genuine uncertainty in the underlying research, not imprecision in the sources. Environmental footprints in particular depend on assumptions about grid carbon intensity, cooling technology, and hardware efficiency that vary substantially across deployments. Use the full range when presenting these figures, and be explicit about what assumptions drive the endpoints.
