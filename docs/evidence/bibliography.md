@@ -6,6 +6,11 @@ Annotated reference list for the ValorAI indirect-cost evidence base. Sources ar
 
 ## Primary Sources
 
+### AI in Energy Summit 2026 Insights Report (via Oil & Gas IQ)
+Lily Pacey / Oil & Gas IQ, "Why Most AI Pilots in Oil and Gas Still Fail to Scale" (8 Jun 2026). Draws on the *AI in Energy Summit 2026 Insights Report*, a survey of 130+ energy industry leaders. Key findings: up to 95% of AI initiatives fail to deliver measurable value (operational, not technical, failure); three recurring scaling barriers (data trust gap, workflow embedding, workforce readiness); ~30% of leaders cite data quality as primary barrier; ~85% accuracy threshold for production trust; 17% of organisations highly prepared for AI (self-reported); over $150M recurring value reported by leading operators (self-reported). Figures are summit-survey-derived and should be treated as directional. Cited in: [Energy: Pilot-to-Production Gap](energy-pilot-gap.md).
+
+---
+
 ### Anyreach (2026)
 *The Hidden Costs of AI in Business: What Your ROI Calculator Isn't Telling You.*
 Industry analysis published by Anyreach. Key findings: AI projects expand 2–3× beyond initial budget; hidden costs represent 40–60% of total AI project cost when subscription-only TCO models are used; internal AI builds stall at approximately three times the rate of externally-integrated systems. `[VERIFY full citation details and publication date]`
@@ -95,6 +100,11 @@ Foundational identification of the mechanisms by which machine-learning systems 
 *Environmental Cost of Artificial Intelligence: Carbon, Water and Land Footprints of AI Systems.*
 UN University Institute for Water, Environment and Health, Hamilton, Ontario.
 Frames AI's environmental impact as a material-system and environmental-justice issue, examining carbon, water, land, and e-waste footprints. Explicitly connects AI's environmental costs to disproportionate burden-bearing by low-income communities and Global South populations. Primary source for the environmental justice framing in [Environmental Externalities](../indirect-costs/environmental-externalities.md). `[VERIFY full publication details]`
+
+---
+
+### Utility Dive / Paces (2026)
+Kyle Baranko, "How AI fits in the energy development workflow," *Utility Dive* (22 Jun 2026). Sponsored by Paces. Key findings: energy and utilities AI adoption rate of approximately 13.6% (among the lowest across major industries); data centres drove roughly half of all US electricity demand growth in 2025; energy development AI must be jurisdiction-specific to transfer across markets; four high-value workflow areas identified (site origination, triage, project tracking, community sentiment); recommended entry point is the highest-volume, most repetitive workflow. Sponsored content; workflow analysis from a vendor perspective. Cited in: [Energy: Pilot-to-Production Gap](energy-pilot-gap.md).
 
 ---
 

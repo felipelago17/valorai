@@ -23,6 +23,10 @@ These figures are not assumptions — they are empirical reference points. A val
 | Internal AI builds that stall, relative to externally-integrated systems | ~3× higher rate | Anyreach (2026) `[VERIFY]` |
 | McKinsey GenAI annual economic value estimate | $2.6–4.4 tn/year | McKinsey Global Institute `[VERIFY edition]` |
 | Gartner agentic-AI enterprise abandonment forecast | >40% of projects by 2027 | Gartner (2024) `[VERIFY]` |
+| AI initiatives failing to deliver measurable value (energy sector) | Up to 95% | AI in Energy Summit 2026 Insights Report [A] (self-reported, 130+ leaders) |
+| Energy organisations highly prepared for AI (workflows embedded, staff AI-fluent) | 17% | AI in Energy Summit 2026 Insights Report [A] (self-reported) |
+| Minimum accuracy threshold for production AI trust (energy sector) | ~85% | AI in Energy Summit 2026 Insights Report [A] (self-reported) |
+| Energy & utilities AI adoption rate | ~13.6% | Utility Dive / Paces (2026) [B] |
 
 ---
 
@@ -40,6 +44,8 @@ These figures are not assumptions — they are empirical reference points. A val
 
 ## Sources
 
+- [A] Oil & Gas IQ, "Why Most AI Pilots in Oil and Gas Still Fail to Scale" (8 Jun 2026); figures from the *AI in Energy Summit 2026 Insights Report* (survey of 130+ energy leaders). Figures are self-reported or summit-survey-derived.
+- [B] Utility Dive (sponsored by Paces), "How AI fits in the energy development workflow," K. Baranko (22 Jun 2026). Sponsored content.
 - Anyreach (2026). *The Hidden Costs of AI in Business.* Industry analysis.
 - Meta-Intelligence (2025). *State of AI in Business 2025.* Meta-analysis.
 - MIT NANDA (2025). *The GenAI Divide: State of AI in Business 2025.*

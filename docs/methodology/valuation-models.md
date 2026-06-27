@@ -40,8 +40,23 @@ A defensible AI TCO model must treat the following as explicit line items, not r
 | Environmental externalities | Energy and water costs; carbon pricing or offset obligations; disclosure compliance |
 | Labour & supply-chain | Annotation and moderation contractor costs; ESG audit and remediation exposure |
 | Governance & shadow AI | Unmanaged AI tool usage carrying data-leakage and compliance risk; tooling and audit costs |
+| POC & scaling debt | Sunk pilot spend on initiatives that never reach production; opportunity cost of diverted capital; change fatigue from repeated failed deployments |
 
 The 40–60% figure is drawn from independent research aggregated in the [Base Rates table](../evidence/base-rates.md). It is a finding about *existing practice*, not a pessimistic assumption — organisations that plan for these costs explicitly tend to experience smaller overruns.
+
+### Embedding Depth as a Benefit-Realisation Gate
+
+Projected benefits are conditional on how deeply the AI system is embedded into operational decision-making. Field evidence from the energy sector (130+ leaders surveyed, AI in Energy Summit 2026) finds that AI tools placed in analytics dashboards or reporting layers — rather than directly in the workflows where decisions are made — rarely generate the productivity gains forecast at procurement. ROI materialises when the AI output is at the decision point, not adjacent to it.
+
+Apply an embedding-depth multiplier to the projected benefit before computing ROI:
+
+| Embedding level | Description | Benefit realisation multiplier |
+|---|---|---|
+| Dashboard / analytics layer | Outputs available for review; no direct workflow integration | 0.1–0.3× |
+| Workflow-embedded | Outputs surface within the tool or process where decisions occur | 0.5–0.7× |
+| Action-enabling | AI output directly triggers or enables the next operational step | 0.9–1.0× |
+
+These multipliers are illustrative starting points, calibrated against the finding that up to 95% of AI initiatives in data-rich sectors fail to deliver measurable value — largely because embedding depth is insufficient. See [Field Evidence: Energy Pilot-to-Production Gap](../evidence/energy-pilot-gap.md).
 
 ### Structuring the TCO Calculation
 
