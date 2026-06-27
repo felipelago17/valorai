@@ -10,6 +10,7 @@ sectors: [cross-sector]
 value_dimensions: [productivity, revenue, cost-to-serve]
 cost_dimensions: []
 stance: value-positive
+also_cited_in: docs/evidence/bibliography.md
 key_metrics:
   - "$2.6–4.4 trillion estimated annual value potential across ~63 use cases [VERIFY]"
   - "Value concentrated in four functions: customer operations, marketing/sales, software engineering, R&D"

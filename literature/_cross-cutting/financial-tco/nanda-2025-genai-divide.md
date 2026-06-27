@@ -10,6 +10,7 @@ sectors: [cross-sector]
 value_dimensions: [revenue, cost-to-serve]
 cost_dimensions: [financial-tco]
 stance: reality-check
+also_cited_in: docs/evidence/bibliography.md
 key_metrics:
   - "~95% of GenAI pilots showed no measurable P&L impact across approximately $30–40B enterprise spend"
   - "~5% of deeply integrated AI systems created significant business value"
@@ -27,7 +28,7 @@ Empirically grounds the 95% pilot-failure base rate; provides the shadow AI gove
 
 ## Caveats / limits
 
-Industry report; not peer-reviewed. Specific methodology for P&L attribution not fully disclosed. Published July 2025 by MIT Project NANDA. Already present in abbreviated form in `docs/evidence/bibliography.md`.
+Industry report; not peer-reviewed. Specific methodology for P&L attribution not fully disclosed. Published July 2025 by MIT Project NANDA.
 
 ## Citation
 

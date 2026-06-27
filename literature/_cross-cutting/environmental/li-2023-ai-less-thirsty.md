@@ -10,6 +10,7 @@ sectors: [cross-sector]
 value_dimensions: []
 cost_dimensions: [environmental]
 stance: cost-cautionary
+also_cited_in: docs/evidence/bibliography.md
 key_metrics:
   - "Data-centre cooling responsible for significant freshwater consumption per training run and per inference"
   - "Training a large language model can consume hundreds of thousands of litres of water"
@@ -19,7 +20,7 @@ relevance_to_valorai: Adds the freshwater dimension to environmental cost scorin
 
 ## Summary
 
-Li and colleagues drew attention to the freshwater consumption of AI systems, which had received substantially less public attention than energy use. Data-centre cooling systems, particularly evaporative cooling towers, consume large quantities of freshwater in proportion to their energy load. Training large models entails a significant water footprint, and inference at scale compounds this. The paper provides estimation methodology and highlights the geographic variation in water-stress risk for data-centre siting. Already present in abbreviated form in `docs/evidence/bibliography.md` and `docs/indirect-costs/environmental-externalities.md`.
+Li and colleagues drew attention to the freshwater consumption of AI systems, which had received substantially less public attention than energy use. Data-centre cooling systems, particularly evaporative cooling towers, consume large quantities of freshwater in proportion to their energy load. Training large models entails a significant water footprint, and inference at scale compounds this. The paper provides estimation methodology and highlights the geographic variation in water-stress risk for data-centre siting.
 
 ## What it lets valorai measure
 

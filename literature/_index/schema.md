@@ -19,6 +19,7 @@ sectors:         # all relevant sector slugs (list)
 value_dimensions:   # subset of the value list (see below)
 cost_dimensions:    # subset of the cost list (see below)
 stance:          # value-positive | cost-cautionary | mixed | reality-check
+also_cited_in:   # optional — path(s) to other valorai files that cite this work
 key_metrics:     # 1-3 quantified claims, if any
 relevance_to_valorai:  # one line: what this lets us measure
 ---
