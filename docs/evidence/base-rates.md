@@ -18,8 +18,9 @@ These figures are not assumptions — they are empirical reference points. A val
 | Workers using personal AI tools at work | ~90% | MIT NANDA, *The GenAI Divide* (2025) |
 | Workers using officially provisioned AI tools | ~40% | MIT NANDA, *The GenAI Divide* (2025) |
 | Water consumption per kWh of data-centre energy (cooling) | ~2 L/kWh | MIT News (2025) `[VERIFY]` |
-| AI carbon footprint, 2025 (estimated range) | 32.6–79.7 Mt CO₂e | ScienceDirect (2025) `[VERIFY specific article]` |
-| AI water footprint, 2025 (estimated range) | 312.5–764.6 bn L | ScienceDirect (2025) `[VERIFY specific article]` |
+| AI search electricity demand if every Google query used ChatGPT-level compute (illustrative scenario) | ~29 TWh/year | de Vries (2023) [E] `[VERIFY exact figure against paper]` — commentary; not measured data |
+| AI carbon footprint, 2025 (estimated range) | 32.6–79.7 Mt CO₂e | `[VERIFY: 2025 scoping review — citation not yet confirmed; see Note below]` |
+| AI water footprint, 2025 (estimated range) | 312.5–764.6 bn L | `[VERIFY: 2025 scoping review — citation not yet confirmed; see Note below]` |
 | Internal AI builds that stall, relative to externally-integrated systems | ~3× higher rate | Anyreach (2026) `[VERIFY]` |
 | McKinsey GenAI annual economic value estimate | $2.6–4.4 tn/year | McKinsey Global Institute `[VERIFY edition]` |
 | Gartner agentic-AI enterprise abandonment forecast | >40% of projects by 2027 | Gartner (2024) `[VERIFY]` |
@@ -120,6 +121,8 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 **The 95% no-P&L figure.** The finding that approximately 95% of GenAI pilots produce no measurable profit-and-loss impact (MIT NANDA 2025) is striking and frequently contested. It does not mean that 95% of AI deployments are worthless — it means that the measurement infrastructure to attribute P&L impact to AI pilots is largely absent. This is a measurement failure as much as a deployment failure, and it reinforces the case for the measurement discipline described in [Measurement Discipline](../methodology/measurement-discipline.md).
 
+**The AI carbon and water footprint figures (currently `[VERIFY]`).** The 32.6–79.7 Mt CO₂e and 312.5–764.6 bn L figures were originally sourced to a 2025 ScienceDirect article that has not yet been positively identified. They should not be cited until the primary source is confirmed. For verified environmental evidence use: de Vries (2023) [E] for an order-of-magnitude electricity demand scenario; Luccioni, Jernite & Strubell (2024) for per-inference energy and carbon measurements; IEA *Energy and AI* (2025) for data-centre demand projections; and Li et al. (2023) for AI water footprint methodology. The two open rows are retained as placeholders to flag this gap, not as evidence.
+
 **The perceived-vs-actual productivity gap (Glean [C] and METR [D]).** These two findings should always be read together. Glean reports ~11 hrs/week of self-reported savings from AI (vendor-funded, self-report); METR's RCT finds experienced developers 19% *slower* on real tasks while *feeling* ~20% faster. Neither result invalidates the other — they measure different things in different populations — but their combination is the clearest empirical illustration of the analysis-placebo problem ValorAI addresses: individual perception systematically diverges from measured outcome. The METR result is an early-2025 tools snapshot and should not be treated as a fixed constant; tools have since changed and results in other contexts may differ.
 
 **The McKinsey and Gartner figures.** These figures appear together because they represent the extremes of the current AI business discourse: McKinsey's $2.6–4.4 trillion annual economic value estimate is often cited to justify AI investment; Gartner's agentic-AI abandonment forecast is cited as a corrective. Neither is wrong, but neither is sufficient without the full-lifecycle cost analysis this framework provides. High potential value and high abandonment rates are not contradictory — they describe an investment landscape with large upside and poor average execution.
@@ -130,6 +133,7 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 - [A] Oil & Gas IQ, "Why Most AI Pilots in Oil and Gas Still Fail to Scale" (8 Jun 2026); figures from the *AI in Energy Summit 2026 Insights Report* (survey of 130+ energy leaders). Figures are self-reported or summit-survey-derived.
 - [B] Utility Dive (sponsored by Paces), "How AI fits in the energy development workflow," K. Baranko (22 Jun 2026). Sponsored content.
+- [E] de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 — Commentary/letter; illustrative scenario (back-of-envelope), not measured data. Triangulate with Luccioni et al. (2024) for per-inference emissions and IEA *Energy and AI* (2025) for data-centre demand trajectory. See [literature note](../literature/bibliography.md).
 - [D] Becker, J., Rush, N., Barnes, B. & Rein, D. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.* METR. arXiv:2507.09089. https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ — RCT; n=16 devs, 246 tasks; independent, non-vendor. Early-2025 tools snapshot. See [literature note](../literature/bibliography.md).
 - [C] Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Survey of 6,000 full-time digital workers (US/UK/Australia, Dec 2025–Jan 2026). Vendor-funded; self-reported. [VERIFY exact URL/date]
 - Anyreach (2026). *The Hidden Costs of AI in Business.* Industry analysis.
