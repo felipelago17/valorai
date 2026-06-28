@@ -10,7 +10,9 @@ This is changing. Carbon pricing mechanisms, water-risk frameworks, mandatory cl
 
 ### Carbon Footprint
 
-Estimates of AI's aggregate carbon footprint carry wide uncertainty bands, reflecting the diversity of hardware configurations, energy sources, and estimation methodologies in use. Research aggregated by ScienceDirect (2025) places AI's total carbon footprint at approximately **32.6–79.7 million tonnes of CO₂ equivalent** for 2025. This range spans a factor of roughly 2.5, reflecting genuine uncertainty rather than methodological sloppiness — the lower bound reflects optimistic assumptions about grid decarbonisation and hardware efficiency, while the upper bound applies more conservative assumptions.
+Estimates of AI's aggregate carbon footprint carry wide uncertainty bands, reflecting the diversity of hardware configurations, energy sources, and estimation methodologies in use. A 2025 scoping review on generative-AI carbon and water footprints places AI's total carbon footprint at approximately **32.6–79.7 million tonnes of CO₂ equivalent** for 2025 `[VERIFY: 2025 scoping review — full citation not yet confirmed; do not cite until source is identified]`. This range spans a factor of roughly 2.5, reflecting genuine uncertainty rather than methodological sloppiness — the lower bound reflects optimistic assumptions about grid decarbonisation and hardware efficiency, while the upper bound applies more conservative assumptions.
+
+For a verified order-of-magnitude anchor: de Vries (2023) constructs an illustrative scenario in which, if every Google search used ChatGPT-level compute, AI electricity demand could reach roughly **29 TWh per year** — comparable to Ireland's annual electricity consumption. This is a back-of-envelope projection rather than measured data, and model efficiencies have changed since 2023; triangulate with Luccioni, Jernite & Strubell (2024) for per-inference emission measurements and IEA *Energy and AI* (2025) for the verified data-centre demand trajectory (~945 TWh by 2030).
 
 For individual organisations, the relevant question is not the aggregate but the attributable share: what portion of this footprint corresponds to the AI systems the organisation operates or procures? This calculation requires knowing the energy consumption of the relevant compute, the carbon intensity of the electricity grid supplying that compute, and the embodied carbon of the hardware involved.
 
@@ -18,7 +20,7 @@ For individual organisations, the relevant question is not the aggregate but the
 
 Data centre cooling requires substantial quantities of water. Li and colleagues (2023) documented what they termed the "secret water footprint" of AI models, drawing attention to the gap between the public discussion of AI's energy use and the largely unreported water consumption associated with cooling. A useful approximation is that data centre cooling systems consume approximately **2 litres of water per kilowatt-hour of electrical energy consumed** (MIT News 2025), though this varies significantly by cooling technology, climate zone, and local infrastructure.
 
-At aggregate scale, ScienceDirect (2025) estimates AI's total water footprint for 2025 at approximately **312.5–764.6 billion litres** — a range carrying the same uncertainty structure as the carbon estimates. The lower bound assumes widespread adoption of more efficient cooling technologies; the upper bound applies current average consumption rates.
+At aggregate scale, the same 2025 scoping review estimates AI's total water footprint at approximately **312.5–764.6 billion litres** for 2025 `[VERIFY: same unconfirmed source as CO₂e figure above]`. The lower bound assumes widespread adoption of more efficient cooling technologies; the upper bound applies current average consumption rates. Li et al. (2023) remains the verified primary source for AI water-footprint methodology.
 
 The financial materiality of water consumption is highest in water-stressed regions, where operational risk from water scarcity, water pricing, or regulatory restrictions on consumption can directly affect data centre operations.
 
@@ -47,6 +49,7 @@ Environmental cost estimates carry inherent uncertainty and should be presented 
 
 - United Nations University INWEH (2025). *Environmental Cost of Artificial Intelligence: Carbon, Water and Land Footprints of AI Systems.* — Material-system framing; environmental justice; aggregate footprint estimates.
 - Li, P., Yang, J., Islam, M. A. & Ren, S. (2023). *Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models.* arXiv:2304.03271.
-- Nature Sustainability (2025). *Environmental impact and net-zero pathways for sustainable AI servers in the USA.* — US-focused water and carbon footprint projections.
+- de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 — Commentary; illustrative electricity demand scenario (~29 TWh/yr). Not measured data; triangulate with Luccioni et al. (2024) and IEA (2025).
+- Nature Sustainability (2025). *Environmental impact and net-zero pathways for sustainable AI servers in the USA.* — US-focused water and carbon footprint projections. `[VERIFY full author list and article title]`
 - MIT News (2025). *Water consumption of AI and data centres.* — 2 L/kWh cooling approximation. `[VERIFY]`
-- ScienceDirect (2025). Aggregate AI carbon and water footprint estimates, 32.6–79.7 Mt CO₂ and 312.5–764.6 bn L. — `[VERIFY specific article citation]`
+- 2025 scoping review on generative-AI carbon and water footprints. — Source of 32.6–79.7 Mt CO₂e and 312.5–764.6 bn L aggregate estimates. `[VERIFY: full citation not yet confirmed — do not cite until identified]`

@@ -16,6 +16,8 @@ Brynjolfsson, E., Li, D. & Raymond, L. R. (2023). *Generative AI at Work.* NBER 
 
 Challapally, A., Pease, C., Raskar, R. & Chari, P. (2025). *The GenAI Divide: State of AI in Business 2025.* MIT Project NANDA, July 2025. **→ also in `docs/evidence/bibliography.md`**
 
+de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 [COMMENTARY/LETTER — illustrative projections, not measured data; triangulate with Luccioni et al. (2024) and IEA (2025)]
+
 Dell'Acqua, F., McFowland, E., Mollick, E. R., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K. R. (2023). Navigating the jagged technological frontier: Field experimental evidence of the effects of AI on knowledge worker productivity and quality. *Harvard Business School Working Paper* 24-013. https://doi.org/10.2139/ssrn.4573321
 
 Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Work AI Institute (Glean). [VERIFY exact URL/date — ~June 2026] [VENDOR-FUNDED; SELF-REPORT]

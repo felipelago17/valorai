@@ -29,6 +29,13 @@ Survey study of 666 participants examining the relationship between AI tool use 
 
 ---
 
+### de Vries, A. (2023)
+*The growing energy footprint of artificial intelligence.*
+*Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 · PII: S2542435123003653. Cell Press (Elsevier).
+Short commentary constructing an illustrative electricity demand scenario: if every Google search used ChatGPT-level compute, AI electricity demand could reach roughly 29 TWh/year — comparable to a small country's annual consumption `[VERIFY exact figure against paper]`. The most widely cited order-of-magnitude anchor for AI energy demand growth. **Important caveat:** this is a back-of-envelope projection based on 2023 model generations and query volumes, not measured data. Model efficiencies and deployment scales have changed since publication. Triangulate with Luccioni, Jernite & Strubell (2024) for per-inference emission measurements and IEA *Energy and AI* (2025) for the realised data-centre demand trajectory. Cited in: [Environmental Externalities](../indirect-costs/environmental-externalities.md), [Base Rates](base-rates.md).
+
+---
+
 ### Gray, M. L. & Suri, S. (2019)
 *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass.*
 Harper Collins, New York.
