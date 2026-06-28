@@ -32,6 +32,7 @@ These figures are not assumptions — they are empirical reference points. A val
 | AI-engaged time consumed by "botsitting" (supervising, context-feeding, cleanup) | ~6.4 hrs/wk (~37%) | Glean Work AI Institute (2026) [C] [VENDOR-FUNDED; SELF-REPORT] |
 | Organisations reporting significantly better performance from AI | ~13% | Glean Work AI Institute (2026) [C] — consistent with MIT Sloan figure above |
 | Workers admitting "botshitting" (shipping AI output they did not verify) | 69% | Glean Work AI Institute (2026) [C] [VENDOR-FUNDED; SELF-REPORT] |
+| AI task completion time vs without AI (experienced OSS developers, RCT) | 19% *slower* (95% CI +2% to +39%); perceived ~20% *faster* | Becker et al. / METR (2025) [D] [INDEPENDENT; RCT; early-2025 snapshot] |
 
 ---
 
@@ -119,6 +120,8 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 **The 95% no-P&L figure.** The finding that approximately 95% of GenAI pilots produce no measurable profit-and-loss impact (MIT NANDA 2025) is striking and frequently contested. It does not mean that 95% of AI deployments are worthless — it means that the measurement infrastructure to attribute P&L impact to AI pilots is largely absent. This is a measurement failure as much as a deployment failure, and it reinforces the case for the measurement discipline described in [Measurement Discipline](../methodology/measurement-discipline.md).
 
+**The perceived-vs-actual productivity gap (Glean [C] and METR [D]).** These two findings should always be read together. Glean reports ~11 hrs/week of self-reported savings from AI (vendor-funded, self-report); METR's RCT finds experienced developers 19% *slower* on real tasks while *feeling* ~20% faster. Neither result invalidates the other — they measure different things in different populations — but their combination is the clearest empirical illustration of the analysis-placebo problem ValorAI addresses: individual perception systematically diverges from measured outcome. The METR result is an early-2025 tools snapshot and should not be treated as a fixed constant; tools have since changed and results in other contexts may differ.
+
 **The McKinsey and Gartner figures.** These figures appear together because they represent the extremes of the current AI business discourse: McKinsey's $2.6–4.4 trillion annual economic value estimate is often cited to justify AI investment; Gartner's agentic-AI abandonment forecast is cited as a corrective. Neither is wrong, but neither is sufficient without the full-lifecycle cost analysis this framework provides. High potential value and high abandonment rates are not contradictory — they describe an investment landscape with large upside and poor average execution.
 
 ---
@@ -127,6 +130,7 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 - [A] Oil & Gas IQ, "Why Most AI Pilots in Oil and Gas Still Fail to Scale" (8 Jun 2026); figures from the *AI in Energy Summit 2026 Insights Report* (survey of 130+ energy leaders). Figures are self-reported or summit-survey-derived.
 - [B] Utility Dive (sponsored by Paces), "How AI fits in the energy development workflow," K. Baranko (22 Jun 2026). Sponsored content.
+- [D] Becker, J., Rush, N., Barnes, B. & Rein, D. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.* METR. arXiv:2507.09089. https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ — RCT; n=16 devs, 246 tasks; independent, non-vendor. Early-2025 tools snapshot. See [literature note](../literature/bibliography.md).
 - [C] Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Survey of 6,000 full-time digital workers (US/UK/Australia, Dec 2025–Jan 2026). Vendor-funded; self-reported. [VERIFY exact URL/date]
 - Anyreach (2026). *The Hidden Costs of AI in Business.* Industry analysis.
 - Meta-Intelligence (2025). *State of AI in Business 2025.* Meta-analysis.
