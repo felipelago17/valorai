@@ -9,6 +9,8 @@ Acemoglu, D. (2025). The simple macroeconomics of AI. *Economic Policy,* 40(121)
 
 Acemoglu, D. & Restrepo, P. (2022). Tasks, automation, and the rise in US wage inequality. *Econometrica,* 90(5), 1973–2016.
 
+Becker, J., Rush, N., Barnes, B. & Rein, D. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.* METR. arXiv:2507.09089. https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ [INDEPENDENT; RCT; EARLY-2025-TOOLS-SNAPSHOT]
+
 Brynjolfsson, E., Li, D. & Raymond, L. R. (2023). *Generative AI at Work.* NBER Working Paper No. 31161. National Bureau of Economic Research. https://doi.org/10.3386/w31161
 
 Challapally, A., Pease, C., Raskar, R. & Chari, P. (2025). *The GenAI Divide: State of AI in Business 2025.* MIT Project NANDA, July 2025. → also cited in `docs/evidence/bibliography.md`

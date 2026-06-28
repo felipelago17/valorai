@@ -36,7 +36,7 @@ The table below consolidates the best available quantitative anchors for the ver
 **Triangulation — do not use the Glean figures in isolation:**
 
 - **MIT NANDA, *The GenAI Divide* (2025)** — ~95% of enterprise GenAI pilots show no measurable P&L impact across ~$30–40B spend. This is independent of self-reported time savings and sets a ceiling on how much individual efficiency gain aggregates to organisational value.
-- **METR (2025) developer-productivity RCT** — experienced software engineers were ~19% *slower* on real tasks with AI assistance while *feeling* more productive (independent, non-vendor, controlled design). This directly caps confidence in the "~11 hrs saved" side of the Glean ledger and suggests perceived-vs-measured divergence is a systematic bias. `[VERIFY: METR (2025) — not yet in literature library]`
+- **Becker et al. / METR (2025) developer-productivity RCT** — 16 experienced open-source developers completed 246 real tasks; AI-allowed tasks took 19% *longer* (95% CI +2% to +39%) while developers *felt* 20–24% faster. Experts had forecast ~38% speedup. 21 confounds tested; slowdown robust. This directly caps confidence in the "~11 hrs saved" side of the Glean ledger and quantifies the perceived-vs-measured divergence that ValorAI's framework exists to correct. (arXiv:2507.09089 — independent, non-vendor RCT; early-2025 tools snapshot, since superseded.)
 
 **Usage guidance:** Apply the 6.4-hr figure as a directional prior for the Verification & Oversight category and the Knowledge-work row in the [Sector Lenses](../sector-lenses.md) matrix. Distinguish *necessary oversight* (value-preserving review that prevents error propagation) from *avoidable rework* (caused by poor prompt design or miscalibrated tool selection) when building a line-item estimate — the 6.4 hrs is not all waste, and conflating the two inflates the cost and misframes the remediation.
 
@@ -70,4 +70,4 @@ A conservative approach is to assume a 15–25% deduction from projected efficie
 - Anyreach (2026). *The Hidden Costs of AI in Business.* — Verification overhead as a cost category.
 - Meta-Intelligence (2025). *State of AI in Business 2025.* — Benefit erosion from oversight costs.
 - Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* [VENDOR-FUNDED; SELF-REPORT; VERIFY exact URL/date] — Botsitting and botshitting base rates; 13% org improvement finding.
-- METR (2025). Developer-productivity RCT with experienced engineers. [VERIFY: not yet in literature library] — ~19% task slowdown with AI despite perceived speedup; independent ceiling on self-reported efficiency gains.
+- Becker, J., Rush, N., Barnes, B. & Rein, D. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.* METR. arXiv:2507.09089. — 19% task slowdown despite perceived speedup; RCT anchor for the perceived-vs-actual productivity gap.
