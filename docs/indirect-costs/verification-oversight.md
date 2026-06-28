@@ -20,6 +20,28 @@ Research on human-AI collaboration in knowledge-work settings documents a consis
 
 **Human-in-the-loop overhead.** Many AI deployments are presented as autonomous but are, in practice, human-in-the-loop systems: the AI produces candidates and humans make final decisions. The overhead of structuring this interaction, training staff to perform it well, and maintaining the governance processes around it is an ongoing operational cost.
 
+### Knowledge-work verification overhead: base-rate evidence
+
+The table below consolidates the best available quantitative anchors for the verification cost in knowledge-work contexts. All figures carry significant uncertainty and should be used as directional priors, not point estimates.
+
+| Metric | Illustrative range | Reported point | Basis |
+|---|---|---|---|
+| "Botsitting" time (supervising, context-feeding, rework) | ~5–7 hrs/week | 6.4 hrs/wk | self-report, n=6,000 |
+| Share of a standard 40-hr week | ~13–18% | ~16% | derived |
+| Share of AI-engaged time | ~30–40% | ~37% | derived (6.4 ÷ (6.4 + ~11 hrs saved)) |
+| Workers shipping unverified AI output ("botshitting") | — | 69% of users | self-report |
+
+**Flags:** `[VENDOR-FUNDED]` (Glean — sells the context-layer product that the botsitting construct motivates) · `[SELF-REPORT]` (worker estimates; time-savings figures especially prone to inflation).
+
+**Triangulation — do not use the Glean figures in isolation:**
+
+- **MIT NANDA, *The GenAI Divide* (2025)** — ~95% of enterprise GenAI pilots show no measurable P&L impact across ~$30–40B spend. This is independent of self-reported time savings and sets a ceiling on how much individual efficiency gain aggregates to organisational value.
+- **METR (2025) developer-productivity RCT** — experienced software engineers were ~19% *slower* on real tasks with AI assistance while *feeling* more productive (independent, non-vendor, controlled design). This directly caps confidence in the "~11 hrs saved" side of the Glean ledger and suggests perceived-vs-measured divergence is a systematic bias. `[VERIFY: METR (2025) — not yet in literature library]`
+
+**Usage guidance:** Apply the 6.4-hr figure as a directional prior for the Verification & Oversight category and the Knowledge-work row in the [Sector Lenses](../sector-lenses.md) matrix. Distinguish *necessary oversight* (value-preserving review that prevents error propagation) from *avoidable rework* (caused by poor prompt design or miscalibrated tool selection) when building a line-item estimate — the 6.4 hrs is not all waste, and conflating the two inflates the cost and misframes the remediation.
+
+*Source: Glean Work AI Institute (2026). See [literature note](../literature/bibliography.md#glean-work-ai-institute-hinds-r-et-al-2026). Last reviewed: 2026-06-28.*
+
 ## Implications for Productivity Projections
 
 Standard AI business cases project productivity gains as a percentage of working time saved. These projections are typically derived from vendor benchmarks or from controlled studies conducted under conditions that do not replicate operational environments. In particular:
@@ -47,3 +69,5 @@ A conservative approach is to assume a 15–25% deduction from projected efficie
 - Hubbard, D. W., Budzier, A. & Bang Leed, A. *How to Measure Anything in Project Management.* Wiley. — Analysis placebo and accuracy vs. confidence.
 - Anyreach (2026). *The Hidden Costs of AI in Business.* — Verification overhead as a cost category.
 - Meta-Intelligence (2025). *State of AI in Business 2025.* — Benefit erosion from oversight costs.
+- Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* [VENDOR-FUNDED; SELF-REPORT; VERIFY exact URL/date] — Botsitting and botshitting base rates; 13% org improvement finding.
+- METR (2025). Developer-productivity RCT with experienced engineers. [VERIFY: not yet in literature library] — ~19% task slowdown with AI despite perceived speedup; independent ceiling on self-reported efficiency gains.
