@@ -18,6 +18,8 @@ Challapally, A., Pease, C., Raskar, R. & Chari, P. (2025). *The GenAI Divide: St
 
 de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 [COMMENTARY/LETTER — illustrative projections, not measured data; triangulate with Luccioni et al. (2024) and IEA (2025)]
 
+de Vries-Gao, A. (2025). The carbon and water footprints of data centers and what this could mean for artificial intelligence. *Patterns* (Cell Press). PII: S2666389925002788. https://www.cell.com/patterns/fulltext/S2666-3899(25)00278-8. DOI: 10.1016/j.patter.2025.[VERIFY suffix] [DISCLOSURE-LIMITED ESTIMATES — wide ranges reflect operator non-disclosure; present as ranges only] **→ also in `docs/evidence/bibliography.md`**
+
 Dell'Acqua, F., McFowland, E., Mollick, E. R., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K. R. (2023). Navigating the jagged technological frontier: Field experimental evidence of the effects of AI on knowledge worker productivity and quality. *Harvard Business School Working Paper* 24-013. https://doi.org/10.2139/ssrn.4573321
 
 Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Work AI Institute (Glean). [VERIFY exact URL/date — ~June 2026] [VENDOR-FUNDED; SELF-REPORT]

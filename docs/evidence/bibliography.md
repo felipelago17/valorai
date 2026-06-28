@@ -29,6 +29,13 @@ Survey study of 666 participants examining the relationship between AI tool use 
 
 ---
 
+### de Vries-Gao, A. (2025)
+*The carbon and water footprints of data centers and what this could mean for artificial intelligence.*
+*Patterns* (Cell Press, open access). PII: S2666389925002788. https://www.cell.com/patterns/fulltext/S2666-3899(25)00278-8. DOI: 10.1016/j.patter.2025.[VERIFY suffix from article page].
+Peer-reviewed research article quantifying the carbon and water footprints of data centres and projecting implications for AI growth. Key estimates: AI 2025 carbon footprint 32.6–79.7 Mt CO₂ equivalent; AI 2025 water footprint 312.5–764.6 billion litres. **Critical caveat:** the wide ranges are *disclosure-limited estimates* — they directly reflect the absence of operator-reported AI-specific energy and water data. The spread is the signal. Do not cite mid-points as point estimates; always present the full range and note this caveat. Same author as de Vries (2023) *Joule* commentary. Triangulate with Luccioni, Jernite & Strubell (2024) for per-inference measurements, IEA *Energy and AI* (2025) for data-centre demand trajectory, and Li et al. (2023) for water footprint methodology. Cited in: [Environmental Externalities](../indirect-costs/environmental-externalities.md), [Base Rates](base-rates.md).
+
+---
+
 ### de Vries, A. (2023)
 *The growing energy footprint of artificial intelligence.*
 *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 · PII: S2542435123003653. Cell Press (Elsevier).
@@ -119,6 +126,19 @@ Frames AI's environmental impact as a material-system and environmental-justice 
 
 ### Utility Dive / Paces (2026)
 Kyle Baranko, "How AI fits in the energy development workflow," *Utility Dive* (22 Jun 2026). Sponsored by Paces. Key findings: energy and utilities AI adoption rate of approximately 13.6% (among the lowest across major industries); data centres drove roughly half of all US electricity demand growth in 2025; energy development AI must be jurisdiction-specific to transfer across markets; four high-value workflow areas identified (site origination, triage, project tracking, community sentiment); recommended entry point is the highest-volume, most repetitive workflow. Sponsored content; workflow analysis from a vendor perspective. Cited in: [Energy: Pilot-to-Production Gap](energy-pilot-gap.md).
+
+---
+
+### Flyvbjerg, B. & Budzier, A. (2011)
+"Why your IT project may be riskier than you think."
+*Harvard Business Review,* September 2011.
+Empirical analysis of IT project cost and schedule overruns across a large dataset, establishing that the distribution is fat-tailed (not normally distributed). Key finding: mean cost overrun approximately 27%, but roughly 1 in 6 projects becomes a "black swan" — exceeding 200% cost overrun and 70% schedule overrun. The practical implication is that average-based contingency planning systematically underestimates risk from the worst-case tail. Provides the cross-sector prior for the integration-cost baseline in ValorAI: the Anyreach (2026) 2–3× AI-specific cost expansion is consistent with and extends this general IT finding. Cited in: [Integration & Implementation](../indirect-costs/integration-implementation.md), [Base Rates](base-rates.md). `[VERIFY exact figures against article]`
+
+---
+
+### Standish Group
+*CHAOS Reports* (periodic, various years).
+Annual and periodic reports on software project outcomes: "successful," "challenged" (over budget / over time / under scope), and "failed" (cancelled or abandoned). Historically: success rates 29–42%, challenged 40–50%, failed 18–25%, varying by year and definition. Widely cited as the baseline for software and IT project delivery risk. **Methodological caution:** sampling methodology, success criteria, and project scope definitions vary across editions and are not fully disclosed. Treat as directional, not benchmarks; always triangulate with Flyvbjerg & Budzier (2011), which is methodologically stronger. Cited in: [Integration & Implementation](../indirect-costs/integration-implementation.md), [Base Rates](base-rates.md). `[VERIFY edition and year for any specific figure cited]`
 
 ---
 
