@@ -19,8 +19,10 @@ These figures are not assumptions — they are empirical reference points. A val
 | Workers using officially provisioned AI tools | ~40% | MIT NANDA, *The GenAI Divide* (2025) |
 | Water consumption per kWh of data-centre energy (cooling) | ~2 L/kWh | MIT News (2025) `[VERIFY]` |
 | AI search electricity demand if every Google query used ChatGPT-level compute (illustrative scenario) | ~29 TWh/year | de Vries (2023) [E] `[VERIFY exact figure against paper]` — commentary; not measured data |
-| AI carbon footprint, 2025 (estimated range) | 32.6–79.7 Mt CO₂e | `[VERIFY: 2025 scoping review — citation not yet confirmed; see Note below]` |
-| AI water footprint, 2025 (estimated range) | 312.5–764.6 bn L | `[VERIFY: 2025 scoping review — citation not yet confirmed; see Note below]` |
+| AI carbon footprint, 2025 (disclosure-limited estimate range) | 32.6–79.7 Mt CO₂e | de Vries-Gao (2025) [F] — peer-reviewed; wide range reflects operator non-disclosure |
+| AI water footprint, 2025 (disclosure-limited estimate range) | 312.5–764.6 bn L | de Vries-Gao (2025) [F] — peer-reviewed; wide range reflects operator non-disclosure |
+| IT project mean cost overrun (cross-sector, fat-tailed distribution) | ~27% mean; ~1-in-6 projects exceed 200% cost overrun ("black swan") | Flyvbjerg & Budzier (2011) [G] `[VERIFY exact figures against article]` |
+| Software project failure/challenged/success rates | Varies by year; historically ~29–42% success, ~40–50% challenged, ~18–25% failed | Standish Group CHAOS reports [H] `[METHODOLOGICALLY DEBATED — use as directional]` |
 | Internal AI builds that stall, relative to externally-integrated systems | ~3× higher rate | Anyreach (2026) `[VERIFY]` |
 | McKinsey GenAI annual economic value estimate | $2.6–4.4 tn/year | McKinsey Global Institute `[VERIFY edition]` |
 | Gartner agentic-AI enterprise abandonment forecast | >40% of projects by 2027 | Gartner (2024) `[VERIFY]` |
@@ -121,7 +123,9 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 **The 95% no-P&L figure.** The finding that approximately 95% of GenAI pilots produce no measurable profit-and-loss impact (MIT NANDA 2025) is striking and frequently contested. It does not mean that 95% of AI deployments are worthless — it means that the measurement infrastructure to attribute P&L impact to AI pilots is largely absent. This is a measurement failure as much as a deployment failure, and it reinforces the case for the measurement discipline described in [Measurement Discipline](../methodology/measurement-discipline.md).
 
-**The AI carbon and water footprint figures (currently `[VERIFY]`).** The 32.6–79.7 Mt CO₂e and 312.5–764.6 bn L figures were originally sourced to a 2025 ScienceDirect article that has not yet been positively identified. They should not be cited until the primary source is confirmed. For verified environmental evidence use: de Vries (2023) [E] for an order-of-magnitude electricity demand scenario; Luccioni, Jernite & Strubell (2024) for per-inference energy and carbon measurements; IEA *Energy and AI* (2025) for data-centre demand projections; and Li et al. (2023) for AI water footprint methodology. The two open rows are retained as placeholders to flag this gap, not as evidence.
+**The AI carbon and water footprint figures (de Vries-Gao [F]).** The 32.6–79.7 Mt CO₂e and 312.5–764.6 bn L figures come from de Vries-Gao (2025), a peer-reviewed open-access article in *Patterns* (Cell Press). The ranges are wide by design: they directly reflect the absence of operator-reported AI-specific energy and water data — the spread is the signal, not a modelling failure. Do not cite the mid-points as point estimates. Triangulate with: de Vries (2023) [E] for an order-of-magnitude electricity demand scenario; Luccioni, Jernite & Strubell (2024) for per-inference emission measurements; IEA *Energy and AI* (2025) for data-centre demand trajectory; Li et al. (2023) for water footprint methodology.
+
+**The IT project overrun figures (Flyvbjerg & Budzier [G] and Standish [H]).** These two sources provide the cross-sector prior for the integration-cost category. Flyvbjerg & Budzier (2011) show that IT project cost overruns follow a fat-tailed (not normal) distribution — the ~27% mean hides a long tail where roughly 1 in 6 projects becomes a "black swan" exceeding 200% cost overrun. The Standish CHAOS reports provide directional success/challenged/failed rates but are methodologically contested (sampling not fully disclosed, success criteria vary across editions). Use both as directional priors, not benchmarks; they establish the baseline from which sector-specific AI integration adjusters should bend, not the final figure.
 
 **The perceived-vs-actual productivity gap (Glean [C] and METR [D]).** These two findings should always be read together. Glean reports ~11 hrs/week of self-reported savings from AI (vendor-funded, self-report); METR's RCT finds experienced developers 19% *slower* on real tasks while *feeling* ~20% faster. Neither result invalidates the other — they measure different things in different populations — but their combination is the clearest empirical illustration of the analysis-placebo problem ValorAI addresses: individual perception systematically diverges from measured outcome. The METR result is an early-2025 tools snapshot and should not be treated as a fixed constant; tools have since changed and results in other contexts may differ.
 
@@ -133,14 +137,19 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 - [A] Oil & Gas IQ, "Why Most AI Pilots in Oil and Gas Still Fail to Scale" (8 Jun 2026); figures from the *AI in Energy Summit 2026 Insights Report* (survey of 130+ energy leaders). Figures are self-reported or summit-survey-derived.
 - [B] Utility Dive (sponsored by Paces), "How AI fits in the energy development workflow," K. Baranko (22 Jun 2026). Sponsored content.
-- [E] de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 — Commentary/letter; illustrative scenario (back-of-envelope), not measured data. Triangulate with Luccioni et al. (2024) for per-inference emissions and IEA *Energy and AI* (2025) for data-centre demand trajectory. See [literature note](../literature/bibliography.md).
-- [D] Becker, J., Rush, N., Barnes, B. & Rein, D. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.* METR. arXiv:2507.09089. https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ — RCT; n=16 devs, 246 tasks; independent, non-vendor. Early-2025 tools snapshot. See [literature note](../literature/bibliography.md).
-- [C] Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Survey of 6,000 full-time digital workers (US/UK/Australia, Dec 2025–Jan 2026). Vendor-funded; self-reported. [VERIFY exact URL/date]
+- [C] Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026.* Survey of 6,000 full-time digital workers (US/UK/Australia, Dec 2025–Jan 2026). Vendor-funded; self-reported. [VERIFY exact URL/date]
+- [D] Becker, J., Rush, N., Barnes, B. & Rein, D. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.* METR. arXiv:2507.09089. https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ — RCT; n=16, 246 tasks; independent; early-2025 snapshot. See [literature note](../literature/bibliography.md).
+- [E] de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 — Commentary/letter; illustrative scenario; not measured data. See [literature note](../literature/bibliography.md).
+- [F] de Vries-Gao, A. (2025). The carbon and water footprints of data centers and what this could mean for artificial intelligence. *Patterns* (Cell Press). PII: S2666389925002788. https://www.cell.com/patterns/fulltext/S2666-3899(25)00278-8 — Peer-reviewed; disclosure-limited estimates; present as ranges only. DOI: 10.1016/j.patter.2025.[VERIFY suffix]. See [literature note](../literature/bibliography.md).
+- [G] Flyvbjerg, B. & Budzier, A. (2011). Why your IT project may be riskier than you think. *Harvard Business Review,* September 2011. — Fat-tailed IT project overrun distribution; cross-sector prior for integration cost. `[VERIFY exact figures against article]`
+- [H] Standish Group. *CHAOS Reports* (periodic). — Software project success/challenged/failed rates. Widely cited but methodologically debated; use as directional only.
 - Anyreach (2026). *The Hidden Costs of AI in Business.* Industry analysis.
+- Gartner (2024). Agentic AI enterprise adoption forecast. `[VERIFY]`
+- IEA (2025). *Energy and AI.* https://www.iea.org/reports/energy-and-ai
+- Li, P. et al. (2023). Making AI less "thirsty". arXiv:2304.03271. — Water footprint methodology. See [literature note](../literature/bibliography.md).
+- Luccioni, A. S., Jernite, Y. & Strubell, E. (2024). Power hungry processing. FAccT '24. DOI: 10.1145/3630106.3658542. See [literature note](../literature/bibliography.md).
+- McKinsey Global Institute. GenAI economic value estimate. `[VERIFY edition and date]`
 - Meta-Intelligence (2025). *State of AI in Business 2025.* Meta-analysis.
+- MIT News (2025). Data-centre water consumption. `[VERIFY]`
 - MIT NANDA (2025). *The GenAI Divide: State of AI in Business 2025.*
 - MIT Sloan Management Review (via Meta-Intelligence 2025). Enterprise AI value quantification survey.
-- MIT News (2025). Data-centre water consumption. `[VERIFY]`
-- ScienceDirect (2025). AI environmental footprint estimates. `[VERIFY specific article citation]`
-- McKinsey Global Institute. GenAI economic value estimate. `[VERIFY edition and date]`
-- Gartner (2024). Agentic AI enterprise adoption forecast. `[VERIFY]`

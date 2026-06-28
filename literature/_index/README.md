@@ -53,6 +53,7 @@ A source may be tagged to multiple dimensions. The `stance` field (`value-positi
 | Challapally et al. (MIT NANDA) — *The GenAI Divide* | 2025 | industry-report | cross-sector | reality-check | — | financial-tco |
 | Stern — *I Am Not a Robot* | 2026 | journalism | 15-consumer-personal-household | cost-cautionary | — | cognitive-skills, social-wellbeing |
 | de Vries — *The growing energy footprint of AI* | 2023 | journal-article | cross-sector | cost-cautionary | — | environmental, financial-tco |
+| de Vries-Gao — *Carbon and water footprints of data centers* | 2025 | journal-article | cross-sector | cost-cautionary | — | environmental, financial-tco |
 | Luccioni, Jernite & Strubell — *Power Hungry Processing* | 2024 | conference-paper | cross-sector | cost-cautionary | — | environmental |
 | Li et al. — *Making AI Less "Thirsty"* | 2023 | working-paper | cross-sector | cost-cautionary | — | environmental |
 | IEA — *Energy and AI* | 2025 | gov-report | 03-energy-utilities | cost-cautionary | — | environmental |
