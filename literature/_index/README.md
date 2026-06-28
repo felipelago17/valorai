@@ -58,6 +58,7 @@ A source may be tagged to multiple dimensions. The `stance` field (`value-positi
 | Acemoglu & Restrepo — *Tasks, Automation, and the Rise in US Wage Inequality* | 2022 | journal-article | 14-human-capital-hr-future-of-work | cost-cautionary | — | labor-employment |
 | Lee et al. — *The Impact of Generative AI on Critical Thinking* | 2025 | conference-paper | cross-sector | cost-cautionary | — | cognitive-skills, trust-accountability |
 | Kosmyna et al. — *Your Brain on ChatGPT* | 2025 | working-paper | 09-education-edtech | cost-cautionary | — | cognitive-skills |
+| Becker et al. (METR) — *Measuring the Impact of Early-2025 AI on Experienced OS Dev Productivity* | 2025 | working-paper | cross-sector | reality-check | productivity, time-returned | time, trust-accountability, cognitive-skills |
 | Glean Work AI Institute — *The Work AI Index 2026* | 2026 | industry-report | cross-sector | reality-check | productivity, time-returned | time, trust-accountability, cognitive-skills, labor-employment |
 
 ---
