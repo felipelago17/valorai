@@ -27,6 +27,11 @@ These figures are not assumptions — they are empirical reference points. A val
 | Energy organisations highly prepared for AI (workflows embedded, staff AI-fluent) | 17% | AI in Energy Summit 2026 Insights Report [A] (self-reported) |
 | Minimum accuracy threshold for production AI trust (energy sector) | ~85% | AI in Energy Summit 2026 Insights Report [A] (self-reported) |
 | Energy & utilities AI adoption rate | ~13.6% | Utility Dive / Paces (2026) [B] |
+| Digital workers with AI access who use it | ~87% | Glean Work AI Institute (2026) [C] [VENDOR-FUNDED; SELF-REPORT] |
+| Self-reported weekly time saved from AI | ~11 hrs/week | Glean Work AI Institute (2026) [C] [VENDOR-FUNDED; SELF-REPORT] |
+| AI-engaged time consumed by "botsitting" (supervising, context-feeding, cleanup) | ~6.4 hrs/wk (~37%) | Glean Work AI Institute (2026) [C] [VENDOR-FUNDED; SELF-REPORT] |
+| Organisations reporting significantly better performance from AI | ~13% | Glean Work AI Institute (2026) [C] — consistent with MIT Sloan figure above |
+| Workers admitting "botshitting" (shipping AI output they did not verify) | 69% | Glean Work AI Institute (2026) [C] [VENDOR-FUNDED; SELF-REPORT] |
 
 ---
 
@@ -122,6 +127,7 @@ The figures above are cross-sector aggregates. How the 40–60% hidden-cost shar
 
 - [A] Oil & Gas IQ, "Why Most AI Pilots in Oil and Gas Still Fail to Scale" (8 Jun 2026); figures from the *AI in Energy Summit 2026 Insights Report* (survey of 130+ energy leaders). Figures are self-reported or summit-survey-derived.
 - [B] Utility Dive (sponsored by Paces), "How AI fits in the energy development workflow," K. Baranko (22 Jun 2026). Sponsored content.
+- [C] Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Survey of 6,000 full-time digital workers (US/UK/Australia, Dec 2025–Jan 2026). Vendor-funded; self-reported. [VERIFY exact URL/date]
 - Anyreach (2026). *The Hidden Costs of AI in Business.* Industry analysis.
 - Meta-Intelligence (2025). *State of AI in Business 2025.* Meta-analysis.
 - MIT NANDA (2025). *The GenAI Divide: State of AI in Business 2025.*

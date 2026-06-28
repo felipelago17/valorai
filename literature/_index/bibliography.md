@@ -15,6 +15,8 @@ Challapally, A., Pease, C., Raskar, R. & Chari, P. (2025). *The GenAI Divide: St
 
 Dell'Acqua, F., McFowland, E., Mollick, E. R., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K. R. (2023). Navigating the jagged technological frontier: Field experimental evidence of the effects of AI on knowledge worker productivity and quality. *Harvard Business School Working Paper* 24-013. https://doi.org/10.2139/ssrn.4573321
 
+Glean Work AI Institute (Hinds, R. et al.) (2026). *The Work AI Index 2026: Botsitting, Botshitting, and the Hidden Human Labor of AI at Work.* Work AI Institute (Glean). [VERIFY exact URL/date — ~June 2026] [VENDOR-FUNDED; SELF-REPORT]
+
 International Energy Agency (2025). *Energy and AI.* IEA, Paris. https://www.iea.org/reports/energy-and-ai
 
 Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I. & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. arXiv:2506.08872. Note: a published methodological critique appears at arXiv:2601.00856.
