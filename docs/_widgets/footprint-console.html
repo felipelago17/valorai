@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Environmental Footprint Console</title>
+<style>
+  :root{
+    --bg:        var(--md-default-bg-color, #0e1117);
+    --fg:        var(--md-default-fg-color, #e6edf3);
+    --fg-dim:    var(--md-default-fg-color--light, #9aa4b2);
+    --panel:     var(--md-code-bg-color, #161b22);
+    --line:      color-mix(in srgb, var(--fg) 14%, transparent);
+    --primary:   var(--md-primary-fg-color, #00b8a9);
+    --accent:    var(--md-accent-fg-color, #2dd4bf);
+    --mono: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    --body: var(--md-text-font-family, system-ui, -apple-system, Segoe UI, Roboto, sans-serif);
+    --t-live:       #16a34a;
+    --t-measured:   #2563eb;
+    --t-benchmarked:#0d9488;
+    --t-derived:    #d97706;
+    --t-modelled:   #7c3aed;
+  }
+  *{box-sizing:border-box}
+  .fc{font-family:var(--body);color:var(--fg);background:var(--bg);
+      max-width:880px;margin:0 auto;padding:4px 2px 8px;line-height:1.5}
+  .fc h2{font-size:1.05rem;margin:1.4rem 0 .2rem;letter-spacing:.01em}
+  .fc h2 .num{font-family:var(--mono);color:var(--fg-dim);font-size:.8em;margin-right:.5em}
+  .fc .lede{color:var(--fg-dim);font-size:.82rem;margin:.1rem 0 .7rem}
+  .fc .card{background:var(--panel);border:1px solid var(--line);
+            border-radius:12px;padding:14px 16px;margin:10px 0}
+  .tag{font-family:var(--mono);font-size:.6rem;font-weight:600;text-transform:uppercase;
+       letter-spacing:.08em;padding:2px 6px;border-radius:5px;white-space:nowrap;
+       border:1px solid currentColor;vertical-align:middle}
+  .tag.live{color:var(--t-live)}        .tag.measured{color:var(--t-measured)}
+  .tag.benchmarked{color:var(--t-benchmarked)} .tag.derived{color:var(--t-derived)}
+  .tag.modelled{color:var(--t-modelled)}
+  .dot{display:inline-block;width:7px;height:7px;border-radius:50%;
+       background:var(--t-live);margin-right:6px;animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  @media (prefers-reduced-motion: reduce){.dot{animation:none}}
+  .grid-row{display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
+  .stat{flex:1 1 130px}
+  .stat .v{font-family:var(--mono);font-size:1.7rem;font-weight:600;line-height:1.1}
+  .stat .k{color:var(--fg-dim);font-size:.72rem;margin-top:2px}
+  .mix{height:10px;border-radius:5px;overflow:hidden;display:flex;margin:12px 0 6px;
+       border:1px solid var(--line)}
+  .mix span{height:100%}
+  .legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:.68rem;color:var(--fg-dim);
+           font-family:var(--mono)}
+  .legend i{width:8px;height:8px;border-radius:2px;display:inline-block;margin-right:4px}
+  .idx{font-family:var(--mono);font-size:.72rem;padding:2px 8px;border-radius:20px;
+       border:1px solid var(--line)}
+  .row{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;
+       margin:8px 0;font-size:.85rem}
+  .row label{flex:1 1 180px;color:var(--fg-dim)}
+  .fc select,.fc input[type=number]{font-family:var(--mono);font-size:.85rem;
+       background:var(--bg);color:var(--fg);border:1px solid var(--line);
+       border-radius:7px;padding:6px 8px;min-width:120px}
+  .fc input[type=number]{width:110px}
+  .out{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:6px}
+  .out .o{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+  .out .o .v{font-family:var(--mono);font-size:1.35rem;font-weight:600}
+  .out .o .k{color:var(--fg-dim);font-size:.7rem;margin:2px 0 6px}
+  .ctx{font-size:.78rem;color:var(--fg-dim);margin-top:10px}
+  .switch{display:flex;align-items:center;gap:7px;font-size:.8rem;color:var(--fg-dim);margin:8px 0}
+  details.sources{margin-top:16px;font-size:.8rem}
+  details.sources summary{cursor:pointer;color:var(--accent);font-weight:600}
+  details.sources a{color:var(--accent)}
+  .honesty{border-left:3px solid var(--t-modelled);padding:8px 12px;margin-top:12px;
+           background:color-mix(in srgb,var(--t-modelled) 8%,transparent);
+           border-radius:0 8px 8px 0;font-size:.8rem}
+  .keyrow{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 2px}
+  .err{color:var(--t-derived);font-family:var(--mono);font-size:.78rem}
+</style>
+</head>
+<body>
+<section class="fc" id="fc">
+  <p class="lede" style="margin-top:6px">
+    Two layers, never blurred together. The grid panel below is <strong>real</strong>.
+    Everything under it is a <strong>model</strong>. Each figure states how it is known.
+  </p>
+  <div class="keyrow">
+    <span class="tag live">live</span>
+    <span class="tag measured">measured</span>
+    <span class="tag benchmarked">benchmarked</span>
+    <span class="tag derived">derived</span>
+    <span class="tag modelled">modelled</span>
+  </div>
+  <h2><span class="num">01</span>Live grid signal — Great Britain <span class="tag live">live</span></h2>
+  <p class="lede">National Energy System Operator Carbon Intensity API. Genuinely real-time;
+     the one non-estimated element here. Reflects the GB grid, not data centres specifically.</p>
+  <div class="card" id="gridCard">
+    <div class="grid-row">
+      <div class="stat"><div class="v" id="ci">—</div><div class="k"><span class="dot"></span>gCO₂ / kWh now</div></div>
+      <div class="stat"><div class="v" id="clean">—</div><div class="k">wind · solar · nuclear · hydro</div></div>
+      <div class="stat" style="flex:0 0 auto"><span class="idx" id="idx">connecting…</span></div>
+    </div>
+    <div class="mix" id="mix"></div>
+    <div class="legend" id="legend"></div>
+    <div class="k" style="font-size:.68rem;color:var(--fg-dim);margin-top:8px;font-family:var(--mono)" id="updated">half-hour (UTC) —</div>
+  </div>
+  <h2><span class="num">02</span>Footprint of an AI workload <span class="tag modelled">modelled</span></h2>
+  <p class="lede">Power × grid intensity = carbon. Power × water-use-effectiveness = on-site water.
+     The carbon figure uses the <em>live</em> GB value above when that switch is on — that is the
+     only number here that moves on its own.</p>
+  <div class="card">
+    <div class="row">
+      <label for="workload">Workload</label>
+      <select id="workload">
+        <option value="1">1 LLM chat response</option>
+        <option value="1000" selected>1,000 responses</option>
+        <option value="1000000">1 million responses</option>
+        <option value="custom">custom query count</option>
+      </select>
+      <input type="number" id="qcount" value="1000" min="1" step="1" style="display:none">
+    </div>
+    <div class="row">
+      <label for="wh">Energy per response (Wh) <span class="tag modelled">modelled</span></label>
+      <input type="number" id="wh" value="0.3" min="0" step="0.05">
+      <span class="k" style="color:var(--fg-dim);font-size:.72rem">contested · published estimates span ~0.05–3 Wh</span>
+    </div>
+    <div class="row">
+      <label for="wue">Water-use effectiveness (L/kWh, on-site) <span class="tag benchmarked">benchmarked</span></label>
+      <select id="wue">
+        <option value="0.12">AWS reported — 0.12</option>
+        <option value="0.27">Microsoft reported — 0.27</option>
+        <option value="0.40" selected>US fleet avg — 0.40</option>
+        <option value="0.84">Industry avg — 0.84</option>
+        <option value="1.8">Older evaporative — 1.8</option>
+      </select>
+    </div>
+    <div class="row">
+      <label for="src">Carbon intensity source</label>
+      <select id="src">
+        <option value="live" selected>Live GB grid (panel 01)</option>
+        <option value="480">Global avg — ~480 gCO₂/kWh</option>
+        <option value="manual">manual</option>
+      </select>
+      <input type="number" id="srcVal" value="480" min="0" step="1" style="display:none">
+    </div>
+    <label class="switch"><input type="checkbox" id="indirect">
+      Include indirect water (power-plant cooling, ≈4.5 L/kWh US) — usually dominates the total</label>
+    <div class="out">
+      <div class="o"><div class="v" id="oEnergy">—</div><div class="k">energy</div><span class="tag derived">derived</span></div>
+      <div class="o"><div class="v" id="oCarbon">—</div><div class="k">carbon</div><span class="tag" id="oCarbonTag">derived</span></div>
+      <div class="o"><div class="v" id="oWater">—</div><div class="k">water</div><span class="tag derived">derived</span></div>
+    </div>
+    <div class="ctx" id="ctx"></div>
+  </div>
+  <div class="honesty">
+    <strong>Honesty.</strong> No measured global total for AI water exists. On-site water is power × an
+    operator-reported ratio; indirect water is power × a regional grid estimate. Per-response energy is
+    the weakest input — vendors rarely publish it and figures vary by model size, hardware and batching.
+    Treat outputs as order-of-magnitude; the water totals especially can be off by 2–3×. This calculator
+    refuses to print a number without its provenance tag — that is the point.
+  </div>
+  <details class="sources">
+    <summary>How this is built &amp; sources</summary>
+    <p style="margin:.6rem 0">
+      <strong>Live grid:</strong> NESO Carbon Intensity API —
+      <a href="https://api.carbonintensity.org.uk" target="_blank" rel="noopener">api.carbonintensity.org.uk</a>
+      (keyless). Carbon intensity in gCO₂/kWh; generation mix as fuel-type percentages, half-hourly, UTC.<br>
+      <strong>Water benchmarks:</strong> operators' own reported WUE — AWS 0.12, Microsoft 0.27; US fleet
+      and industry averages from public sustainability reporting and LBNL's 2023 US data-centre estimate
+      (indirect ≈4.5 L/kWh). On-site water is <em>derived</em> from power, not measured.<br>
+      <strong>Per-response energy:</strong> a user-set modelled input; published LLM-inference estimates
+      vary by more than an order of magnitude, so it is exposed as an editable field rather than asserted.<br>
+      <strong>Method twin:</strong> after K. Ramakrishna Suresh,
+      <a href="https://datacentreconsumption.netlify.app/" target="_blank" rel="noopener">Global Data Centre Load</a>.
+    </p>
+  </details>
+  <p class="err" id="err" hidden></p>
+</section>
+<script>
+(function(){
+  const $ = id => document.getElementById(id);
+  const fmt = (n,d=2) => {
+    if(!isFinite(n)) return "—";
+    if(n>=1e9) return (n/1e9).toFixed(d)+" B";
+    if(n>=1e6) return (n/1e6).toFixed(d)+" M";
+    if(n>=1e3) return (n/1e3).toFixed(d)+" k";
+    if(n<0.01 && n>0) return n.toExponential(1);
+    return n.toFixed(d);
+  };
+  const FUEL = {gas:"#9ca3af",coal:"#4b5563",imports:"#a78bfa",biomass:"#a16207",
+    nuclear:"#0ea5e9",hydro:"#22d3ee",solar:"#facc15",wind:"#34d399",other:"#6b7280"};
+  const ZERO_C = ["wind","solar","nuclear","hydro"];
+  let liveCI = null;
+  async function loadGrid(){
+    try{
+      const [iR,gR] = await Promise.all([
+        fetch("https://api.carbonintensity.org.uk/intensity"),
+        fetch("https://api.carbonintensity.org.uk/generation")
+      ]);
+      if(!iR.ok||!gR.ok) throw new Error("grid "+iR.status+"/"+gR.status);
+      const iJ = await iR.json(), gJ = await gR.json();
+      const it = iJ.data[0].intensity;
+      liveCI = (it.actual!=null ? it.actual : it.forecast);
+      $("ci").textContent = liveCI;
+      $("idx").textContent = (it.index||"").replace(/\b\w/g,c=>c.toUpperCase()) || "—";
+      const mix = gJ.data.generationmix;
+      const clean = mix.filter(m=>ZERO_C.includes(m.fuel)).reduce((s,m)=>s+m.perc,0);
+      $("clean").textContent = clean.toFixed(0)+"%";
+      const bar=$("mix"); bar.innerHTML=""; const leg=$("legend"); leg.innerHTML="";
+      mix.filter(m=>m.perc>0).sort((a,b)=>b.perc-a.perc).forEach(m=>{
+        const c=FUEL[m.fuel]||"#6b7280";
+        const s=document.createElement("span"); s.style.width=m.perc+"%"; s.style.background=c;
+        s.title=m.fuel+" "+m.perc+"%"; bar.appendChild(s);
+        if(m.perc>=2){const l=document.createElement("span");
+          l.innerHTML='<i style="background:'+c+'"></i>'+m.fuel+" "+m.perc+"%"; leg.appendChild(l);}
+      });
+      const t = gJ.data.to ? gJ.data.to.replace("T"," ").replace("Z"," UTC") : "—";
+      $("updated").textContent = "half-hour ending "+t;
+      $("err").hidden = true;
+      if($("src").value==="live") compute();
+    }catch(e){
+      $("idx").textContent="offline";
+      $("err").hidden=false;
+      $("err").textContent="Live grid unavailable ("+e.message+"). Carbon falls back to manual/global until it reconnects.";
+      if($("src").value==="live"){ $("src").value="480"; syncSrc(); }
+    }
+  }
+  function queryCount(){
+    const w=$("workload").value;
+    return w==="custom" ? Math.max(0,+$("qcount").value||0) : +w;
+  }
+  function ciValue(){
+    const s=$("src").value;
+    if(s==="live") return liveCI!=null ? liveCI : null;
+    if(s==="manual") return +$("srcVal").value||0;
+    return +s;
+  }
+  function compute(){
+    const n=queryCount(), wh=+$("wh").value||0, wue=+$("wue").value||0;
+    const kWh = n*wh/1000;
+    $("oEnergy").innerHTML = fmt(kWh)+' <span style="font-size:.6em;color:var(--fg-dim)">kWh</span>';
+    const ci = ciValue();
+    const carbonTag = $("src").value==="live" ? "live" : ($("src").value==="manual"?"derived":"modelled");
+    $("oCarbonTag").className = "tag "+carbonTag;
+    $("oCarbonTag").textContent = carbonTag;
+    if(ci==null){
+      $("oCarbon").innerHTML = '<span class="err">live grid offline</span>';
+    }else{
+      const kg = kWh*ci/1000;
+      $("oCarbon").innerHTML = fmt(kg)+' <span style="font-size:.6em;color:var(--fg-dim)">kgCO₂</span>';
+    }
+    let water = kWh*wue;
+    if($("indirect").checked) water += kWh*4.5;
+    $("oWater").innerHTML = fmt(water)+' <span style="font-size:.6em;color:var(--fg-dim)">L</span>';
+    const ciTxt = ci==null ? "live grid (offline)" :
+      ci+" gCO₂/kWh"+($("src").value==="live"?" · live GB":"");
+    $("ctx").textContent =
+      n.toLocaleString()+" responses × "+wh+" Wh = "+fmt(kWh)+" kWh, costed at "+ciTxt+
+      " and "+wue+" L/kWh on-site"+($("indirect").checked?" + 4.5 L/kWh indirect":"")+".";
+  }
+  function syncSrc(){
+    $("srcVal").style.display = $("src").value==="manual" ? "" : "none";
+    if($("src").value==="480") $("srcVal").value=480;
+    compute();
+  }
+  $("workload").addEventListener("change",()=>{
+    $("qcount").style.display = $("workload").value==="custom" ? "" : "none";
+    compute();
+  });
+  ["qcount","wh","wue","srcVal","indirect"].forEach(id=>$(id).addEventListener("input",compute));
+  $("src").addEventListener("change",syncSrc);
+  loadGrid();
+  setInterval(loadGrid, 5*60*1000);
+  compute();
+})();
+</script>
+</body>
+</html>
