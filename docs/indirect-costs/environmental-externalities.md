@@ -1,5 +1,10 @@
 # Environmental Externalities
 
+<iframe src="../../_widgets/footprint-console.html"
+        title="AI Environmental Footprint Console"
+        style="width:100%;border:0;height:1180px"
+        loading="lazy"></iframe>
+
 ## Definition
 
 AI systems are material systems. Their operation requires physical infrastructure — data centres, networking equipment, cooling apparatus, end-user devices — with substantial resource demands: electricity, water, land, and the rare materials embedded in hardware. The environmental costs of this infrastructure have historically been treated as externalities: costs borne by ecosystems and communities rather than appearing on an AI project's balance sheet.
