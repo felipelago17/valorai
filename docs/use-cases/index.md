@@ -12,6 +12,7 @@ The ValorAI use-case library provides worked examples applying the indirect-cost
 | Title | Domain | Primary sector lens | Status |
 |---|---|---|---|
 | [Energy: Predictive Maintenance (JV context)](energy-predictive-maintenance.md) | Upstream oil & gas, rotating equipment | [Energy & Utilities](../sector-lenses.md#energy--utilities) | **Published** |
+| [Oil & Gas: AI-Enabled Seismic Interpretation & Subsurface Characterisation](oil-gas-subsurface-ai.md) | Upstream oil & gas, exploration and development | [Energy & Utilities](../sector-lenses.md#energy--utilities) | **Published** |
 
 ---
 

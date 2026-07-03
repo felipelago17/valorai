@@ -90,6 +90,7 @@ nav:
   - Use Cases:
       - Overview: use-cases/index.md
       - "Energy: Predictive Maintenance (JV)": use-cases/energy-predictive-maintenance.md
+      - "Oil & Gas: Seismic Interpretation & Subsurface AI": use-cases/oil-gas-subsurface-ai.md
       - Use-Case Template: use-cases/_template.md
   - How to Cite: cite.md
   - Related Projects: related-projects.md

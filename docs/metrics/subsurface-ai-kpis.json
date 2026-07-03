@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "use_case_id": "oil-gas-subsurface-ai",
+  "title": "AI-Enabled Seismic Interpretation & Subsurface Characterisation — KPI Model",
+  "last_reviewed": "2026-07-03",
+  "methodology_note": "All figures are illustrative ranges grounded in published base-rate evidence or marked [VERIFY]. They are not benchmarks and must not be used as point estimates. Uncertainty is encoded as low/high pairs; mid-point reading is discouraged.",
+  "disclaimer": "This model is part of the ValorAI indirect-cost framework. Figures are illustrative. [VERIFY] flags indicate findings that require independent confirmation before use in a business case or investment decision.",
+
+  "scenarios": [
+    {
+      "id": "exploration",
+      "label": "Exploration Risk Reduction",
+      "description": "AI applied to frontier or near-field 3D seismic for prospect identification, ranking, and dry-hole risk reduction.",
+      "primary_value_driver": "Reduction in exploration dry-hole rate and cost per discovered resource unit",
+      "primary_hidden_cost": "Reserves-audit burden when AI-picked prospects advance to drilling decision"
+    },
+    {
+      "id": "development",
+      "label": "Field Development Planning",
+      "description": "AI-assisted horizon tracking, fault interpretation, and facies classification to constrain static reservoir models and accelerate FID.",
+      "primary_value_driver": "Volumetric uncertainty reduction (compressed P10–P90 spread); accelerated time-to-FID",
+      "primary_hidden_cost": "Geoscientist cognitive deskilling; verification overhead for reserves classification"
+    },
+    {
+      "id": "transition",
+      "label": "CCUS Site Qualification",
+      "description": "AI screening and characterisation of candidate CO2 storage reservoirs (saline aquifers, depleted fields) for Carbon Capture, Utilisation and Storage projects.",
+      "primary_value_driver": "Compressed site-qualification timelines; portfolio screening at scale",
+      "primary_hidden_cost": "Model generalisation failure (exploration training ≠ storage attributes); elevated regulatory audit for storage certification"
+    }
+  ],
+
+  "kpi_groups": [
+    {
+      "id": "cycle-time",
+      "label": "Interpretation Cycle Time",
+      "scenario_applicability": ["exploration", "development", "transition"],
+      "description": "How quickly seismic interpretation tasks are completed. AI's most consistently cited operational benefit, though benefit realisation depends on integration completeness.",
+      "kpis": [
+        {
+          "id": "horizon-picking-turnaround",
+          "name": "3D Survey Horizon-Picking Turnaround",
+          "unit": "weeks (for a representative 500 km² 3D survey)",
+          "direction": "minimize",
+          "baseline": {
+            "low": 6,
+            "high": 20,
+            "verify": true,
+            "notes": "Manual picking by a senior interpreter; varies with survey size, structural complexity, and available staff. [VERIFY with operator-reported baselines]"
+          },
+          "ai_assisted": {
+            "low": 1,
+            "high": 6,
+            "verify": true,
+            "notes": "AI first-pass with geoscientist QC and editing. Vendor-reported cycle-time reductions of 50–80% should be treated as upper-bound estimates requiring independent validation. [VERIFY with operator experience data]"
+          },
+          "measurement_method": "Time from survey data delivery to QC-approved interpreted horizon set, logged per survey",
+          "sensitivity": "Cycle-time reduction is smallest when structural complexity is high or when the AI model requires significant editing — the scenarios where the benefit is most needed."
+        },
+        {
+          "id": "fault-interpretation-turnaround",
+          "name": "3D Fault Network Interpretation Turnaround",
+          "unit": "weeks",
+          "direction": "minimize",
+          "baseline": {
+            "low": 4,
+            "high": 16,
+            "verify": true,
+            "notes": "Manual fault picking is one of the most time-consuming interpretation tasks. [VERIFY]"
+          },
+          "ai_assisted": {
+            "low": 0.5,
+            "high": 3,
+            "verify": true,
+            "notes": "CNN-based fault detection is the most mature AI seismic application with the strongest cycle-time evidence base. [VERIFY with peer-reviewed studies]"
+          },
+          "measurement_method": "Time from survey delivery to QC-approved fault network, logged per survey"
+        },
+        {
+          "id": "time-to-fid",
+          "label_long": "Time from Seismic Acquisition to Final Investment Decision",
+          "scenario_applicability": ["development"],
+          "unit": "months",
+          "direction": "minimize",
+          "baseline": {
+            "low": 18,
+            "high": 48,
+            "verify": true,
+            "notes": "Large-field development cycle; highly variable with project size, regulatory environment, and organisational capacity. [VERIFY]"
+          },
+          "ai_assisted": {
+            "low": 12,
+            "high": 30,
+            "verify": true,
+            "notes": "Illustrative acceleration assuming AI compresses interpretation and static model build phases. Regulatory and commercial timeline is not shortened by AI. [VERIFY]"
+          },
+          "measurement_method": "Project milestone tracking from seismic delivery date to FID board paper",
+          "sensitivity": "AI accelerates the interpretation phase only. If regulatory review or partner alignment is the critical path, AI has minimal effect on total timeline."
+        }
+      ]
+    },
+
+    {
+      "id": "exploration-performance",
+      "label": "Exploration Performance",
+      "scenario_applicability": ["exploration"],
+      "description": "Metrics capturing exploration decision quality. These are lagging indicators (wells take 18–36 months from prospect selection to result) and require a long measurement horizon.",
+      "kpis": [
+        {
+          "id": "exploration-success-rate",
+          "name": "Exploration Success Rate (ESR)",
+          "unit": "percentage of exploration wells encountering commercial hydrocarbons",
+          "direction": "maximize",
+          "baseline": {
+            "low": 15,
+            "high": 35,
+            "verify": true,
+            "notes": "Industry-wide ESR varies substantially by basin maturity, play type, and company strategy. Frontier exploration ESR can be below 10%; near-field can be above 50%. [VERIFY with basin-specific industry data — IEA, Rystad, Wood Mackenzie]"
+          },
+          "ai_assisted": {
+            "low": 18,
+            "high": 45,
+            "verify": true,
+            "notes": "AI benefit to ESR is plausible through better structural and stratigraphic characterisation, but no peer-reviewed controlled study establishes a reliable uplift rate. Treat vendor ESR improvement claims with scepticism. [VERIFY — high priority]"
+          },
+          "measurement_method": "Wells drilled on AI-informed prospects vs all wells; requires 5+ year measurement horizon for statistical significance at typical drill-bit volumes",
+          "flags": ["VERIFY — high priority", "LAGGING-INDICATOR", "LONG-MEASUREMENT-HORIZON"]
+        },
+        {
+          "id": "cost-per-discovered-boe",
+          "name": "Finding Cost (Cost per Discovered BOE)",
+          "unit": "USD / BOE",
+          "direction": "minimize",
+          "baseline": {
+            "low": 3,
+            "high": 25,
+            "verify": true,
+            "notes": "Varies enormously by basin, well cost, and discovery size. Deepwater wells $100M–$200M+; shallow carbonate plays orders of magnitude lower. [VERIFY with operator-reported finding costs]"
+          },
+          "ai_assisted": {
+            "low": 2.5,
+            "high": 20,
+            "verify": true,
+            "notes": "If AI improves ESR, the cost per discovered BOE falls proportionally. If AI adds TCO without improving ESR, finding cost rises. [VERIFY]"
+          },
+          "measurement_method": "Total exploration spend (including AI platform TCO) divided by discovered resource volume, by programme",
+          "flags": ["VERIFY", "LAGGING-INDICATOR"]
+        }
+      ]
+    },
+
+    {
+      "id": "reserves-confidence",
+      "label": "Reserves Confidence & Volumetric Uncertainty",
+      "scenario_applicability": ["development"],
+      "description": "Metrics capturing the quality of subsurface characterisation for reserves booking. Primary governance dimension for listed E&P companies.",
+      "kpis": [
+        {
+          "id": "p10-p90-spread-reduction",
+          "name": "P10–P90 Volumetric Spread Reduction",
+          "unit": "percentage reduction in (P10 – P90) / P50 ratio",
+          "direction": "maximize",
+          "baseline": {
+            "low": null,
+            "high": null,
+            "notes": "Project-specific; depends on structural complexity and data quality. Baseline spread must be established from the pre-AI static model. No cross-sector benchmark is reliable. [VERIFY with operator data]"
+          },
+          "ai_assisted": {
+            "low": 10,
+            "high": 40,
+            "verify": true,
+            "notes": "AI subsurface characterisation can reduce volumetric uncertainty through more complete fault mapping and better facies continuity. Actual reduction depends heavily on data quality. [VERIFY — no peer-reviewed benchmark identified]"
+          },
+          "measurement_method": "P10, P50, P90 volumes from probabilistic reserve simulation before and after AI-assisted interpretation; requires a consistent probabilistic workflow",
+          "flags": ["VERIFY", "PROJECT-SPECIFIC"]
+        },
+        {
+          "id": "reserves-reclassification-rate",
+          "name": "Downward Reserves Reclassification Rate",
+          "unit": "percentage of proved reserves reclassified downward at first annual review",
+          "direction": "minimize",
+          "baseline": {
+            "low": null,
+            "high": null,
+            "notes": "Industry-wide reserves revision statistics exist (SPE-PRMS annual survey) but operator-level rates are not typically disclosed. [VERIFY]"
+          },
+          "ai_assisted": {
+            "low": null,
+            "high": null,
+            "notes": "AI's effect on reserves reclassification rate is not established in the literature. It may reduce structural uncertainty (reducing revisions) or introduce model errors (increasing revisions if AI picks are wrong and uncaught by QC). [VERIFY — critical gap]"
+          },
+          "measurement_method": "Annual reserves report comparison; requires securities disclosure data or internal audit logs",
+          "flags": ["VERIFY", "CRITICAL-GAP", "GOVERNANCE-SENSITIVE"]
+        }
+      ]
+    },
+
+    {
+      "id": "ccus-qualification",
+      "label": "CCUS Site Qualification Efficiency",
+      "scenario_applicability": ["transition"],
+      "kpis": [
+        {
+          "id": "site-screening-time",
+          "name": "CO2 Storage Site Screening Turnaround",
+          "unit": "months (from seismic data delivery to storage capacity estimate)",
+          "direction": "minimize",
+          "baseline": {
+            "low": 12,
+            "high": 36,
+            "verify": true,
+            "notes": "Manual geoscience review of candidate storage sites; regulatory review is additional and is not shortened by AI. [VERIFY with project timelines from Northern Lights, Quest, Sleipner disclosures]"
+          },
+          "ai_assisted": {
+            "low": 6,
+            "high": 18,
+            "verify": true,
+            "notes": "AI compresses the interpretation phase; permitting, environmental baseline, and regulatory approval timelines are not affected. [VERIFY]"
+          },
+          "measurement_method": "Time from dataset delivery to provisional storage capacity estimate submitted to regulatory authority",
+          "sensitivity": "Benefit is greatest for portfolio screening (many sites evaluated in parallel). For a single site progressing to permitting, regulatory timeline is the critical path."
+        }
+      ]
+    },
+
+    {
+      "id": "verification-overhead",
+      "label": "Verification & Quality Control Overhead",
+      "scenario_applicability": ["exploration", "development", "transition"],
+      "description": "The verification overhead is a hidden cost (not a value driver) but must be tracked as a KPI to test whether it is consistent with the deployment's efficiency case.",
+      "kpis": [
+        {
+          "id": "qc-edit-rate",
+          "name": "AI Pick Edit Rate",
+          "unit": "percentage of AI-generated horizon or fault picks requiring manual correction",
+          "direction": "minimize",
+          "baseline": {
+            "low": null,
+            "high": null,
+            "notes": "No pre-AI baseline applicable. Set a threshold above which AI use is suspended pending retraining — analogous to the ~85% production trust threshold documented in energy sector AI deployments (AI in Energy Summit 2026)."
+          },
+          "ai_assisted": {
+            "low": 5,
+            "high": 40,
+            "verify": true,
+            "notes": "Vendor-reported edit rates for mature seismic AI fault detection are 5–15%. In complex geology or with vintage data, edit rates may be much higher. [VERIFY with operator pilot data — this is the most important pre-commitment measurement]"
+          },
+          "measurement_method": "Random sample of AI-generated picks reviewed by independent senior geoscientist; fraction requiring material edit (>10% position change) counted",
+          "flags": ["KEY-GATE-METRIC", "VERIFY"]
+        },
+        {
+          "id": "verification-staff-time",
+          "name": "Verification Staff Time per Interpreted Survey",
+          "unit": "geoscientist-hours",
+          "direction": "minimize",
+          "baseline": {
+            "low": null,
+            "high": null,
+            "notes": "Baseline is not zero — manual interpretation also requires QC. The relevant metric is the change in total interpretation + QC time, not QC time in isolation."
+          },
+          "ai_assisted": {
+            "low": 40,
+            "high": 200,
+            "verify": true,
+            "notes": "Illustrative range for a 500 km² survey. At the low end: AI is performing well, QC is light-touch. At the high end: complex geology, high edit rate, and reserves-audit documentation required. [VERIFY]"
+          },
+          "measurement_method": "Timesheet or project-hour tracking per interpreted survey, from data delivery to QC-signed-off interpretation"
+        }
+      ]
+    }
+  ],
+
+  "cost_model_summary": {
+    "visible_costs_year1": {
+      "low_usd_k": 730,
+      "high_usd_k": 2300,
+      "components": [
+        {"item": "AI platform licence (enterprise, multi-basin)", "type": "recurring", "low": 300, "high": 900, "verify": true},
+        {"item": "Cloud/HPC compute (GPU seismic processing)", "type": "recurring", "low": 150, "high": 500, "verify": true},
+        {"item": "Seismic data curation and SEG-Y standardisation", "type": "one-off", "low": 100, "high": 350, "verify": true},
+        {"item": "Geoscientist training and workflow integration", "type": "one-off", "low": 80, "high": 250, "verify": true},
+        {"item": "Interpretation software integration (API build)", "type": "one-off", "low": 100, "high": 300, "verify": true}
+      ]
+    },
+    "hidden_costs_year1": {
+      "low_usd_k": 320,
+      "high_usd_k": 1370,
+      "categories": [
+        {"category": "Technical & Operational Debt", "low": 40, "high": 200},
+        {"category": "Integration overrun risk", "low": 60, "high": 420},
+        {"category": "Verification & Oversight", "low": 80, "high": 300},
+        {"category": "Cognitive discount on benefits (illustrative, Year 3+)", "low": 35, "high": 200},
+        {"category": "Environmental Externalities", "low": 25, "high": 100},
+        {"category": "Labour & Supply Chain", "low": 30, "high": 150},
+        {"category": "Governance & Shadow AI", "low": 50, "high": 200}
+      ]
+    },
+    "scenarios": [
+      {"label": "Low", "visible": 730, "hidden": 320, "total": 1050, "hidden_pct_of_visible": 44},
+      {"label": "Base", "visible": 1400, "hidden": 730, "total": 2130, "hidden_pct_of_visible": 52},
+      {"label": "High", "visible": 2300, "hidden": 1370, "total": 3670, "hidden_pct_of_visible": 60}
+    ],
+    "all_figures_usd_thousands": true,
+    "all_figures_year_1": true,
+    "disclaimer": "All figures illustrative. [VERIFY] flags indicate ungrounded assumptions requiring independent confirmation."
+  }
+}
