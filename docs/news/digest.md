@@ -9,6 +9,14 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-08
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [What data centers need to consider when storing produced water](https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/)
+
+---
+
 ## 2026-11-07
 
 ### Research & Working Papers
