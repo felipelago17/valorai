@@ -9,6 +9,47 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-09
+
+### Research & Working Papers
+
+- **[NBER Working Papers]** [TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale -- by Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil Lewis, Erik Brynjolfsson, Diyi Yang](https://www.nber.org/papers/w35987#fromrss)
+- **[NBER Working Papers]** [Clearing the Fog: Price Transparency, Market Churn, and Consumer Welfare in Short-Term Rentals -- by Ginger Zhe Jin, Liad Wagman, Jingyi Xing](https://www.nber.org/papers/w35989#fromrss)
+- **[NBER Working Papers]** [Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs -- by Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand](https://www.nber.org/papers/w35991#fromrss)
+- **[NBER Working Papers]** [The Impact of Climate Change on Fisheries -- by Fabio Cevenini, Christopher Costello, Carlo Fezzi](https://www.nber.org/papers/w35994#fromrss)
+- **[NBER Working Papers]** [When Food Stamps Became Free: Impacts and Implications of Removing the Purchase Requirement -- by Amy Finkelstein, Matthew J. Notowidigdo, Charlie Rafkin](https://www.nber.org/papers/w35996#fromrss)
+- **[NBER Working Papers]** [When More Prenatal Care Looks Like Less: Selection, Information and Maternal and Infant Health -- by Chien-Tzu Cheng, Shin-Yi Chou, Hsien-Ming Lien](https://www.nber.org/papers/w36000#fromrss)
+- **[NBER Working Papers]** [Vigilance, Risk Vulnerability, and the Precautionary Augment -- by Miles S. Kimball, Vincent A. Mastantuno](https://www.nber.org/papers/w36001#fromrss)
+- **[NBER Working Papers]** [AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains -- by Panle Jia Barwick, Lu Fang, Jinhan Liu, Huilan Xu, Zhe Yuan](https://www.nber.org/papers/w36003#fromrss)
+- **[arXiv econ.GN]** [Further Education During Unemployment](https://arxiv.org/abs/2312.17123)
+- **[arXiv cs.CY]** [Real-World Adoption, Use, and Governance of an LLM-Based Electronic Health Record Search and Synthesis Platform](https://arxiv.org/abs/2611.08672)
+- **[arXiv cs.CY]** [Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support](https://arxiv.org/abs/2611.08721)
+- **[arXiv cs.CY]** [How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis](https://arxiv.org/abs/2611.08749)
+
+### Management & Strategy
+
+- **[MIT Sloan Management Review]** [Do More With Sustainability Data](https://sloanreview.mit.edu/article/do-more-with-sustainability-data/)
+- **[McKinsey Insights]** [How CFOs can make AI pay off](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: empty AI climate claims, and an Nvidia investigation](https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/)
+- **[MIT Technology Review]** [Innovating with AI in the special chemicals industry](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/)
+- **[MIT Technology Review]** [The climate case for AI has not been made](https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [New Jersey Senate passes bill banning data center-related NDAs](https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/)
+- **[Data Center Dynamics]** [AirTrunk named as operator behind data center project in Melbourne, Australia](https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/)
+- **[Data Center Dynamics]** [AI’s next infrastructure constraint](https://www.datacenterdynamics.com/en/opinions/ais-next-infrastructure-constraint/)
+- **[Data Center Dynamics]** [Riot Platforms signs 910MW agreement with unnamed frontier AI lab](https://www.datacenterdynamics.com/en/news/riot-platforms-signs-910mw-agreement-with-unnamed-frontier-ai-lab/)
+- **[Data Center Dynamics]** [Q.ANT partners with Ionos for photonic computing pilot program](https://www.datacenterdynamics.com/en/news/qant-partners-with-ionos-for-photonic-computing-pilot-program/)
+- **[Data Center Dynamics]** [Nvidia looks to tap Brightspeed central offices for inference network - report](https://www.datacenterdynamics.com/en/news/nvidia-looks-to-tap-brightspeed-central-offices-for-inference-network-report/)
+- **[Data Center Dynamics]** [Anthropic signs $3.4bn gas generator deal to support 1.7GW of data center power](https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/)
+- **[Data Center Dynamics]** [UK’s Defra plans £4.8m data center contract renewal with Atos](https://www.datacenterdynamics.com/en/news/uks-defra-plans-48m-data-center-contract-renewal-with-atos/)
+
+---
+
 ## 2026-11-08
 
 ### Energy & Infrastructure Cost
