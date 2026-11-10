@@ -9,6 +9,46 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-10
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [When Is Prosocial Behavior Intuitive? The Moderating Role of Empathic Perspective Taking](https://arxiv.org/abs/2611.10155)
+- **[arXiv econ.GN]** [Have wind and solar energy increased electricity price volatility? And what is electricity price volatility, anyway?](https://arxiv.org/abs/2611.10731)
+- **[arXiv econ.GN]** [The Effect of the U.S. Federal Production Tax Credit on Negative Energy Prices](https://arxiv.org/abs/2611.11112)
+- **[arXiv econ.GN]** [Optimal power expansion planning under uncertainty in sub-Saharan Africa: A stochastic dual dynamic programming approach](https://arxiv.org/abs/2611.11490)
+- **[arXiv econ.GN]** [Does fare communication format matter? Evidence from a randomised experiment in public transport](https://arxiv.org/abs/2611.12117)
+- **[arXiv econ.GN]** [Fueling Inflation Risks: An Oil Shortage Scenario](https://arxiv.org/abs/2611.12347)
+- **[arXiv econ.GN]** [That Time of the Year Again: Government Pay Revisions in the Aggregate Economy](https://arxiv.org/abs/2611.12565)
+- **[arXiv econ.GN]** [Advancing AI Capabilities and Evolving Labor Outcomes](https://arxiv.org/abs/2507.08244)
+- **[arXiv econ.GN]** [Wage-Setting Constraints and Firm Responses to Demand Shocks](https://arxiv.org/abs/2512.19622)
+- **[arXiv econ.GN]** [Jornada de trabalho, produtividade e informalidade: uma avaliacao quantitativa para o Brasil](https://arxiv.org/abs/2602.03884)
+- **[arXiv econ.GN]** [Work that Counts, and Work that Doesn't: Reconciling Experimental and Observational Labor Supply Elasticities](https://arxiv.org/abs/2605.29832)
+- **[arXiv econ.GN]** [Large-Market Discipline in Combinatorial Double Auctions: No Recombination, Bundle Selection, and Complementarities](https://arxiv.org/abs/2608.06134)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: Pelosi’s successor targets AI and data centers face power woes](https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/)
+- **[MIT Technology Review]** [Evolving metal extraction processes](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/)
+- **[MIT Technology Review]** [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
+- **[MIT Technology Review]** [Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Fluidstack begins construction of 99-acre data center campus in Wythe County, Virginia](https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/)
+- **[Data Center Dynamics]** [Colt breaks ground on data center in Berlin, Germany](https://www.datacenterdynamics.com/en/news/colt-breaks-ground-on-data-center-in-berlin-germany/)
+- **[Data Center Dynamics]** [Boosteroid, Gaw Capital, and Firebird AI plan 480MW data center in Kazakhstan](https://www.datacenterdynamics.com/en/news/boosteroid-gaw-capital-and-firebird-ai-plan-480mw-data-center-in-kazakhstan/)
+- **[Data Center Dynamics]** [Netcompany takes ownership stake in Danish Centre for AI Innovation, $75m investment planned](https://www.datacenterdynamics.com/en/news/netcompany-takes-ownership-stake-in-danish-centre-for-ai-innovation-75m-investment-planned/)
+- **[Data Center Dynamics]** [Germany's Deutsche Telekom to expand Munich AI data center by 20MW](https://www.datacenterdynamics.com/en/news/germanys-deutsche-telekom-to-expand-munich-ai-data-center-by-20mw/)
+- **[Data Center Dynamics]** [PPL advanced stage data center pipeline hits 35GW in Pennsylvania](https://www.datacenterdynamics.com/en/news/ppl-advanced-stage-data-center-pipeline-hits-35gw-in-pennsylvania/)
+- **[Data Center Dynamics]** [Equinix launches SG6 data center in Singapore](https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/)
+- **[Data Center Dynamics]** [Vertiv partners with Infineon to scale power semiconductors for AI data centers](https://www.datacenterdynamics.com/en/news/vertiv-partners-with-infineon-to-scale-power-semiconductors-for-ai-data-centers/)
+- **[Data Center Dynamics]** [Sponsored: Coravel makes 25 leadership hires in six months through partnership with specialist search firm Metric DCX](https://www.datacenterdynamics.com/en/product-news/coravel-makes-25-leadership-hires-in-six-months-through-partnership-with-specialist-search-firm-metric-dcx/)
+- **[Data Center Dynamics]** [Sponsored: Too big to trip](https://www.datacenterdynamics.com/en/marketwatch/too-big-to-trip/)
+- **[Data Center Dynamics]** [Norway halts grid connection applications for new data centers](https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/)
+
+---
+
 ## 2026-11-09
 
 ### Research & Working Papers
