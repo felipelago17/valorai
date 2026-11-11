@@ -9,6 +9,40 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-11
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [Global Trends and Heterogeneity in Modified Adjusted Net Savings](https://arxiv.org/abs/2611.12987)
+- **[arXiv econ.GN]** [Optimal Regulation and Information Institutions with Hidden Network Equilibria](https://arxiv.org/abs/2611.13715)
+- **[arXiv econ.GN]** [Economic Benefits of Cross-Border Electricity Trade and Domestic Electricity Production in Switzerland](https://arxiv.org/abs/2611.13866)
+- **[arXiv econ.GN]** [Estimating multidimensional poverty under incomplete data in North Macedonia](https://arxiv.org/abs/2611.14146)
+- **[arXiv econ.GN]** [Do wind and solar curtail at negative electricity prices? Incentives and evidence across two decades of German renewable support schemes](https://arxiv.org/abs/2609.10053)
+- **[arXiv econ.GN]** [The overlooked price feedback: Why simulations overstate distribution grid peaks from home batteries under real time pricing](https://arxiv.org/abs/2609.35111)
+- **[arXiv econ.GN]** [Spatial Selection and the Multiscale Dynamics of Urban Change](https://arxiv.org/abs/2511.06165)
+- **[arXiv cs.CY]** [Understanding Computing Instructors' Perceptions of Student Sense of Belonging](https://arxiv.org/abs/2611.13237)
+- **[arXiv cs.CY]** [Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining](https://arxiv.org/abs/2611.13527)
+- **[arXiv cs.CY]** [Perspicacious: An Educational Intelligence Platform for Instructional Designers](https://arxiv.org/abs/2611.13549)
+- **[arXiv cs.CY]** [Transparency Disclosures for Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.13873)
+- **[arXiv cs.CY]** [Advancing a Global Framework for AI Safety and Governance for the Well-being of Humanity](https://arxiv.org/abs/2611.13968)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: preserving minds and weighing open AI risks](https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion](https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/)
+- **[Data Center Dynamics]** [Proposal for AI data center at former paper mill in Maine resurfaces](https://www.datacenterdynamics.com/en/news/proposal-for-ai-data-center-at-former-paper-mill-in-maine-resurfaces/)
+- **[Data Center Dynamics]** [10-year data center moratorium approved in Ottawa, Kansas](https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/)
+- **[Data Center Dynamics]** [Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments](https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/)
+- **[Data Center Dynamics]** [Data center proposed within Cleveland's Union Trust Building, Ohio](https://www.datacenterdynamics.com/en/news/data-center-proposed-within-clevelands-union-trust-building-ohio/)
+- **[Data Center Dynamics]** [Data center free cooling: running chillers only when needed](https://www.datacenterdynamics.com/en/whitepapers/data-center-free-cooling-running-chillers-only-when-needed/)
+- **[Data Center Dynamics]** [Atomarine raises $19m for nuclear-powered floating data centers](https://www.datacenterdynamics.com/en/news/atomarine-raises-19m-for-nuclear-powered-floating-data-centers/)
+- **[Data Center Dynamics]** [Sponsored: How Kazakhstan’s Akashi Data Center is building trust](https://www.datacenterdynamics.com/en/product-news/how-kazakhstans-akashi-data-center-is-building-trust/)
+
+---
+
 ## 2026-11-10
 
 ### Research & Working Papers
