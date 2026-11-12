@@ -9,6 +9,32 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-12
+
+### Management & Strategy
+
+- **[MIT Sloan Management Review]** [Lessons From Tech’s Diversity Disclosures](https://sloanreview.mit.edu/article/lessons-from-techs-diversity-disclosures/)
+- **[McKinsey Insights]** [Rural healthcare and America’s $340 billion workforce earnings opportunity](https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity)
+- **[McKinsey Insights]** [Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/)
+- **[MIT Technology Review]** [What to know about this year’s UN climate talks](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Nvidia CEO Jensen Huang resigns after multiple affairs](https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-resigns-after-multiple-affairs/)
+- **[Data Center Dynamics]** [Protecting data center integrity from top to bottom](https://www.datacenterdynamics.com/en/whitepapers/protecting-data-center-integrity-from-top-to-bottom/)
+- **[Data Center Dynamics]** [DCD Survey: Direct liquid cooling | From deployment to lifecycle](https://www.datacenterdynamics.com/en/whitepapers/dcd-survey-direct-liquid-cooling-from-deployment-to-lifecycle/)
+- **[Data Center Dynamics]** [Sponsored: Restructuring data center financing to deliver the future](https://www.datacenterdynamics.com/en/marketwatch/restructuring-data-center-financing-to-deliver-the-future/)
+- **[Data Center Dynamics]** [Energy storage firm Torus launches prefabricated modular data center product, raises $500m](https://www.datacenterdynamics.com/en/news/energy-storage-firm-torus-launches-prefabricated-modular-data-center-product-raises-500m/)
+- **[Data Center Dynamics]** [Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster](https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/)
+- **[Data Center Dynamics]** [Consortium to develop 400MW hyperscale AI data center in Oman](https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/)
+- **[Data Center Dynamics]** [LCL partners with Wellen Real Estate on rooftop solar project in Antwerp, Belgium](https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium/)
+
+---
+
 ## 2026-11-11
 
 ### Research & Working Papers

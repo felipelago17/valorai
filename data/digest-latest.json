@@ -1,263 +1,83 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "title": "Global Trends and Heterogeneity in Modified Adjusted Net Savings",
-      "url": "https://arxiv.org/abs/2611.12987",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
+      "title": "Lessons From Tech’s Diversity Disclosures",
+      "url": "https://sloanreview.mit.edu/article/lessons-from-techs-diversity-disclosures/",
+      "source": "MIT Sloan Management Review",
+      "category": "Management & Strategy"
     },
     {
-      "title": "Optimal Regulation and Information Institutions with Hidden Network Equilibria",
-      "url": "https://arxiv.org/abs/2611.13715",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
+      "title": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
     },
     {
-      "title": "Economic Benefits of Cross-Border Electricity Trade and Domestic Electricity Production in Switzerland",
-      "url": "https://arxiv.org/abs/2611.13866",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
+      "title": "Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
     },
     {
-      "title": "Estimating multidimensional poverty under incomplete data in North Macedonia",
-      "url": "https://arxiv.org/abs/2611.14146",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Do wind and solar curtail at negative electricity prices? Incentives and evidence across two decades of German renewable support schemes",
-      "url": "https://arxiv.org/abs/2609.10053",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "The overlooked price feedback: Why simulations overstate distribution grid peaks from home batteries under real time pricing",
-      "url": "https://arxiv.org/abs/2609.35111",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Spatial Selection and the Multiscale Dynamics of Urban Change",
-      "url": "https://arxiv.org/abs/2511.06165",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Understanding Computing Instructors' Perceptions of Student Sense of Belonging",
-      "url": "https://arxiv.org/abs/2611.13237",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining",
-      "url": "https://arxiv.org/abs/2611.13527",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Perspicacious: An Educational Intelligence Platform for Instructional Designers",
-      "url": "https://arxiv.org/abs/2611.13549",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Transparency Disclosures for Chain-of-Thought Monitorability",
-      "url": "https://arxiv.org/abs/2611.13873",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Advancing a Global Framework for AI Safety and Governance for the Well-being of Humanity",
-      "url": "https://arxiv.org/abs/2611.13968",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US",
-      "url": "https://arxiv.org/abs/2611.14288",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
-      "url": "https://arxiv.org/abs/2611.13042",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams",
-      "url": "https://arxiv.org/abs/2611.13217",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts",
-      "url": "https://arxiv.org/abs/2611.13339",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis",
-      "url": "https://arxiv.org/abs/2611.13366",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Inherited Weights: Measuring the Tokenization Premium and the Sovereignty Cost of Language Models for the Global South",
-      "url": "https://arxiv.org/abs/2611.13441",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "EJAI: Judgment-Preserving Civic AI for Data Center Environmental Justice",
-      "url": "https://arxiv.org/abs/2611.13525",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.13997",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Uneven Self-Reported AI Use: An Embedded Case Study Across Eleven Teams in a Software Organization",
-      "url": "https://arxiv.org/abs/2611.14154",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
-      "url": "https://arxiv.org/abs/2611.14333",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "A Computational Model of Teacher-Student Co-Adaptation",
-      "url": "https://arxiv.org/abs/2505.02853",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Epistemic Infrastructures of Science in AI Era Should Rebalance Costs of Generation and Verification",
-      "url": "https://arxiv.org/abs/2605.10425",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "AI-Mediated Communication Can Steer Collective Opinion",
-      "url": "https://arxiv.org/abs/2605.16245",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Beyond Third-Person Audits: Situated Interaction Auditing for User-Centered LLM Bias Research",
-      "url": "https://arxiv.org/abs/2606.12247",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs",
-      "url": "https://arxiv.org/abs/2608.28618",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Privacy Preference Controls for Agentic Systems",
-      "url": "https://arxiv.org/abs/2610.29929",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Can Large Language Models Develop Gambling Addiction?",
-      "url": "https://arxiv.org/abs/2509.22818",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Can AI Agents Synthesize Scientific Conclusions in Health?",
-      "url": "https://arxiv.org/abs/2606.11337",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "From AGI to ASI",
-      "url": "https://arxiv.org/abs/2606.12683",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models",
-      "url": "https://arxiv.org/abs/2609.12277",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "ALTO: African and Levantine Tech-Facilitated Gender-Based Violence Corpus",
-      "url": "https://arxiv.org/abs/2611.06706",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
-      "url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "category": "Industry & Market"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after multiple affairs",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-resigns-after-multiple-affairs/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Proposal for AI data center at former paper mill in Maine resurfaces",
-      "url": "https://www.datacenterdynamics.com/en/news/proposal-for-ai-data-center-at-former-paper-mill-in-maine-resurfaces/",
+      "title": "Protecting data center integrity from top to bottom",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/protecting-data-center-integrity-from-top-to-bottom/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "10-year data center moratorium approved in Ottawa, Kansas",
-      "url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+      "title": "DCD Survey: Direct liquid cooling | From deployment to lifecycle",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcd-survey-direct-liquid-cooling-from-deployment-to-lifecycle/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
-      "url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+      "title": "Sponsored: Restructuring data center financing to deliver the future",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/restructuring-data-center-financing-to-deliver-the-future/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Data center proposed within Cleveland's Union Trust Building, Ohio",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-proposed-within-clevelands-union-trust-building-ohio/",
+      "title": "Energy storage firm Torus launches prefabricated modular data center product, raises $500m",
+      "url": "https://www.datacenterdynamics.com/en/news/energy-storage-firm-torus-launches-prefabricated-modular-data-center-product-raises-500m/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Data center free cooling: running chillers only when needed",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/data-center-free-cooling-running-chillers-only-when-needed/",
+      "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Atomarine raises $19m for nuclear-powered floating data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/atomarine-raises-19m-for-nuclear-powered-floating-data-centers/",
+      "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+      "url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Sponsored: How Kazakhstan’s Akashi Data Center is building trust",
-      "url": "https://www.datacenterdynamics.com/en/product-news/how-kazakhstans-akashi-data-center-is-building-trust/",
+      "title": "LCL partners with Wellen Real Estate on rooftop solar project in Antwerp, Belgium",
+      "url": "https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Espionage, AI, and the Risks of Strategic Overreaction",
-      "url": "https://cset.georgetown.edu/article/espionage-ai-and-the-risks-of-strategic-overreaction/",
-      "source": "CSET",
-      "category": "Research & Working Papers"
     }
   ]
 }
