@@ -62,6 +62,7 @@ A source may be tagged to multiple dimensions. The `stance` field (`value-positi
 | Kosmyna et al. — *Your Brain on ChatGPT* | 2025 | working-paper | 09-education-edtech | cost-cautionary | — | cognitive-skills |
 | Becker et al. (METR) — *Measuring the Impact of Early-2025 AI on Experienced OS Dev Productivity* | 2025 | working-paper | cross-sector | reality-check | productivity, time-returned | time, trust-accountability, cognitive-skills |
 | Glean Work AI Institute — *The Work AI Index 2026* | 2026 | industry-report | cross-sector | reality-check | productivity, time-returned | time, trust-accountability, cognitive-skills, labor-employment |
+| Cordova — *Brazil's AI Development Strategy Needs an Edge Layer* | 2026 | journalism | 10-public-sector-government-defence | mixed | cost-to-serve, productivity | financial-tco, labor-employment, environmental |
 
 ---
 

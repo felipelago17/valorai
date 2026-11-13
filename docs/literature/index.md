@@ -54,6 +54,7 @@ A source may be tagged to multiple dimensions on either side. The **stance** fie
 | Acemoglu & Restrepo — *Tasks, Automation, and the Rise in US Wage Inequality* | 2022 | journal-article | human capital / HR | cost-cautionary | — | labor-employment |
 | Lee et al. — *The Impact of Generative AI on Critical Thinking* | 2025 | conference-paper | cross-sector | cost-cautionary | — | cognitive-skills, trust-accountability |
 | Kosmyna et al. — *Your Brain on ChatGPT* | 2025 | working-paper | education / edtech | cost-cautionary | — | cognitive-skills |
+| Cordova — *Brazil's AI Development Strategy Needs an Edge Layer* | 2026 | journalism | public sector / government | mixed | cost-to-serve, productivity | financial-tco, labor-employment, environmental |
 
 ---
 

@@ -16,6 +16,8 @@ Brynjolfsson, E., Li, D. & Raymond, L. R. (2023). *Generative AI at Work.* NBER 
 
 Challapally, A., Pease, C., Raskar, R. & Chari, P. (2025). *The GenAI Divide: State of AI in Business 2025.* MIT Project NANDA, July 2025. **→ also in `docs/evidence/bibliography.md`**
 
+Cordova, Y. (2026). *Brazil's AI Development Strategy Needs an Edge Layer.* Tech Policy Press, 10 November 2026. https://www.techpolicy.press/brazils-ai-development-strategy-needs-an-edge-layer/ [OPINION/POLICY ADVOCACY — headline figures second-hand; verify FGV jobs study and repair-sector estimate against primary sources]
+
 de Vries, A. (2023). The growing energy footprint of artificial intelligence. *Joule,* 7(10), 2191–2194. https://doi.org/10.1016/j.joule.2023.09.004 [COMMENTARY/LETTER — illustrative projections, not measured data; triangulate with Luccioni et al. (2024) and IEA (2025)]
 
 de Vries-Gao, A. (2025). The carbon and water footprints of data centers and what this could mean for artificial intelligence. *Patterns* (Cell Press). PII: S2666389925002788. https://www.cell.com/patterns/fulltext/S2666-3899(25)00278-8. DOI: 10.1016/j.patter.2025.[VERIFY suffix] [DISCLOSURE-LIMITED ESTIMATES — wide ranges reflect operator non-disclosure; present as ranges only] **→ also in `docs/evidence/bibliography.md`**

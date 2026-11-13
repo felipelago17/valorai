@@ -10,4 +10,4 @@
 
 ## Seeded sources
 
-*(None in this initial batch.)*
+- `cordova-2026-brazil-edge-layer.md` — Brazil's centralised vs edge AI investment; job durability, resource demand, incentive design
