@@ -9,6 +9,47 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-13
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [The Rebundling of Freelance Work in the AI Age](https://arxiv.org/abs/2611.14708)
+- **[arXiv econ.GN]** [When Does a Recommendation Spark Curiosity? Theory, Measurement, and Field Evidence](https://arxiv.org/abs/2611.14938)
+- **[arXiv econ.GN]** [Factors Influencing Rural Female Workforce Participation in India, 2017- 2025: An Econometric Analysis Using District-Level Panel Data](https://arxiv.org/abs/2611.15430)
+- **[arXiv econ.GN]** [Huge If True: Learning from the Size of the Surprise](https://arxiv.org/abs/2611.15747)
+- **[arXiv econ.GN]** [Price co-movement and price information diverge across Nordic electricity zones after the energy crisis](https://arxiv.org/abs/2611.16657)
+- **[arXiv econ.GN]** [Unequal Rewards and the Direction of Scientific Work: Evidence from U.S. Public Universities](https://arxiv.org/abs/2611.16747)
+- **[arXiv econ.GN]** [Beyond Named Mechanisms: Economic Institutions as a Design Space for Artificial Agents](https://arxiv.org/abs/2611.15017)
+- **[arXiv econ.GN]** [Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match](https://arxiv.org/abs/2611.16058)
+- **[arXiv econ.GN]** [Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement](https://arxiv.org/abs/2611.16095)
+- **[arXiv econ.GN]** [Accuracy Is Not Welfare: Evaluating AI Buyers under Strategic Price Complexity in a Synthetic Duopoly](https://arxiv.org/abs/2611.16471)
+- **[arXiv econ.GN]** [How does online shopping affect offline price sensitivity?](https://arxiv.org/abs/2506.15103)
+- **[arXiv econ.GN]** [Signaling in the Age of AI: Evidence from Cover Letters](https://arxiv.org/abs/2509.25054)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/)
+- **[MIT Technology Review]** [More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/)
+- **[MIT Technology Review]** [Silicon Valley claims to know the future. So why did it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/)
+- **[MIT Technology Review]** [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Syntys breaks ground on 20MW data center in Qatar](https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/)
+- **[Data Center Dynamics]** [Cerebras secures Microsoft as a customer](https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/)
+- **[Data Center Dynamics]** [Poste Italiane establishes €600m co-investment fund to support data center projects](https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/)
+- **[Data Center Dynamics]** [Three data center developments in Australia change course after community backlash](https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/)
+- **[Data Center Dynamics]** [Turning cooling into compute](https://www.datacenterdynamics.com/en/whitepapers/turning-cooling-into-compute/)
+- **[Data Center Dynamics]** [Carrier Connect’s Purecolo appoints Mark Kerr as CEO](https://www.datacenterdynamics.com/en/news/carrier-connects-purecolo-appoints-mark-kerr-as-ceo/)
+- **[Data Center Dynamics]** [STTGDC launches 22MW data center in Noida, India](https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/)
+- **[Data Center Dynamics]** [Insite DC files for four-building data center campus outside Melbourne, Australia](https://www.datacenterdynamics.com/en/news/insite-dc-files-for-four-building-data-center-campus-outside-melbourne-australia/)
+- **[Data Center Dynamics]** [Nscale brings online two data centers and 25,000 GPUs in 2.5 months](https://www.datacenterdynamics.com/en/news/nscale-brings-online-two-data-centers-and-25000-gpus-in-25-months/)
+- **[Data Center Dynamics]** [Rowan secures $1.5bn in financing for data center build-out](https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/)
+- **[Data Center Dynamics]** [National Stock Exchange of India deploys direct-to-chip liquid cooling at data center](https://www.datacenterdynamics.com/en/news/national-stock-exchange-of-india-deploys-direct-to-chip-liquid-cooling-at-data-center/)
+- **[Data Center Dynamics]** [Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead](https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/)
+
+---
+
 ## 2026-11-12
 
 ### Management & Strategy
