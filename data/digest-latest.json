@@ -1,365 +1,59 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "items": [
     {
-      "title": "The Rebundling of Freelance Work in the AI Age",
-      "url": "https://arxiv.org/abs/2611.14708",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "When Does a Recommendation Spark Curiosity? Theory, Measurement, and Field Evidence",
-      "url": "https://arxiv.org/abs/2611.14938",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Factors Influencing Rural Female Workforce Participation in India, 2017- 2025: An Econometric Analysis Using District-Level Panel Data",
-      "url": "https://arxiv.org/abs/2611.15430",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Huge If True: Learning from the Size of the Surprise",
-      "url": "https://arxiv.org/abs/2611.15747",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Price co-movement and price information diverge across Nordic electricity zones after the energy crisis",
-      "url": "https://arxiv.org/abs/2611.16657",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Unequal Rewards and the Direction of Scientific Work: Evidence from U.S. Public Universities",
-      "url": "https://arxiv.org/abs/2611.16747",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Beyond Named Mechanisms: Economic Institutions as a Design Space for Artificial Agents",
-      "url": "https://arxiv.org/abs/2611.15017",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
-      "url": "https://arxiv.org/abs/2611.16058",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement",
-      "url": "https://arxiv.org/abs/2611.16095",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Accuracy Is Not Welfare: Evaluating AI Buyers under Strategic Price Complexity in a Synthetic Duopoly",
-      "url": "https://arxiv.org/abs/2611.16471",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "How does online shopping affect offline price sensitivity?",
-      "url": "https://arxiv.org/abs/2506.15103",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Signaling in the Age of AI: Evidence from Cover Letters",
-      "url": "https://arxiv.org/abs/2509.25054",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Optimizing Bidding Curves for Renewable Energy in Two-Settlement Electricity Markets",
-      "url": "https://arxiv.org/abs/2501.18732",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "The amplifier effect of artificial agents in social contagion",
-      "url": "https://arxiv.org/abs/2502.21037",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Individualized Algorithmic Advice as a Strategic Signal on Competitive Markets",
-      "url": "https://arxiv.org/abs/2511.09454",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Do people apply different norms to humans and large language models acting on their behalf? Evidence from norm elicitations in two canonical economic games",
-      "url": "https://arxiv.org/abs/2601.15312",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Perceived Social Norms and Information Disclosure",
-      "url": "https://arxiv.org/abs/2604.18044",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "People escalate against a competitor labelled human and hold back against one labelled an optimising machine",
-      "url": "https://arxiv.org/abs/2609.21439",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Who (or what) are they prompting? How CS students conceptualize and use LLMs",
-      "url": "https://arxiv.org/abs/2611.14798",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Scaling public input on AI policy with pluralistic agents",
-      "url": "https://arxiv.org/abs/2611.16028",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "One Future Fits All: Text-to-image AI and the Narrowing of Global Imagination",
-      "url": "https://arxiv.org/abs/2611.16089",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "From State of THE ART to Human Prediction Algorithms",
-      "url": "https://arxiv.org/abs/2611.16464",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI",
-      "url": "https://arxiv.org/abs/2611.16931",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Data Center Governance Under AI Expansion Pressures",
-      "url": "https://arxiv.org/abs/2611.16942",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
-      "url": "https://arxiv.org/abs/2611.17220",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Partial pooling beats synthetic respondents as estimators, not as covariates: a preregistered small-sample tournament",
-      "url": "https://arxiv.org/abs/2611.14526",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Evaluating AI Musical Creativity: Towards a Quantitative Multi-Dimensional Framework Based on Value, Novelty, and Surprise",
-      "url": "https://arxiv.org/abs/2611.14634",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
-      "url": "https://arxiv.org/abs/2611.14935",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Tracking What Works: Social Engineering Lures as Signatures for Victim-Centric Infostealer Campaign Discovery",
-      "url": "https://arxiv.org/abs/2611.15394",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Can Model Answer Probabilities Represent Survey Populations? Conditional Prediction and Joint Validity in Jev Survey Simulation",
-      "url": "https://arxiv.org/abs/2611.15576",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Controlling the Probability of Unknown Unknowns in Pre-Deployment Testing of AI Systems",
-      "url": "https://arxiv.org/abs/2611.15835",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Modeling the Travel Time-Pollution Exposure Trade-off in Urban Route Choice",
-      "url": "https://arxiv.org/abs/2611.15950",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Robustness Within a Fairness Budget: Parity Frontiers and Equal-Opportunity Reversal",
-      "url": "https://arxiv.org/abs/2611.16031",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Harnessing Environmental Scatterers for Endogenous Target Covertness in 6G ISAC: A New Paradigm for Sensing Security",
-      "url": "https://arxiv.org/abs/2611.16110",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Between Niti and Nyaya: A Society-Centered Framework for AI Governance",
-      "url": "https://arxiv.org/abs/2611.16173",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Large Language Models as Digital Twins: a Distribution-Aware Questionnaire-Based Evaluation",
-      "url": "https://arxiv.org/abs/2611.16586",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Should There be a Teacher In-the-Loop? A Study of Generative AI-Personalized Tasks Middle School",
-      "url": "https://arxiv.org/abs/2602.15876",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
-      "url": "https://arxiv.org/abs/2603.29288",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Governing Copyright Responsibly in the Era of Generative AI",
-      "url": "https://arxiv.org/abs/2610.17002",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Tracer: A Forensic Framework for Detecting Fraudulent Speedruns from Game Replays",
-      "url": "https://arxiv.org/abs/2509.10848",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models",
-      "url": "https://arxiv.org/abs/2601.00797",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
-      "url": "https://arxiv.org/abs/2602.12316",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "Syntys breaks ground on 20MW data center in Qatar",
-      "url": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
+      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Cerebras secures Microsoft as a customer",
-      "url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+      "title": "European Union offers to build data center for Moldova",
+      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
-      "url": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
+      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Three data center developments in Australia change course after community backlash",
-      "url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Turning cooling into compute",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/turning-cooling-into-compute/",
+      "title": "Integrated data center infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Carrier Connect’s Purecolo appoints Mark Kerr as CEO",
-      "url": "https://www.datacenterdynamics.com/en/news/carrier-connects-purecolo-appoints-mark-kerr-as-ceo/",
+      "title": "ASIC ambition",
+      "url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "STTGDC launches 22MW data center in Noida, India",
-      "url": "https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/",
+      "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+      "url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Insite DC files for four-building data center campus outside Melbourne, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/insite-dc-files-for-four-building-data-center-campus-outside-melbourne-australia/",
+      "title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+      "url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Nscale brings online two data centers and 25,000 GPUs in 2.5 months",
-      "url": "https://www.datacenterdynamics.com/en/news/nscale-brings-online-two-data-centers-and-25000-gpus-in-25-months/",
+      "title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Rowan secures $1.5bn in financing for data center build-out",
-      "url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "National Stock Exchange of India deploys direct-to-chip liquid cooling at data center",
-      "url": "https://www.datacenterdynamics.com/en/news/national-stock-exchange-of-india-deploys-direct-to-chip-liquid-cooling-at-data-center/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
-      "url": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Sponsored: Huawei Digital Power launches four innovative solutions in Dubai to power the next generation of data centers",
-      "url": "https://www.datacenterdynamics.com/en/product-news/huawei-digital-power-launches-four-innovative-solutions-in-dubai-to-power-the-next-generation-of-data-centers/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "AI Kill Switches: What Policymakers Should Know",
-      "url": "https://cset.georgetown.edu/article/ai-kill-switches-what-policymakers-should-know/",
-      "source": "CSET",
-      "category": "Research & Working Papers"
     }
   ]
 }

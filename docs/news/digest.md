@@ -9,6 +9,22 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-14
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India](https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/)
+- **[Data Center Dynamics]** [European Union offers to build data center for Moldova](https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/)
+- **[Data Center Dynamics]** [Sponsored: When the pressure heats up, what really cools servers down?](https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/)
+- **[Data Center Dynamics]** [NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan](https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/)
+- **[Data Center Dynamics]** [Integrated data center infrastructure](https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/)
+- **[Data Center Dynamics]** [ASIC ambition](https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/)
+- **[Data Center Dynamics]** [Samsung in talks to acquire data center cooling company Modine Manufacturing - report](https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/)
+- **[Data Center Dynamics]** [Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal](https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/)
+- **[Data Center Dynamics]** [PowerBridge breaks ground on gigawatt-scale powered land campus in Texas](https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/)
+
+---
+
 ## 2026-11-13
 
 ### Research & Working Papers
