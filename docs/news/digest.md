@@ -9,6 +9,18 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-15
+
+### Research & Working Papers
+
+- **[CSET]** [Convergent Interests: How America Could Undermine Its Own AI Advantage](https://cset.georgetown.edu/article/convergent-interests-how-america-could-undermine-its-own-ai-advantage/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Developer Westend Real Assets buys two data centers in Hamburg](https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/)
+
+---
+
 ## 2026-11-14
 
 ### Energy & Infrastructure Cost

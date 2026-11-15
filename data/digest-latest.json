@@ -1,59 +1,17 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
-      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "European Union offers to build data center for Moldova",
-      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Integrated data center infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "ASIC ambition",
-      "url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
-      "url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
-      "url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
+      "title": "Convergent Interests: How America Could Undermine Its Own AI Advantage",
+      "url": "https://cset.georgetown.edu/article/convergent-interests-how-america-could-undermine-its-own-ai-advantage/",
+      "source": "CSET",
+      "category": "Research & Working Papers"
     }
   ]
 }
