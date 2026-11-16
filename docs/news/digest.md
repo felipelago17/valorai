@@ -9,6 +9,49 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-16
+
+### Research & Working Papers
+
+- **[NBER Working Papers]** [How Will the 340B Rebate Model Pilot Affect Covered Entity Finances? -- by Charles J. Courtemanche](https://www.nber.org/papers/w36006#fromrss)
+- **[NBER Working Papers]** [Horizontal Equity of Taxation: Citizen Beliefs and Policy Preferences -- by Pierre Bachas, Christopher A. Hoy, Anders Jensen, Mahvish Shaukat](https://www.nber.org/papers/w36007#fromrss)
+- **[NBER Working Papers]** [Measuring the Impact of Impact Measurement -- by Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth](https://www.nber.org/papers/w36009#fromrss)
+- **[NBER Working Papers]** [Gambling for Goals -- by Costas Arkolakis, Spencer Y. Kwon, Dominic Russel, Claire Shi, Hyunjoo Yang](https://www.nber.org/papers/w36010#fromrss)
+- **[NBER Working Papers]** [The Labor Market Impact of Temporary High-Skill Immigration Programs -- by George J. Borjas](https://www.nber.org/papers/w36014#fromrss)
+- **[NBER Working Papers]** [Education and Gender Voting Polarization: The Effect of Compulsory Schooling on Sex-Based Preferences for the Democratic and Republican Parties -- by Philip DeCicca, Harry Krashinsky, Erik T. Nesson](https://www.nber.org/papers/w36015#fromrss)
+- **[NBER Working Papers]** [An Odd Approximation of Inflation for State Dependent Pricing Models -- by Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens, Al-Mahdi Ebsim](https://www.nber.org/papers/w36016#fromrss)
+- **[NBER Working Papers]** [fereg: Fast High-Dimensional Fixed-Effects Regressions in Stata -- by Johannes F. Schmieder](https://www.nber.org/papers/w36017#fromrss)
+- **[NBER Working Papers]** [Decoding Success: Phonics-based Instruction and Student Achievement -- by Alex Hollingsworth, Alberto Ortega, Nikolaos Zirogiannis](https://www.nber.org/papers/w36018#fromrss)
+- **[NBER Working Papers]** [Impacts of AI in Higher Education: A Panel Survey of Undergraduates -- by Bruce Sacerdote, Mason Parris-Bacon](https://www.nber.org/papers/w36021#fromrss)
+- **[NBER Working Papers]** [The Role of Parental Beliefs and Public Policies in Financing Higher Education: An Experimental Study -- by Francesco Agostinelli, Guglielmo Briscese, Giovanni M. Topa](https://www.nber.org/papers/w36023#fromrss)
+- **[NBER Working Papers]** [Aging and Structural Change: Cost Disease in the Care Sector -- by Nick Pretnar, Finn Kydland, Tonya Y. Kydland](https://www.nber.org/papers/w36024#fromrss)
+
+### Management & Strategy
+
+- **[MIT Sloan Management Review]** [The Silent Eldercare Crisis: How Leaders Can Help](https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/)
+- **[McKinsey Insights]** [Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin)
+- **[McKinsey Insights]** [AI in Asia: Reimagining insurance operations through agentic AI](https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: testing tech promises and searching for cognitive immortality](https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/)
+- **[MIT Technology Review]** [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Arbitrating data center disputes in Southeast Asia](https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/)
+- **[Data Center Dynamics]** [Microsoft looks to develop data center in Rockford, Illinois](https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/)
+- **[Data Center Dynamics]** [Core Scientific files for 285MW data center outside Dallas, Texas](https://www.datacenterdynamics.com/en/news/core-scientific-files-for-285mw-data-center-outside-dallas-texas/)
+- **[Data Center Dynamics]** [Prologis sues Ohio's Trenton city after residents vote against data centers](https://www.datacenterdynamics.com/en/news/prologis-sues-ohios-trenton-city-after-residents-vote-against-data-centers/)
+- **[Data Center Dynamics]** [Bill introduced to ban data center development on some federally-owned land in US](https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/)
+- **[Data Center Dynamics]** [Telus abandons its Vancouver AI data center development plans](https://www.datacenterdynamics.com/en/news/telus-abandons-its-vancouver-ai-data-center-development-plans/)
+- **[Data Center Dynamics]** [Equinix files to develop new data center in Dallas, Texas](https://www.datacenterdynamics.com/en/news/equinix-files-to-develop-new-data-center-in-dallas-texas/)
+- **[Data Center Dynamics]** [Engie could supply power to planned Google data center in Châteauroux, France](https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/)
+- **[Data Center Dynamics]** [Brazilian bank Banestes to host equipment at Espírito Santo State data center](https://www.datacenterdynamics.com/en/news/banestes-hires-prodest-to-host-equipment-at-the-espirito-santo-state-data-center/)
+- **[Data Center Dynamics]** [Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business](https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/)
+
+---
+
 ## 2026-11-15
 
 ### Research & Working Papers

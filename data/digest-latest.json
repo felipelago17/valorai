@@ -1,17 +1,317 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
-      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
-      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+      "title": "How Will the 340B Rebate Model Pilot Affect Covered Entity Finances? -- by Charles J. Courtemanche",
+      "url": "https://www.nber.org/papers/w36006#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Horizontal Equity of Taxation: Citizen Beliefs and Policy Preferences -- by Pierre Bachas, Christopher A. Hoy, Anders Jensen, Mahvish Shaukat",
+      "url": "https://www.nber.org/papers/w36007#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Measuring the Impact of Impact Measurement -- by Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth",
+      "url": "https://www.nber.org/papers/w36009#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Gambling for Goals -- by Costas Arkolakis, Spencer Y. Kwon, Dominic Russel, Claire Shi, Hyunjoo Yang",
+      "url": "https://www.nber.org/papers/w36010#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Labor Market Impact of Temporary High-Skill Immigration Programs -- by George J. Borjas",
+      "url": "https://www.nber.org/papers/w36014#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Education and Gender Voting Polarization: The Effect of Compulsory Schooling on Sex-Based Preferences for the Democratic and Republican Parties -- by Philip DeCicca, Harry Krashinsky, Erik T. Nesson",
+      "url": "https://www.nber.org/papers/w36015#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "An Odd Approximation of Inflation for State Dependent Pricing Models -- by Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens, Al-Mahdi Ebsim",
+      "url": "https://www.nber.org/papers/w36016#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "fereg: Fast High-Dimensional Fixed-Effects Regressions in Stata -- by Johannes F. Schmieder",
+      "url": "https://www.nber.org/papers/w36017#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Decoding Success: Phonics-based Instruction and Student Achievement -- by Alex Hollingsworth, Alberto Ortega, Nikolaos Zirogiannis",
+      "url": "https://www.nber.org/papers/w36018#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Impacts of AI in Higher Education: A Panel Survey of Undergraduates -- by Bruce Sacerdote, Mason Parris-Bacon",
+      "url": "https://www.nber.org/papers/w36021#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Role of Parental Beliefs and Public Policies in Financing Higher Education: An Experimental Study -- by Francesco Agostinelli, Guglielmo Briscese, Giovanni M. Topa",
+      "url": "https://www.nber.org/papers/w36023#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Aging and Structural Change: Cost Disease in the Care Sector -- by Nick Pretnar, Finn Kydland, Tonya Y. Kydland",
+      "url": "https://www.nber.org/papers/w36024#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Federal Eminent Domain and Interstate Energy Infrastructure: Evidence from History -- by Zachary Liscow, Joseph S. Shapiro, Heidi L. Williams",
+      "url": "https://www.nber.org/papers/w36027#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Childhood Learning and Adult Earnings in Four LMIC Cohorts -- by Jishnu Das, Yash Dhuldhoya, Marta Favara, Amory Gethin, Alan Sánchez, Abhijeet Singh",
+      "url": "https://www.nber.org/papers/w36029#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Learn to Earn: The Long-Term Effects of Foundational Learning -- by Tahir Andrabi, Natalie Bau, Jishnu Das, Asim Ijaz Khwaja, Catherine Michaud-Leclerc",
+      "url": "https://www.nber.org/papers/w36030#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "A Blessing in Disguise: The Long-Term Effects of Childhood Exposure to the Boll Weevil on Old-Age Male Longevity -- by Hamid Noghanibehambari, Jason Fletcher",
+      "url": "https://www.nber.org/papers/w36031#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Clouds of Credit: Mapping the Financial Web Behind AI Compute -- by Stijn Van Nieuwerburgh, Zijin Su",
+      "url": "https://www.nber.org/papers/w36032#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Preconception Medicaid and Maternal and Infant Health: Evidence from Linked Administrative Data -- by Genna Campain, Sarah Miller, Petra Persson, Maya Rossin-Slater, Laura Wherry, Katlyn N. King",
+      "url": "https://www.nber.org/papers/w36033#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Will AI Growth Reach the Developing World? -- by Daniel Björkegren, David Lagakos, Mitchell VanVuren",
+      "url": "https://www.nber.org/papers/w36035#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "How Does Capital Flow To Poor Countries? Evidence from Venture Capital and Private Equity -- by Emanuele Colonnelli, Marcio Cruz, Josh Lerner, Mariana Pereira-Lopez, Yuanchang Wei",
+      "url": "https://www.nber.org/papers/w36036#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "AI and the Two Margins of Work: Why Job Losses Show Up Before Job Creation",
+      "url": "https://arxiv.org/abs/2611.17530",
+      "source": "arXiv econ.GN",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv econ.GN",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Social Networks and the Propagation of Household Shocks to Asset Prices",
+      "url": "https://arxiv.org/abs/2611.01540",
+      "source": "arXiv econ.GN",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Auditing Chatbots for Incursion into Professional Legal Practice",
+      "url": "https://arxiv.org/abs/2611.17622",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "DOCKET: A Pluralistic Benchmark for Evaluating AI-Assisted Policy Feedback in U.S. Rulemaking",
+      "url": "https://arxiv.org/abs/2611.17914",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Algorithmic Opacity as a Principal-Agent Problem",
+      "url": "https://arxiv.org/abs/2611.17980",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Measuring Public Participation in Local Government: An Audio-Based Instrument for Classifying Speakers in City Council Meetings",
+      "url": "https://arxiv.org/abs/2611.18072",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Large language models put existential risk from artificial intelligence at 10%",
+      "url": "https://arxiv.org/abs/2611.18219",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for Pre-Treatment and Code Optimization",
+      "url": "https://arxiv.org/abs/2611.18436",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
+      "url": "https://arxiv.org/abs/2611.18439",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Measured from the feed: the unsustainable growth of AI video generation",
+      "url": "https://arxiv.org/abs/2611.17938",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "When evaluation becomes intervention in clinical AI",
+      "url": "https://arxiv.org/abs/2611.18297",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Agent Security Meets Regulatory Reality -- A Practitioner Systematization of Autonomous-Agent Threats and Controls in Regulated Financial Systems",
+      "url": "https://arxiv.org/abs/2606.29142",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines",
+      "url": "https://arxiv.org/abs/2610.42121",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Toward Operationalizing Rasmussen in Evolving Software Systems",
+      "url": "https://arxiv.org/abs/2602.05483",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "From Survey Histories to Interpretable Digital Twins: Auto-Discovering Task-Specific Personas and Behavioral Mechanisms",
+      "url": "https://arxiv.org/abs/2608.20344",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Reproducibility in the Age of Agentic AI: Context Engineering at the Timescale of a Codebase",
+      "url": "https://arxiv.org/abs/2609.11728",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Silent Eldercare Crisis: How Leaders Can Help",
+      "url": "https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/",
+      "source": "MIT Sloan Management Review",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "AI in Asia: Reimagining insurance operations through agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "source": "MIT Technology Review",
+      "category": "Industry & Market"
+    },
+    {
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "category": "Industry & Market"
+    },
+    {
+      "title": "Arbitrating data center disputes in Southeast Asia",
+      "url": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Convergent Interests: How America Could Undermine Its Own AI Advantage",
-      "url": "https://cset.georgetown.edu/article/convergent-interests-how-america-could-undermine-its-own-ai-advantage/",
-      "source": "CSET",
-      "category": "Research & Working Papers"
+      "title": "Microsoft looks to develop data center in Rockford, Illinois",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Core Scientific files for 285MW data center outside Dallas, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/core-scientific-files-for-285mw-data-center-outside-dallas-texas/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Prologis sues Ohio's Trenton city after residents vote against data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/prologis-sues-ohios-trenton-city-after-residents-vote-against-data-centers/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Bill introduced to ban data center development on some federally-owned land in US",
+      "url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Telus abandons its Vancouver AI data center development plans",
+      "url": "https://www.datacenterdynamics.com/en/news/telus-abandons-its-vancouver-ai-data-center-development-plans/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Equinix files to develop new data center in Dallas, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-files-to-develop-new-data-center-in-dallas-texas/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Engie could supply power to planned Google data center in Châteauroux, France",
+      "url": "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Brazilian bank Banestes to host equipment at Espírito Santo State data center",
+      "url": "https://www.datacenterdynamics.com/en/news/banestes-hires-prodest-to-host-equipment-at-the-espirito-santo-state-data-center/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+      "url": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
     }
   ]
 }
