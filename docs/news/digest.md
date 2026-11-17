@@ -9,6 +9,47 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-17
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [China's Local Government Debt, Strategic Competition, and Bitcoin Demand: A Conditional Transmission Framework](https://arxiv.org/abs/2611.18767)
+- **[arXiv econ.GN]** [The opposing informational effects of AI trading](https://arxiv.org/abs/2611.18872)
+- **[arXiv econ.GN]** [Corporate Stances on Societal Issues in the US](https://arxiv.org/abs/2611.19068)
+- **[arXiv econ.GN]** [Identifying Time Preference Shocks: Stated and Revealed Preferences after an Italian Earthquake](https://arxiv.org/abs/2611.19662)
+- **[arXiv econ.GN]** [Trade Tensions Meet the Gig Economy: Evidence from the 2025 Halving of Chinese Travel to Japan](https://arxiv.org/abs/2611.21070)
+- **[arXiv econ.GN]** [The Anatomy of Value Creation: Input-Output Linkages, Policy Shifts, and Economic Impacts](https://arxiv.org/abs/2506.13936)
+- **[arXiv econ.GN]** [When AI Improves Answers but Slows Knowledge Creation: Matching and Dynamic Knowledge Creation in Digital Public Goods](https://arxiv.org/abs/2604.00468)
+- **[arXiv econ.GN]** [How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil](https://arxiv.org/abs/2607.00504)
+- **[arXiv econ.GN]** [How an Economy Shrinks in Space: Concavity-on-Jobs and Upward Consolidation under Demographic Decline](https://arxiv.org/abs/2609.09859)
+- **[arXiv econ.GN]** [JaxMARL-BC: Multi-Agent Reinforcement Learning for Macroeconomic Modelling, in Seconds](https://arxiv.org/abs/2610.28907)
+- **[arXiv cs.CY]** [An Evidence-Based Decision Framework for Retiring Roadside Traveler Information Infrastructure in the Mobile Era](https://arxiv.org/abs/2611.18886)
+- **[arXiv cs.CY]** [Who Shows Up, Who Benefits, and Who Wins? Expert-Novice Disparities in Team-Seeking Forums and Competition Performance on Kaggle](https://arxiv.org/abs/2611.18983)
+
+### Management & Strategy
+
+- **[MIT Sloan Management Review]** [Designing Customization Journeys to Build More Valuable Customer Relationships](https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [Research Reports](https://www.technologyreview.com/2026/11/17/1148203/research-reports/)
+- **[MIT Technology Review]** [The Download: Jensen Huang’s open-source dilemma and cognitive immortality](https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/)
+- **[MIT Technology Review]** [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)
+- **[MIT Technology Review]** [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [100MW data center planned in Sussex, UK](https://www.datacenterdynamics.com/en/news/100mw-data-center-planned-in-sussex-uk/)
+- **[Data Center Dynamics]** [The Cooling Supplement](https://www.datacenterdynamics.com/en/magazines/the-cooling-supplement-2026-4/)
+- **[Data Center Dynamics]** [CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028](https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/)
+- **[Data Center Dynamics]** [Northern Europe Energy targets data center in Riihimäki, Finland](https://www.datacenterdynamics.com/en/news/northern-europe-energy-targets-data-center-in-riihim%C3%A4ki-finland/)
+- **[Data Center Dynamics]** [Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium](https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/)
+- **[Data Center Dynamics]** [Google inks 50MW geothermal PPA with Quaise in Oregon](https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/)
+- **[Data Center Dynamics]** [Italian startup targets data centers with offshore energy storage](https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/)
+- **[Data Center Dynamics]** [Vodafone joint venture to develop two major data center projects in Egypt](https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/)
+
+---
+
 ## 2026-11-16
 
 ### Research & Working Papers
