@@ -1,405 +1,255 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
-      "title": "China's Local Government Debt, Strategic Competition, and Bitcoin Demand: A Conditional Transmission Framework",
-      "url": "https://arxiv.org/abs/2611.18767",
+      "title": "Who sees the sea? Sea-view potential by fa\\c{c}ade and floor from cadastral LoD1 models on the Costa del Sol",
+      "url": "https://arxiv.org/abs/2611.21672",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "The opposing informational effects of AI trading",
-      "url": "https://arxiv.org/abs/2611.18872",
+      "title": "Does the AI Reviewer Alleviate or Aggravate the Maintenance Burden? Evidence from GitHub Copilot Reviewer",
+      "url": "https://arxiv.org/abs/2611.22793",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Corporate Stances on Societal Issues in the US",
-      "url": "https://arxiv.org/abs/2611.19068",
+      "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
+      "url": "https://arxiv.org/abs/2611.21641",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Identifying Time Preference Shocks: Stated and Revealed Preferences after an Italian Earthquake",
-      "url": "https://arxiv.org/abs/2611.19662",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "url": "https://arxiv.org/abs/2611.22033",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Trade Tensions Meet the Gig Economy: Evidence from the 2025 Halving of Chinese Travel to Japan",
-      "url": "https://arxiv.org/abs/2611.21070",
+      "title": "Just After Minimum Wage Hikes: Short-Run Labor-Demand Response and Reallocation",
+      "url": "https://arxiv.org/abs/2505.04555",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "The Anatomy of Value Creation: Input-Output Linkages, Policy Shifts, and Economic Impacts",
-      "url": "https://arxiv.org/abs/2506.13936",
+      "title": "AI Adoption in S&P 500 Firms",
+      "url": "https://arxiv.org/abs/2607.08920",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "When AI Improves Answers but Slows Knowledge Creation: Matching and Dynamic Knowledge Creation in Digital Public Goods",
-      "url": "https://arxiv.org/abs/2604.00468",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil",
-      "url": "https://arxiv.org/abs/2607.00504",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "How an Economy Shrinks in Space: Concavity-on-Jobs and Upward Consolidation under Demographic Decline",
-      "url": "https://arxiv.org/abs/2609.09859",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "JaxMARL-BC: Multi-Agent Reinforcement Learning for Macroeconomic Modelling, in Seconds",
-      "url": "https://arxiv.org/abs/2610.28907",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "An Evidence-Based Decision Framework for Retiring Roadside Traveler Information Infrastructure in the Mobile Era",
-      "url": "https://arxiv.org/abs/2611.18886",
+      "title": "WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster Engagement in Computing Education",
+      "url": "https://arxiv.org/abs/2611.23058",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Who Shows Up, Who Benefits, and Who Wins? Expert-Novice Disparities in Team-Seeking Forums and Competition Performance on Kaggle",
-      "url": "https://arxiv.org/abs/2611.18983",
+      "title": "Exploring Students' Insights on Creating Videos to Learn Software Design and Engineering",
+      "url": "https://arxiv.org/abs/2611.23075",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Model Maps: A Documentation Framework for Tracing Foundation Model Ancestry and Understanding AI Entanglement",
-      "url": "https://arxiv.org/abs/2611.18998",
+      "title": "Auditing Hyperstimulation at Scale in Child-Facing YouTube Videos",
+      "url": "https://arxiv.org/abs/2611.21637",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "HongguoTrending: A Longitudinal, Multimodal Archive of Trending Videos and Topics on a Leading Micro-Drama Platform",
-      "url": "https://arxiv.org/abs/2611.19351",
+      "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
+      "url": "https://arxiv.org/abs/2611.21825",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "How ready is the United States commercial building stock for artificial intelligence? A national estimate from energy codes and survey data",
-      "url": "https://arxiv.org/abs/2611.19942",
+      "title": "Knowing Which, Not How Much: Language Models Order Party Positions They Cannot Place",
+      "url": "https://arxiv.org/abs/2611.21878",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems",
-      "url": "https://arxiv.org/abs/2611.20140",
+      "title": "Beyond Acuity Accuracy: A Multidimensional Framework for Evaluating Patient-Facing Emergency Triage AI Tools",
+      "url": "https://arxiv.org/abs/2611.22045",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Frac-BKT Under Mechanism Scrutiny: Response Assimilation and a Failed Fractional-Memory Test",
-      "url": "https://arxiv.org/abs/2611.20338",
+      "title": "ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters",
+      "url": "https://arxiv.org/abs/2611.22133",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Necessary for What? Auditing Demographic Disclosure to LLM Synthetic Respondents",
-      "url": "https://arxiv.org/abs/2611.20606",
+      "title": "Worldviews in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.22670",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Who Bears the Excess? Imputing the Acts of AI Agents to Those Who Delegate",
-      "url": "https://arxiv.org/abs/2611.20670",
+      "title": "Against Coercion: AI Alignment as a Synthetic Social Contract",
+      "url": "https://arxiv.org/abs/2611.22868",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Lived Experiences of Power and Agency: Achieving Voice Sovereignty in Assistive Speech Technology for Nonbinary Users",
-      "url": "https://arxiv.org/abs/2611.20858",
+      "title": "Large Language Models Have Not Yet Transformed Science",
+      "url": "https://arxiv.org/abs/2611.22975",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Auditing a Moving Target: Evidence Anchoring and the Expiry of Fairness Audits of Provider-Served Language Models",
-      "url": "https://arxiv.org/abs/2611.20901",
+      "title": "\"I Just Don't Want to Be a Burden\": Investigating AI Chatbot Emotional Support Among People with Suicidal Ideation and Other Mental Health Concerns",
+      "url": "https://arxiv.org/abs/2611.23190",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents",
-      "url": "https://arxiv.org/abs/2611.21376",
+      "title": "When VLMs 'Fix' Students: Identifying and Penalizing Over-Correction in the Evaluation of Multi-line Handwritten Math OCR",
+      "url": "https://arxiv.org/abs/2604.22774",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Incentive Alignment for Electricity Data Assets in China: A Blockchain-Enabled Contribution-Credit Framework",
-      "url": "https://arxiv.org/abs/2611.21533",
+      "title": "The Nuclear Decision-Making Benchmark: Evaluating Frontier LLM Tendencies in Escalation, Proliferation, Non-Proliferation, and Arms Control Scenarios",
+      "url": "https://arxiv.org/abs/2608.05180",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
-      "url": "https://arxiv.org/abs/2611.18583",
+      "title": "Asymmetric Discourse Homogenization on Reddit Was a Text-Length Artifact: A Reanalysis",
+      "url": "https://arxiv.org/abs/2608.13674",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
-      "url": "https://arxiv.org/abs/2611.18908",
+      "title": "Can Power Draw Constrain Covert Compute? Limits of Analogue Verification for AI Governance",
+      "url": "https://arxiv.org/abs/2610.07476",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "The Human Side of ML Engineering: Analyzing the Collaboration and Communication Skills in ML Job Postings",
-      "url": "https://arxiv.org/abs/2611.18915",
+      "title": "WHBench: Evaluating Frontier LLMs with Expert-in-the-Loop Validation on Women's Health Topics",
+      "url": "https://arxiv.org/abs/2604.00024",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
-      "url": "https://arxiv.org/abs/2611.18930",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
-      "url": "https://arxiv.org/abs/2611.18971",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Conditional Endorsement: Simulating How Adults with Different Skills Evaluate Canada's National AI Strategy",
-      "url": "https://arxiv.org/abs/2611.19111",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2611.19393",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Who Writes the Codebook? An Eight-Step Framework for Auditing LLM-Generated Category Systems",
-      "url": "https://arxiv.org/abs/2611.19872",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "When Valid Decisions Are Not Enough: Evaluating Structural Constraints in Knowledge-Guided Generative Systems",
-      "url": "https://arxiv.org/abs/2611.20111",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Understanding Users' Security, Privacy, and Trust Concerns in Healthcare AI Systems",
-      "url": "https://arxiv.org/abs/2611.20223",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Reveal: A Provenance-Aware System for Multimodal Urban Data Exploration",
-      "url": "https://arxiv.org/abs/2611.20311",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Sidewalk Stewards: A Visual Analytics Approach for Interactive Topology Repair of Sidewalk Networks",
-      "url": "https://arxiv.org/abs/2611.20330",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Effective and Efficient Rumor Assertion Over Large-Scale Social Networks (Technical Report)",
-      "url": "https://arxiv.org/abs/2611.20538",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
-      "url": "https://arxiv.org/abs/2611.20608",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Share your Screen and Talk to Gemini: How Young Learners Interact with Multimodal GenAI While Solving Scratch Tasks",
-      "url": "https://arxiv.org/abs/2611.21306",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "What You Post Is What You Symptom: Estimating Psychometric Networks from Social Media Discourse",
-      "url": "https://arxiv.org/abs/2611.21362",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU",
-      "url": "https://arxiv.org/abs/2611.21497",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Embedding Cosine Measures Text Length Before It Measures Homogenization",
-      "url": "https://arxiv.org/abs/2611.21519",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse",
-      "url": "https://arxiv.org/abs/2611.21535",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
-      "url": "https://arxiv.org/abs/2611.21545",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Benefits and Barriers to Human-AI Teaming for Crisis Counseling",
-      "url": "https://arxiv.org/abs/2611.21558",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills",
-      "url": "https://arxiv.org/abs/2510.12915",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "AI Value Alignment for Evolving Social Norms",
-      "url": "https://arxiv.org/abs/2607.18506",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "From Process to Evidence: How Computing Can Ground Appropriate Reliance on Legal AI",
-      "url": "https://arxiv.org/abs/2607.28869",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models",
-      "url": "https://arxiv.org/abs/2609.10280",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Evaluating Ambient Clinical Scribes in India: The Need for Multilingual Real-World Clinical Conversation Data",
-      "url": "https://arxiv.org/abs/2609.17355",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Integrating Fairness and Model Pruning Through Bi-level Optimization",
-      "url": "https://arxiv.org/abs/2312.10181",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Comparative Evaluation of Embedding Representations for Financial News Sentiment Analysis",
-      "url": "https://arxiv.org/abs/2512.13749",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "From Evidence to Judgment: Trace-Augmented Reasoning under Conflicting Evidence",
-      "url": "https://arxiv.org/abs/2512.16795",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "DeGenTWeb: A First Look at MGT-dominant Websites",
-      "url": "https://arxiv.org/abs/2605.00087",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "AI Agents May Always Fall for Prompt Injections",
-      "url": "https://arxiv.org/abs/2605.17634",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Designing Customization Journeys to Build More Valuable Customer Relationships",
-      "url": "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/",
-      "source": "MIT Sloan Management Review",
+      "title": "Capex in chemicals: Generating value through performance excellence",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence",
+      "source": "McKinsey Insights",
       "category": "Management & Strategy"
     },
     {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "title": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
+      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "100MW data center planned in Sussex, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/100mw-data-center-planned-in-sussex-uk/",
+      "title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+      "url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "The Cooling Supplement",
-      "url": "https://www.datacenterdynamics.com/en/magazines/the-cooling-supplement-2026-4/",
+      "title": "Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center",
+      "url": "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028",
-      "url": "https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/",
+      "title": "DC Blox files for third building at Atlanta West data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-files-for-third-building-at-atlanta-west-data-center-campus/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Northern Europe Energy targets data center in Riihimäki, Finland",
-      "url": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-targets-data-center-in-riihim%C3%A4ki-finland/",
+      "title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+      "url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
-      "url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+      "title": "Virginia’s Loudoun County officially adopts 12-month moratorium on data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-officially-adopts-12-month-moratorium-on-data-center-development/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
-      "url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+      "title": "FingerMotion unveils modular data center concept designed to operate in extreme climates",
+      "url": "https://www.datacenterdynamics.com/en/news/fingermotion-unveils-modular-data-center-concept-designed-to-operate-in-extreme-climates/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Italian startup targets data centers with offshore energy storage",
-      "url": "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
+      "title": "Blue Owl data center REIT completes acquisition of first building on GCDC campus in Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/blue-owl-data-center-reit-completes-acquisition-of-first-building-on-gcdc-campus-in-virginia/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Vodafone joint venture to develop two major data center projects in Egypt",
-      "url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+      "title": "Next Capital launches new Australian data center firm Dataspace",
+      "url": "https://www.datacenterdynamics.com/en/news/next-capital-launches-new-australian-data-center-firm-dataspace/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Giga Energy secures $1bn lease for 60MW data center in Hunt County, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/giga-energy-secures-1bn-lease-for-60mw-data-center-in-hunt-county-texas/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "UK's Network Rail taps Cognizant for £133.2m data center contract",
+      "url": "https://www.datacenterdynamics.com/en/news/uks-network-rail-taps-cognizant-for-1332m-data-center-contract/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "UK data center firm Stellanor promotes Gary Watson to CEO",
+      "url": "https://www.datacenterdynamics.com/en/news/uk-data-center-firm-stellanor-promotes-gary-watson-to-ceo/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "96MW data center planned on rural Texas ranch owned by Mormon Church",
+      "url": "https://www.datacenterdynamics.com/en/news/mormon-data-center-texas/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "NASA considers opening up Ames Research Center land for private data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/nasa-considers-opening-up-ames-research-center-land-for-private-data-centers/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Hyperscale market shifts",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/hyperscale-market-shifts-afl-new/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     }

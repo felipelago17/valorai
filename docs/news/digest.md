@@ -9,6 +9,52 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-18
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [Who sees the sea? Sea-view potential by fa\c{c}ade and floor from cadastral LoD1 models on the Costa del Sol](https://arxiv.org/abs/2611.21672)
+- **[arXiv econ.GN]** [Does the AI Reviewer Alleviate or Aggravate the Maintenance Burden? Evidence from GitHub Copilot Reviewer](https://arxiv.org/abs/2611.22793)
+- **[arXiv econ.GN]** [RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs](https://arxiv.org/abs/2611.21641)
+- **[arXiv econ.GN]** [Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents](https://arxiv.org/abs/2611.22033)
+- **[arXiv econ.GN]** [Just After Minimum Wage Hikes: Short-Run Labor-Demand Response and Reallocation](https://arxiv.org/abs/2505.04555)
+- **[arXiv econ.GN]** [AI Adoption in S&P 500 Firms](https://arxiv.org/abs/2607.08920)
+- **[arXiv cs.CY]** [WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster Engagement in Computing Education](https://arxiv.org/abs/2611.23058)
+- **[arXiv cs.CY]** [Exploring Students' Insights on Creating Videos to Learn Software Design and Engineering](https://arxiv.org/abs/2611.23075)
+- **[arXiv cs.CY]** [Auditing Hyperstimulation at Scale in Child-Facing YouTube Videos](https://arxiv.org/abs/2611.21637)
+- **[arXiv cs.CY]** [Urban Representation Learning for Identifying Potential Disparities in Crime Reporting](https://arxiv.org/abs/2611.21825)
+- **[arXiv cs.CY]** [Knowing Which, Not How Much: Language Models Order Party Positions They Cannot Place](https://arxiv.org/abs/2611.21878)
+- **[arXiv cs.CY]** [Beyond Acuity Accuracy: A Multidimensional Framework for Evaluating Patient-Facing Emergency Triage AI Tools](https://arxiv.org/abs/2611.22045)
+
+### Management & Strategy
+
+- **[McKinsey Insights]** [Capex in chemicals: Generating value through performance excellence](https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence)
+- **[McKinsey Insights]** [Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI](https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)
+- **[MIT Technology Review]** [The Download: AI learns to smell and hydropower struggles](https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/)
+- **[MIT Technology Review]** [This smell startup says its AI nose is as good as a human’s](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)
+- **[MIT Technology Review]** [Hydropower hit record lows in the US Southwest this summer](https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2](https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/)
+- **[Data Center Dynamics]** [Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center](https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/)
+- **[Data Center Dynamics]** [DC Blox files for third building at Atlanta West data center campus](https://www.datacenterdynamics.com/en/news/dc-blox-files-for-third-building-at-atlanta-west-data-center-campus/)
+- **[Data Center Dynamics]** [Texas environmental regulator resumes data center permitting following ERCOT review](https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/)
+- **[Data Center Dynamics]** [Virginia’s Loudoun County officially adopts 12-month moratorium on data center development](https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-officially-adopts-12-month-moratorium-on-data-center-development/)
+- **[Data Center Dynamics]** [FingerMotion unveils modular data center concept designed to operate in extreme climates](https://www.datacenterdynamics.com/en/news/fingermotion-unveils-modular-data-center-concept-designed-to-operate-in-extreme-climates/)
+- **[Data Center Dynamics]** [Blue Owl data center REIT completes acquisition of first building on GCDC campus in Virginia](https://www.datacenterdynamics.com/en/news/blue-owl-data-center-reit-completes-acquisition-of-first-building-on-gcdc-campus-in-virginia/)
+- **[Data Center Dynamics]** [Next Capital launches new Australian data center firm Dataspace](https://www.datacenterdynamics.com/en/news/next-capital-launches-new-australian-data-center-firm-dataspace/)
+- **[Data Center Dynamics]** [Giga Energy secures $1bn lease for 60MW data center in Hunt County, Texas](https://www.datacenterdynamics.com/en/news/giga-energy-secures-1bn-lease-for-60mw-data-center-in-hunt-county-texas/)
+- **[Data Center Dynamics]** [UK's Network Rail taps Cognizant for £133.2m data center contract](https://www.datacenterdynamics.com/en/news/uks-network-rail-taps-cognizant-for-1332m-data-center-contract/)
+- **[Data Center Dynamics]** [UK data center firm Stellanor promotes Gary Watson to CEO](https://www.datacenterdynamics.com/en/news/uk-data-center-firm-stellanor-promotes-gary-watson-to-ceo/)
+- **[Data Center Dynamics]** [96MW data center planned on rural Texas ranch owned by Mormon Church](https://www.datacenterdynamics.com/en/news/mormon-data-center-texas/)
+
+---
+
 ## 2026-11-17
 
 ### Research & Working Papers
