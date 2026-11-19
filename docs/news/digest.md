@@ -9,6 +9,51 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-19
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [AI, Specialization, and the Organization of Knowledge Work: Evidence from Legal Services](https://arxiv.org/abs/2611.23354)
+- **[arXiv econ.GN]** [The Structural Number of Parties: An Electoral-Outcome-Independent Baseline for Comparing Party-System Scale](https://arxiv.org/abs/2611.24714)
+- **[arXiv econ.GN]** [Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix](https://arxiv.org/abs/2608.21274)
+- **[arXiv econ.GN]** [Human-AI Interactions and Societal Pitfalls](https://arxiv.org/abs/2309.10448)
+- **[arXiv econ.GN]** [AI Behavioral Science: A Framework and Agenda](https://arxiv.org/abs/2509.13323)
+- **[arXiv econ.GN]** [The Digital-Energy Recomposition of the Kitchin Cycle: Exploratory Evidence from U.S. IT and Irish Data-Centre Series (1995-2025)](https://arxiv.org/abs/2610.33122)
+- **[arXiv cs.CY]** [Management of Behavioral Addictions via Artificial Intelligence based Digital Technologies](https://arxiv.org/abs/2611.23341)
+- **[arXiv cs.CY]** [RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers](https://arxiv.org/abs/2611.23443)
+- **[arXiv cs.CY]** [When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction](https://arxiv.org/abs/2611.23638)
+- **[arXiv cs.CY]** [Same Model, Different People: Numerical Execution Contracts and the Reproducibility of Fairness Audits](https://arxiv.org/abs/2611.23657)
+- **[arXiv cs.CY]** [Decent Work Standards and Non-Conventional Work: Measurement Gaps and Uneven Capability Formation in Kenya's Online Platform Labour Markets](https://arxiv.org/abs/2611.23757)
+- **[arXiv cs.CY]** [AI Surge Accelerates the Transition to Liquid Cooling: Rethinking Energy and Water Use in Data Center Cooling](https://arxiv.org/abs/2611.23903)
+
+### Management & Strategy
+
+- **[McKinsey Insights]** [Building pharma’s laboratory of the future](https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future)
+- **[McKinsey Insights]** [Stefan Latuski on transforming public sector services at scale](https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale)
+- **[McKinsey Insights]** [A bold vision for Belgium](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/)
+- **[MIT Technology Review]** [What a billion-dollar deal says about the US battery market](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [DCD Survey: Direct liquid cooling | From deployment to lifecycle](https://www.datacenterdynamics.com/en/research/dcd-survey-direct-liquid-cooling-from-deployment-to-lifecycle/)
+- **[Data Center Dynamics]** [OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware](https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/)
+- **[Data Center Dynamics]** [UK IT firm Iomart eyes sell-off of data center business](https://www.datacenterdynamics.com/en/news/uk-it-firm-iomart-eyes-sell-off-of-data-center-business/)
+- **[Data Center Dynamics]** [Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas](https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/)
+- **[Data Center Dynamics]** [Stonepeak-backed Cirion spins off its data center business as Datrix](https://www.datacenterdynamics.com/en/news/stonepeak-backed-cirion-spins-off-its-data-center-business-as-datrix/)
+- **[Data Center Dynamics]** [Infomaniak and Gruyère Energie announce joint application for data center in Bulle, Switzerland](https://www.datacenterdynamics.com/en/news/infomaniak-and-gruy%C3%A8re-energie-announce-joint-application-for-data-center-in-bulle-switzerland/)
+- **[Data Center Dynamics]** [Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues](https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/)
+- **[Data Center Dynamics]** [Spain's Kumo opens Tier IV data center in Valencia](https://www.datacenterdynamics.com/en/news/spains-kumo-opens-tier-iv-data-center-in-valencia/)
+- **[Data Center Dynamics]** [Q.ANT unveils NPU Gen 2+ photonic processor](https://www.datacenterdynamics.com/en/news/qant-unveils-npu-gen-2-photonic-processor/)
+- **[Data Center Dynamics]** [North Carolina utility Duke Energy secures regulatory approval for new data center rate class](https://www.datacenterdynamics.com/en/news/north-carolina-utility-duke-energy-secures-regulatory-approval-for-new-data-center-rate-class/)
+- **[Data Center Dynamics]** [Viridis Data launches, touting offgrid renewable powered data center solution](https://www.datacenterdynamics.com/en/news/viridis-data-launches-touting-offgrid-renewable-powered-data-center-solution/)
+- **[Data Center Dynamics]** [NexGen Cloud hires Nscale's Dan Thomas as chief infrastructure officer](https://www.datacenterdynamics.com/en/news/nexgen-cloud-hires-nscales-dan-thomas-as-chief-infrastructure-officer/)
+
+---
+
 ## 2026-11-18
 
 ### Research & Working Papers
