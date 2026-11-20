@@ -1,299 +1,227 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
-      "title": "AI, Specialization, and the Organization of Knowledge Work: Evidence from Legal Services",
-      "url": "https://arxiv.org/abs/2611.23354",
+      "title": "Globally promoting legumes by production or use subsidies",
+      "url": "https://arxiv.org/abs/2611.26168",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "The Structural Number of Parties: An Electoral-Outcome-Independent Baseline for Comparing Party-System Scale",
-      "url": "https://arxiv.org/abs/2611.24714",
+      "title": "Structural economic change under the digital transformation",
+      "url": "https://arxiv.org/abs/2611.26338",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix",
-      "url": "https://arxiv.org/abs/2608.21274",
+      "title": "The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale",
+      "url": "https://arxiv.org/abs/2611.25218",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Human-AI Interactions and Societal Pitfalls",
-      "url": "https://arxiv.org/abs/2309.10448",
+      "title": "Equity and Aggregate Ambiguity",
+      "url": "https://arxiv.org/abs/2611.26197",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "AI Behavioral Science: A Framework and Agenda",
-      "url": "https://arxiv.org/abs/2509.13323",
+      "title": "Firm Entry and Exit with Unbounded Productivity",
+      "url": "https://arxiv.org/abs/1910.14023",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "The Digital-Energy Recomposition of the Kitchin Cycle: Exploratory Evidence from U.S. IT and Irish Data-Centre Series (1995-2025)",
-      "url": "https://arxiv.org/abs/2610.33122",
+      "title": "Multiscale Reconstruction of Weighted Networks from Coarse-Grained Data",
+      "url": "https://arxiv.org/abs/2609.37957",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Management of Behavioral Addictions via Artificial Intelligence based Digital Technologies",
-      "url": "https://arxiv.org/abs/2611.23341",
+      "title": "Asymmetric rhetorical strategies drive partisanship in television news",
+      "url": "https://arxiv.org/abs/2611.25140",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers",
-      "url": "https://arxiv.org/abs/2611.23443",
+      "title": "Whose Safety? Addressing Anti-Blackness in the Age of AI Safety",
+      "url": "https://arxiv.org/abs/2611.25302",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
-      "url": "https://arxiv.org/abs/2611.23638",
+      "title": "AI-Driven Transformation of Digital Platform Work: A Task-Based Model for Measuring Labour Disruption and Vulnerability, with Early Evidence from Online Freelancing in Kenya",
+      "url": "https://arxiv.org/abs/2611.25585",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Same Model, Different People: Numerical Execution Contracts and the Reproducibility of Fairness Audits",
-      "url": "https://arxiv.org/abs/2611.23657",
+      "title": "KeyMem: Temporal Occupancy Control for Robust Streaming VideoLLM Memory",
+      "url": "https://arxiv.org/abs/2611.25649",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Decent Work Standards and Non-Conventional Work: Measurement Gaps and Uneven Capability Formation in Kenya's Online Platform Labour Markets",
-      "url": "https://arxiv.org/abs/2611.23757",
+      "title": "Neighbourhood Walkability and Cardiometabolic Morbidity in Greater London: A Fine-Grained Spatial Analysis",
+      "url": "https://arxiv.org/abs/2611.26573",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "AI Surge Accelerates the Transition to Liquid Cooling: Rethinking Energy and Water Use in Data Center Cooling",
-      "url": "https://arxiv.org/abs/2611.23903",
+      "title": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
+      "url": "https://arxiv.org/abs/2611.24970",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Human-LLM Cognitive Extension: A Framework for Studying Coupled Cognition",
-      "url": "https://arxiv.org/abs/2611.24149",
+      "title": "Trace2ST: Recovering PLC Structured Text from I/O Traces with LLM Generation and Verification",
+      "url": "https://arxiv.org/abs/2611.24979",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Hi Gemini, Who Should I Vote For? The Benefits (and Problems) of Using LLMs As Voting Advice Applications",
-      "url": "https://arxiv.org/abs/2611.24684",
+      "title": "When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation",
+      "url": "https://arxiv.org/abs/2611.25258",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-      "url": "https://arxiv.org/abs/2611.24927",
+      "title": "AI Deactivation Reduces Loneliness and Increases Social Interaction",
+      "url": "https://arxiv.org/abs/2611.25263",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "AllotNet: an Interpretable Mixture-of-Experts Choice Model for Moral Judgement in Humanitarian Aid Allocation, Validated against a Planted Synthetic Population",
-      "url": "https://arxiv.org/abs/2611.23474",
+      "title": "AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues",
+      "url": "https://arxiv.org/abs/2611.25269",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "From Arraignment to Resolution: Transformer Models of Court Cases",
-      "url": "https://arxiv.org/abs/2611.23518",
+      "title": "Coordinated Use of Large Language Models in Academic Research",
+      "url": "https://arxiv.org/abs/2611.25502",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
-      "url": "https://arxiv.org/abs/2611.23795",
+      "title": "Verifiable Logic in Medical LLMs: A Critical Review of Agentic Clinical Reasoning Optimization and Neuro-Symbolic Grounding",
+      "url": "https://arxiv.org/abs/2611.25898",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "What Majority Labels Hide: Annotator Disagreement and Model Errors in Multi-Dialect Arabic Sexism Detection",
-      "url": "https://arxiv.org/abs/2611.24383",
+      "title": "Web search in Latin America: language models use less local and diverse news than search engines",
+      "url": "https://arxiv.org/abs/2611.25955",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "\"I Don't Think It's a Scam\": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba",
-      "url": "https://arxiv.org/abs/2611.24899",
+      "title": "A Quasi-experimental Study of Conversational AI-supported Engagement in Large CS Courses",
+      "url": "https://arxiv.org/abs/2506.18941",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Meme Template Identification in the Wild: Comparing Methods for Semi-Open-Set Recognition",
-      "url": "https://arxiv.org/abs/2408.08126",
+      "title": "How Large Language Models Misrepresent American Climate Opinions",
+      "url": "https://arxiv.org/abs/2512.23889",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "A conceptual framework for ideology in online discourse beyond the left and right",
-      "url": "https://arxiv.org/abs/2603.18945",
+      "title": "Authors' Response to AI-Based Reviews: A Mixed-Methods Pilot Study",
+      "url": "https://arxiv.org/abs/2605.16623",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Disarranged Harmonization of Transparency Reporting by Social Media Platforms Under the Digital Services Act",
-      "url": "https://arxiv.org/abs/2605.17655",
+      "title": "SST-Guard: Detecting and Characterizing Server-Side Google Analytics in the Wild",
+      "url": "https://arxiv.org/abs/2604.27497",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Accounting for Purchased Artificial Intelligence Inference in Corporate Greenhouse Gas Inventories: A Token-Based Method",
-      "url": "https://arxiv.org/abs/2606.10660",
+      "title": "Stop Removing Stopwords: How an Inherited Preprocessing Default Distorts Legal Text-as-Data",
+      "url": "https://arxiv.org/abs/2609.19153",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Large language models create an uneven informational layer over cities",
-      "url": "https://arxiv.org/abs/2607.06260",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents",
-      "url": "https://arxiv.org/abs/2503.01935",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Uncertainty, bias and the institution bootstrapping problem",
-      "url": "https://arxiv.org/abs/2504.21579",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "LLM-Assisted Reranking to Operationalize Nuanced Objectives in Recommender Systems",
-      "url": "https://arxiv.org/abs/2606.02883",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Polar: A Benchmark for Evaluating Political Bias in LLMs",
-      "url": "https://arxiv.org/abs/2606.12922",
-      "source": "arXiv cs.CY",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Building pharma’s laboratory of the future",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future",
+      "title": "Physical AI is breaking out of the box",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
       "source": "McKinsey Insights",
       "category": "Management & Strategy"
     },
     {
-      "title": "Stefan Latuski on transforming public sector services at scale",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale",
-      "source": "McKinsey Insights",
-      "category": "Management & Strategy"
-    },
-    {
-      "title": "A bold vision for Belgium",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium",
-      "source": "McKinsey Insights",
-      "category": "Management & Strategy"
-    },
-    {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "What a billion-dollar deal says about the US battery market",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "DCD Survey: Direct liquid cooling | From deployment to lifecycle",
-      "url": "https://www.datacenterdynamics.com/en/research/dcd-survey-direct-liquid-cooling-from-deployment-to-lifecycle/",
+      "title": "AMD set to lease planned 5C data center in Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+      "title": "Egypt’s Forbes International Tower to house a data center",
+      "url": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "UK IT firm Iomart eyes sell-off of data center business",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-it-firm-iomart-eyes-sell-off-of-data-center-business/",
+      "title": "US Senate passes bill requiring data centers to pay more for grid infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas",
-      "url": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
+      "title": "Nebius expands Israel data center lease with Mega Or by 134MW",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Stonepeak-backed Cirion spins off its data center business as Datrix",
-      "url": "https://www.datacenterdynamics.com/en/news/stonepeak-backed-cirion-spins-off-its-data-center-business-as-datrix/",
+      "title": "L&G-led 90MW data center site in East London sold to unnamed buyer",
+      "url": "https://www.datacenterdynamics.com/en/news/lg-led-90mw-data-center-site-in-east-london-sold-to-unnamed-buyer/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Infomaniak and Gruyère Energie announce joint application for data center in Bulle, Switzerland",
-      "url": "https://www.datacenterdynamics.com/en/news/infomaniak-and-gruy%C3%A8re-energie-announce-joint-application-for-data-center-in-bulle-switzerland/",
+      "title": "PJM plan could cut data center and power plant grid connection times to 12 months",
+      "url": "https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
-      "url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+      "title": "EdgeCore launches Reno data center, tops out second building on campus",
+      "url": "https://www.datacenterdynamics.com/en/news/edgecore-launches-reno-data-center-tops-out-second-building-on-campus/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Spain's Kumo opens Tier IV data center in Valencia",
-      "url": "https://www.datacenterdynamics.com/en/news/spains-kumo-opens-tier-iv-data-center-in-valencia/",
+      "title": "Saudi social and livestreaming platform HooLive migrates to Tencent Cloud",
+      "url": "https://www.datacenterdynamics.com/en/news/saudi-social-and-livestreaming-platform-hoolive-migrates-to-tencent-cloud/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Q.ANT unveils NPU Gen 2+ photonic processor",
-      "url": "https://www.datacenterdynamics.com/en/news/qant-unveils-npu-gen-2-photonic-processor/",
+      "title": "TeraWulf starts construction at Kentucky data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/terawulf-starts-construction-at-kentucky-data-center-campus/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "North Carolina utility Duke Energy secures regulatory approval for new data center rate class",
-      "url": "https://www.datacenterdynamics.com/en/news/north-carolina-utility-duke-energy-secures-regulatory-approval-for-new-data-center-rate-class/",
+      "title": "Hochtief's Yexio launches Edge data center in Paderborn, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/hochtiefs-yexio-launches-edge-data-center-in-paderborn-germany/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Viridis Data launches, touting offgrid renewable powered data center solution",
-      "url": "https://www.datacenterdynamics.com/en/news/viridis-data-launches-touting-offgrid-renewable-powered-data-center-solution/",
+      "title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
+      "url": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "NexGen Cloud hires Nscale's Dan Thomas as chief infrastructure officer",
-      "url": "https://www.datacenterdynamics.com/en/news/nexgen-cloud-hires-nscales-dan-thomas-as-chief-infrastructure-officer/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Microsoft begins work on Westgate data center in New Zealand",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-begins-work-on-westgate-data-center-in-new-zealand/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Biodata Matters for the Genesis Mission",
-      "url": "https://cset.georgetown.edu/article/biodata-matters-for-the-genesis-mission/",
-      "source": "CSET",
-      "category": "Research & Working Papers"
     }
   ]
 }

@@ -9,6 +9,47 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-20
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [Globally promoting legumes by production or use subsidies](https://arxiv.org/abs/2611.26168)
+- **[arXiv econ.GN]** [Structural economic change under the digital transformation](https://arxiv.org/abs/2611.26338)
+- **[arXiv econ.GN]** [The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale](https://arxiv.org/abs/2611.25218)
+- **[arXiv econ.GN]** [Equity and Aggregate Ambiguity](https://arxiv.org/abs/2611.26197)
+- **[arXiv econ.GN]** [Firm Entry and Exit with Unbounded Productivity](https://arxiv.org/abs/1910.14023)
+- **[arXiv econ.GN]** [Multiscale Reconstruction of Weighted Networks from Coarse-Grained Data](https://arxiv.org/abs/2609.37957)
+- **[arXiv cs.CY]** [Asymmetric rhetorical strategies drive partisanship in television news](https://arxiv.org/abs/2611.25140)
+- **[arXiv cs.CY]** [Whose Safety? Addressing Anti-Blackness in the Age of AI Safety](https://arxiv.org/abs/2611.25302)
+- **[arXiv cs.CY]** [AI-Driven Transformation of Digital Platform Work: A Task-Based Model for Measuring Labour Disruption and Vulnerability, with Early Evidence from Online Freelancing in Kenya](https://arxiv.org/abs/2611.25585)
+- **[arXiv cs.CY]** [KeyMem: Temporal Occupancy Control for Robust Streaming VideoLLM Memory](https://arxiv.org/abs/2611.25649)
+- **[arXiv cs.CY]** [Neighbourhood Walkability and Cardiometabolic Morbidity in Greater London: A Fine-Grained Spatial Analysis](https://arxiv.org/abs/2611.26573)
+- **[arXiv cs.CY]** [HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure](https://arxiv.org/abs/2611.24970)
+
+### Management & Strategy
+
+- **[McKinsey Insights]** [Physical AI is breaking out of the box](https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [AMD set to lease planned 5C data center in Pennsylvania](https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/)
+- **[Data Center Dynamics]** [Egypt’s Forbes International Tower to house a data center](https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/)
+- **[Data Center Dynamics]** [US Senate passes bill requiring data centers to pay more for grid infrastructure](https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/)
+- **[Data Center Dynamics]** [Nebius expands Israel data center lease with Mega Or by 134MW](https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/)
+- **[Data Center Dynamics]** [L&G-led 90MW data center site in East London sold to unnamed buyer](https://www.datacenterdynamics.com/en/news/lg-led-90mw-data-center-site-in-east-london-sold-to-unnamed-buyer/)
+- **[Data Center Dynamics]** [PJM plan could cut data center and power plant grid connection times to 12 months](https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/)
+- **[Data Center Dynamics]** [EdgeCore launches Reno data center, tops out second building on campus](https://www.datacenterdynamics.com/en/news/edgecore-launches-reno-data-center-tops-out-second-building-on-campus/)
+- **[Data Center Dynamics]** [Saudi social and livestreaming platform HooLive migrates to Tencent Cloud](https://www.datacenterdynamics.com/en/news/saudi-social-and-livestreaming-platform-hoolive-migrates-to-tencent-cloud/)
+- **[Data Center Dynamics]** [TeraWulf starts construction at Kentucky data center campus](https://www.datacenterdynamics.com/en/news/terawulf-starts-construction-at-kentucky-data-center-campus/)
+- **[Data Center Dynamics]** [Hochtief's Yexio launches Edge data center in Paderborn, Germany](https://www.datacenterdynamics.com/en/news/hochtiefs-yexio-launches-edge-data-center-in-paderborn-germany/)
+- **[Data Center Dynamics]** [Nexalus and Renda launch liquid-cooled AI server for data center retrofit market](https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/)
+
+---
+
 ## 2026-11-19
 
 ### Research & Working Papers
