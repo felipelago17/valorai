@@ -9,6 +9,26 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-21
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Securing the turbine is only half the battle: the emissions monitoring path to data center power](https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/)
+- **[Data Center Dynamics]** [UK competition body probes hyperscaler security and cloud lock-in](https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/)
+- **[Data Center Dynamics]** [Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia](https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/)
+- **[Data Center Dynamics]** [CyrusOne and KEP top out 48MW data center in Osaka, Japan](https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/)
+- **[Data Center Dynamics]** [Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report](https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/)
+- **[Data Center Dynamics]** [Sponsored: Principles of a financeable GPUaaS SLA](https://www.datacenterdynamics.com/en/opinions/principles-of-a-financeable-gpuaas-sla/)
+- **[Data Center Dynamics]** [Lambda deploys Nvidia Photonics switches at QScale data center](https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/)
+- **[Data Center Dynamics]** [Regulation ready](https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/)
+- **[Data Center Dynamics]** [SpaceX expresses interest in building data centers in Bulgaria](https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/)
+
+---
+
 ## 2026-11-20
 
 ### Research & Working Papers
