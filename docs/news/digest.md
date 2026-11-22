@@ -9,6 +9,14 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-22
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Sponsored: The hidden efficiency gap in data center containment](https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/)
+
+---
+
 ## 2026-11-21
 
 ### Industry & Market

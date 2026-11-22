@@ -1,63 +1,9 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
-      "url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "UK competition body probes hyperscaler security and cloud lock-in",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
-      "url": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Sponsored: Principles of a financeable GPUaaS SLA",
-      "url": "https://www.datacenterdynamics.com/en/opinions/principles-of-a-financeable-gpuaas-sla/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Lambda deploys Nvidia Photonics switches at QScale data center",
-      "url": "https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Regulation ready",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "SpaceX expresses interest in building data centers in Bulgaria",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
+      "title": "Sponsored: The hidden efficiency gap in data center containment",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     }
