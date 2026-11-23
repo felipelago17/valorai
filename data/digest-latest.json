@@ -1,11 +1,323 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
-      "title": "Sponsored: The hidden efficiency gap in data center containment",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+      "title": "Five Facts About Stablecoins -- by Lin William Cong, Gordon Y. Liao, Eswar S. Prasad, Tony Zhang",
+      "url": "https://www.nber.org/papers/w36038#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing -- by Murillo Campello, Guilherme Junqueira",
+      "url": "https://www.nber.org/papers/w36039#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage -- by Paul D. Jacobs, Timothy J. Layton",
+      "url": "https://www.nber.org/papers/w36042#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Mental Models of Fiscal Policy -- by Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver, Salma Khalid",
+      "url": "https://www.nber.org/papers/w36043#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Valuing the Cost of Incomplete Global Markets -- by Karen K. Lewis, Edith X. Liu",
+      "url": "https://www.nber.org/papers/w36046#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Regret, Survival Beliefs, and Retirement Recommendations -- by Abigail Hurwitz, Olivia S. Mitchell",
+      "url": "https://www.nber.org/papers/w36047#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Are Revealed Preferences All You Need for AI Alignment? -- by Joshua S. Gans, Richard T. Holden",
+      "url": "https://www.nber.org/papers/w36048#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Bureaucratic Rigidity and Battle Outcomes: Evidence from Military Logistics in the Ming Dynasty -- by Jingjing Chen, Jianlei Han, Shing-Yi Wang, Yongxiang Wang",
+      "url": "https://www.nber.org/papers/w36049#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Past Automation and Future AI: How Weak Links Tame the Growth Explosion -- by Charles I. Jones, Christopher Tonetti",
+      "url": "https://www.nber.org/papers/w36050#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Climate Risk, Real Estate, and Property Insurance -- by Benjamin L. Collier, Benjamin J. Keys, Philip Mulder",
+      "url": "https://www.nber.org/papers/w36051#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Long-run Uncovered Interest Parity in Emerging Markets -- by Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone",
+      "url": "https://www.nber.org/papers/w36052#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals -- by Brad C. Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
+      "url": "https://www.nber.org/papers/w36055#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Chips & Tokens at the Fault Lines: Two Stacks in One Fragmenting World -- by Fabio Natalucci, Alessandro Rebucci",
+      "url": "https://www.nber.org/papers/w36056#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "CFOs Meet LLMs -- by John R. Graham, Campbell R. Harvey, Manish Jha",
+      "url": "https://www.nber.org/papers/w36057#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Supply-Side Drivers of Long-Acting Reversible Contraceptives: Evidence from Medicaid Beneficiaries -- by Maya Rossin-Slater, Natalia Serna, Lin-Tung Tsai",
+      "url": "https://www.nber.org/papers/w36059#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Light Pollution: Effects on Sleep, Work, and Mental Health -- by Joan Costa-i-Font, Janet Currie, Soodeh Saberian",
+      "url": "https://www.nber.org/papers/w36060#fromrss",
+      "source": "NBER Working Papers",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Rise of Agents and the Human Labor Market",
+      "url": "https://arxiv.org/abs/2611.27210",
+      "source": "arXiv econ.GN",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Trust and Lottery-Related Anomalies",
+      "url": "https://arxiv.org/abs/2611.27020",
+      "source": "arXiv econ.GN",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Rethinking Arrow--Debreu: A New Framework for Exchange",
+      "url": "https://arxiv.org/abs/2510.16003",
+      "source": "arXiv econ.GN",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Puzzles, People, and Publications: Measuring Shared Significance in Crosswords from 1942 to 2024",
+      "url": "https://arxiv.org/abs/2611.26677",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice",
+      "url": "https://arxiv.org/abs/2611.26923",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Early Assessment Submission and Subsequent Course Outcome: A Day-30 Landmark Observational Analysis of OULAD with Explicit Weighting Diagnostics",
+      "url": "https://arxiv.org/abs/2611.27005",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "A Footprint-Sensitive Cross-GPU Timing Channel Through the Shared Host Memory Subsystem",
+      "url": "https://arxiv.org/abs/2611.27115",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "A Frugal AI Framework for India: Responsible and Right-sized AI",
+      "url": "https://arxiv.org/abs/2611.27189",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Answering the persona, not the person: Over-determination in the construction of synthetic respondents",
+      "url": "https://arxiv.org/abs/2611.27449",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "On the Challenges of Using LLMs in High-Risk AI Recruitment: Guiding Questions for Legal Conformity with the AI Act",
+      "url": "https://arxiv.org/abs/2611.27462",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Explain Your Code: AI-Based Examination at Class Scale",
+      "url": "https://arxiv.org/abs/2611.26836",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Modeling Attributional Style at Scale: A Dataset and Analysis for Psychological Attribution Assessment and Reframing",
+      "url": "https://arxiv.org/abs/2611.26900",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "What Does Matching a Human Intervention Effect Establish? Benchmark Checks for LLM Simulations",
+      "url": "https://arxiv.org/abs/2611.27186",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "No Perfect Guardrail & No Perfect Guard: On the Decidability of Output Policies for Large Language Models",
+      "url": "https://arxiv.org/abs/2611.27260",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Standard-Anchored Delegation in Teachers' Use of Generative AI",
+      "url": "https://arxiv.org/abs/2611.27533",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas",
+      "url": "https://arxiv.org/abs/2603.11842",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Probabilistic \"Copies\" in Generative AI Models",
+      "url": "https://arxiv.org/abs/2607.14532",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs",
+      "url": "https://arxiv.org/abs/2309.03876",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Bridging the Mobile Trust Gap: A Zero Trust Framework for Consumer-Facing Applications",
+      "url": "https://arxiv.org/abs/2508.16662",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Improving Consistency in Retrieval-Augmented Systems with Group Similarity Rewards",
+      "url": "https://arxiv.org/abs/2510.04392",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "What's on Your Mind? Exploring Privacy of Mental Health Apps",
+      "url": "https://arxiv.org/abs/2605.02016",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Trouble With Continuous Personal Growth",
+      "url": "https://sloanreview.mit.edu/article/the-trouble-with-continuous-personal-growth/",
+      "source": "MIT Sloan Management Review",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "AI economics in action: What four companies have done and learned",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "Is Japan due for a business reset?",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset",
+      "source": "McKinsey Insights",
+      "category": "Management & Strategy"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "category": "Industry & Market"
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "source": "MIT Technology Review",
+      "category": "Industry & Market"
+    },
+    {
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "source": "MIT Technology Review",
+      "category": "Industry & Market"
+    },
+    {
+      "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+      "url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Cogent sells three data centers to I Squared Capital's Saragon",
+      "url": "https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "The coming wave: Is compute at sea ready to sink or swim?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Sponsored: Solving cabling challenges behind AI data center growth",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Spain approves decree on data centers to curb electricity costs",
+      "url": "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "CtrlS moves forward with 150MW data center project in Bihar, India",
+      "url": "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+      "url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Northern Europe Energy eyes 200MW data center project outside Riga, Latvia",
+      "url": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-eyes-200mw-data-center-project-outside-riga-latvia/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Frux Capital to provide €20m funding for Proxity data center campus in Lisbon",
+      "url": "https://www.datacenterdynamics.com/en/news/frux-provides-20-million-euros-in-financing-for-the-proxity-campus-in-lisbon/",
+      "source": "Data Center Dynamics",
+      "category": "Energy & Infrastructure Cost"
+    },
+    {
+      "title": "Judge the Cyber Apocalypse by the Data, Not the Headlines",
+      "url": "https://cset.georgetown.edu/article/judge-the-cyber-apocalypse-by-the-data-not-the-headlines/",
+      "source": "CSET",
+      "category": "Research & Working Papers"
     }
   ]
 }

@@ -9,6 +9,49 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-23
+
+### Research & Working Papers
+
+- **[NBER Working Papers]** [Five Facts About Stablecoins -- by Lin William Cong, Gordon Y. Liao, Eswar S. Prasad, Tony Zhang](https://www.nber.org/papers/w36038#fromrss)
+- **[NBER Working Papers]** [Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing -- by Murillo Campello, Guilherme Junqueira](https://www.nber.org/papers/w36039#fromrss)
+- **[NBER Working Papers]** [The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage -- by Paul D. Jacobs, Timothy J. Layton](https://www.nber.org/papers/w36042#fromrss)
+- **[NBER Working Papers]** [Mental Models of Fiscal Policy -- by Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver, Salma Khalid](https://www.nber.org/papers/w36043#fromrss)
+- **[NBER Working Papers]** [Valuing the Cost of Incomplete Global Markets -- by Karen K. Lewis, Edith X. Liu](https://www.nber.org/papers/w36046#fromrss)
+- **[NBER Working Papers]** [Regret, Survival Beliefs, and Retirement Recommendations -- by Abigail Hurwitz, Olivia S. Mitchell](https://www.nber.org/papers/w36047#fromrss)
+- **[NBER Working Papers]** [Are Revealed Preferences All You Need for AI Alignment? -- by Joshua S. Gans, Richard T. Holden](https://www.nber.org/papers/w36048#fromrss)
+- **[NBER Working Papers]** [Bureaucratic Rigidity and Battle Outcomes: Evidence from Military Logistics in the Ming Dynasty -- by Jingjing Chen, Jianlei Han, Shing-Yi Wang, Yongxiang Wang](https://www.nber.org/papers/w36049#fromrss)
+- **[NBER Working Papers]** [Past Automation and Future AI: How Weak Links Tame the Growth Explosion -- by Charles I. Jones, Christopher Tonetti](https://www.nber.org/papers/w36050#fromrss)
+- **[NBER Working Papers]** [Climate Risk, Real Estate, and Property Insurance -- by Benjamin L. Collier, Benjamin J. Keys, Philip Mulder](https://www.nber.org/papers/w36051#fromrss)
+- **[NBER Working Papers]** [Long-run Uncovered Interest Parity in Emerging Markets -- by Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone](https://www.nber.org/papers/w36052#fromrss)
+- **[NBER Working Papers]** [Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals -- by Brad C. Nathan, Ricardo Perez-Truglia, Alejandro Zentner](https://www.nber.org/papers/w36055#fromrss)
+
+### Management & Strategy
+
+- **[MIT Sloan Management Review]** [The Trouble With Continuous Personal Growth](https://sloanreview.mit.edu/article/the-trouble-with-continuous-personal-growth/)
+- **[McKinsey Insights]** [AI economics in action: What four companies have done and learned](https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned)
+- **[McKinsey Insights]** [Is Japan due for a business reset?](https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
+- **[MIT Technology Review]** [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/)
+- **[MIT Technology Review]** [Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal](https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/)
+- **[Data Center Dynamics]** [Cogent sells three data centers to I Squared Capital's Saragon](https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/)
+- **[Data Center Dynamics]** [The coming wave: Is compute at sea ready to sink or swim?](https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/)
+- **[Data Center Dynamics]** [Sponsored: Solving cabling challenges behind AI data center growth](https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/)
+- **[Data Center Dynamics]** [Spain approves decree on data centers to curb electricity costs](https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/)
+- **[Data Center Dynamics]** [CtrlS moves forward with 150MW data center project in Bihar, India](https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/)
+- **[Data Center Dynamics]** [Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland](https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/)
+- **[Data Center Dynamics]** [Northern Europe Energy eyes 200MW data center project outside Riga, Latvia](https://www.datacenterdynamics.com/en/news/northern-europe-energy-eyes-200mw-data-center-project-outside-riga-latvia/)
+- **[Data Center Dynamics]** [Frux Capital to provide €20m funding for Proxity data center campus in Lisbon](https://www.datacenterdynamics.com/en/news/frux-provides-20-million-euros-in-financing-for-the-proxity-campus-in-lisbon/)
+
+---
+
 ## 2026-11-22
 
 ### Energy & Infrastructure Cost
