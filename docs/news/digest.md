@@ -9,6 +9,49 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-24
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [Echoes of the boom in hydraulic fracturing: What changes in Louisiana's energy complex reveal about global energy cycles](https://arxiv.org/abs/2611.28309)
+- **[arXiv econ.GN]** [What the annual energy balance hides: the coordination value of digital platforms for positive energy districts](https://arxiv.org/abs/2611.29485)
+- **[arXiv econ.GN]** [Do Candlestick Charts Suffice? The Incremental Economic Value of Technical Indicators in Stock Return Prediction](https://arxiv.org/abs/2611.30584)
+- **[arXiv econ.GN]** [AI-Assisted Programming and Labor Demand](https://arxiv.org/abs/2611.31083)
+- **[arXiv econ.GN]** [Optimization of a Solar-Grid Water Supply System with Hydraulic Energy Storage: A Case Study](https://arxiv.org/abs/2611.30019)
+- **[arXiv econ.GN]** [Ancestral origins of environmental (in)attention](https://arxiv.org/abs/2509.09598)
+- **[arXiv econ.GN]** [From Augmentation to Reconstruction: Guiding the AI Disruption to the Good Place](https://arxiv.org/abs/2605.29207)
+- **[arXiv econ.GN]** [Probabilistic Risk Sensitivity and Loss Aversion in Cumulative Prospect Theory](https://arxiv.org/abs/2606.06652)
+- **[arXiv econ.GN]** [Linear Demand Systems are Consistent with Discrete Choice](https://arxiv.org/abs/2610.13785)
+- **[arXiv econ.GN]** [Can Artificial Intelligence Forecast Treatment Effects in Economics?](https://arxiv.org/abs/2610.38883)
+- **[arXiv econ.GN]** [Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions](https://arxiv.org/abs/2605.15217)
+- **[arXiv cs.CY]** [Investigating Shadow IT Use and Adoption in Educational Institutions and their Privacy Implications](https://arxiv.org/abs/2611.28280)
+
+### Management & Strategy
+
+- **[MIT Sloan Management Review]** [Four Habits of Tech-Savvy Leaders](https://sloanreview.mit.edu/article/four-habits-of-tech-savvy-leaders/)
+- **[McKinsey Insights]** [What is the agentic factory? An update to the machinery of transformation for financial-services businesses](https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [Raising the stakes for enterprise networks with AI modernization](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/)
+- **[MIT Technology Review]** [The Download: AI’s gas power boom and a consciousness reality check](https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/)
+- **[MIT Technology Review]** [Data centers are getting their own natural gas power plants](https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium](https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/)
+- **[Data Center Dynamics]** [ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn](https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/)
+- **[Data Center Dynamics]** [Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina](https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/)
+- **[Data Center Dynamics]** [Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler](https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/)
+- **[Data Center Dynamics]** [Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock](https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/)
+- **[Data Center Dynamics]** [NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California](https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/)
+- **[Data Center Dynamics]** [LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center](https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/)
+- **[Data Center Dynamics]** [Proper Voltage launches sodium-ion battery cabinet for data center UPS systems](https://www.datacenterdynamics.com/en/news/proper-voltage-launches-sodium-ion-battery-cabinet-for-data-center-ups-systems/)
+- **[Data Center Dynamics]** [DatacenterHawk: Global data center supply grows two-thirds, but vacancy shrinks](https://www.datacenterdynamics.com/en/news/datacenterhawk-global-data-center-supply-grows-two-thirds-but-vacancy-shrinks/)
+- **[Data Center Dynamics]** [NTT signs MoU with B.Grimm for 400MW data center project in Thailand](https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/)
+
+---
+
 ## 2026-11-23
 
 ### Research & Working Papers
