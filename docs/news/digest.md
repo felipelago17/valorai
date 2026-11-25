@@ -9,6 +9,46 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-25
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [Burning the Bridge: Agentification and Domestic Value Added](https://arxiv.org/abs/2611.31518)
+- **[arXiv econ.GN]** [Training decision models for simulating human respondents](https://arxiv.org/abs/2611.31613)
+- **[arXiv econ.GN]** [Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement](https://arxiv.org/abs/2611.33050)
+- **[arXiv econ.GN]** [Binding Constraints in a Strategic Technology: An Industrial Vulnerability Index for the Foundation Model Industry](https://arxiv.org/abs/2510.23421)
+- **[arXiv econ.GN]** [Stay, Reposition, or Recharge: Battery-Aware Operation of Robotaxi Fleets](https://arxiv.org/abs/2611.07699)
+- **[arXiv cs.CY]** [Typical-query energy figures mislead institutional AI electricity demand](https://arxiv.org/abs/2611.31960)
+- **[arXiv cs.CY]** [Do Clinician-Scored Examples Help LLMs Code ADOS-2 from Hour-Long Transcripts?](https://arxiv.org/abs/2611.32050)
+- **[arXiv cs.CY]** [An expert consensus on identification likelihood in NeuroImaging data](https://arxiv.org/abs/2611.32330)
+- **[arXiv cs.CY]** [AI, Bias, and Inclusion: A Two-Phase Mixed-Methods Study of Gender Bias, Awareness, and Trust in Artificial Intelligence](https://arxiv.org/abs/2611.32869)
+- **[arXiv cs.CY]** [Who decides the norms in TCS? Analysing the composition of the STOC 2027 committees and of the Simons Institute "AI+TCS" working group](https://arxiv.org/abs/2611.33082)
+- **[arXiv cs.CY]** [Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense](https://arxiv.org/abs/2611.31429)
+- **[arXiv cs.CY]** [Where Agent Defenses Fail: A Case Study of Policy Compositions and Measurement Limits](https://arxiv.org/abs/2611.31541)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [How data centers are driving a US natural-gas boom](https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/)
+- **[MIT Technology Review]** [The Download: AI swamping open records, and firefighting for permafrost](https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/)
+- **[MIT Technology Review]** [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations](https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/)
+- **[Data Center Dynamics]** [Panthalassa, floating data centers, and the power of the ocean](https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/)
+- **[Data Center Dynamics]** [Trio of Japanese real estate developers invest in 15MW Hokkaido data center development](https://www.datacenterdynamics.com/en/news/trio-of-japanese-real-estate-developers-invest-in-15mw-hokkaido-data-center-development/)
+- **[Data Center Dynamics]** [Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County](https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/)
+- **[Data Center Dynamics]** [Sponsored: The case for an integrated power and cooling approach for AI workloads](https://www.datacenterdynamics.com/en/opinions/the-case-for-an-integrated-power-and-cooling-approach-for-ai-workloads/)
+- **[Data Center Dynamics]** [Promera acquires Irish electrical contractor B&G to expand data center offering](https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/)
+- **[Data Center Dynamics]** [South African gov't floats converting old power stations into data centers](https://www.datacenterdynamics.com/en/news/south-african-govt-floats-converting-old-power-stations-into-data-centers/)
+- **[Data Center Dynamics]** [US Army offers more land to private AI data centers, across nine sites - must include power generation](https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/)
+- **[Data Center Dynamics]** [Three data center projects planned around Phoenix, Arizona](https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/)
+- **[Data Center Dynamics]** [UK government seeks new AI investment-focused secretary, reporting to country's AI Minister](https://www.datacenterdynamics.com/en/news/uk-government-seeks-new-ai-investment-focused-secretary-reporting-to-countrys-ai-minister/)
+- **[Data Center Dynamics]** [Stratum Holdings and Ocean Power Technologies partner on offshore data centers](https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/)
+- **[Data Center Dynamics]** [Man charged over explosion at electrical substation serving Apple data center in Mesa, Arizona](https://www.datacenterdynamics.com/en/news/man-charged-over-explosion-at-electrical-substation-serving-apple-data-center-in-mesa-arizona/)
+
+---
+
 ## 2026-11-24
 
 ### Research & Working Papers
