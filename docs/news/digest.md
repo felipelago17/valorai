@@ -9,6 +9,44 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-26
+
+### Research & Working Papers
+
+- **[arXiv econ.GN]** [Will AI Replace Juniors? How Task Complexity Reduces Automation Risk](https://arxiv.org/abs/2611.34099)
+- **[arXiv econ.GN]** [Optimization of a Hybrid Solar-Biogas-Battery Energy Storage Microgrid: A Case Study](https://arxiv.org/abs/2611.33593)
+- **[arXiv econ.GN]** [Budget, Readout or Reasoning? Where Small Reasoning Models Lose Value in Auction Bidding](https://arxiv.org/abs/2611.34068)
+- **[arXiv econ.GN]** [AI and the Division of Labor in Public Sector Jobs and Teams](https://arxiv.org/abs/2512.05659)
+- **[arXiv cs.CY]** [Unpacking Digital Sovereignty: A Three-Pillar Framework and a Research Agenda](https://arxiv.org/abs/2611.33397)
+- **[arXiv cs.CY]** [Designing an Integrated Learning Ecosystem for Introductory Python Programming: Scaffolded Problem Solving, Tablet-Inspired Navigation, and AI-Enhanced Instruction](https://arxiv.org/abs/2611.33471)
+- **[arXiv cs.CY]** [Language models call themselves AI but do not favor AI over people](https://arxiv.org/abs/2611.33851)
+- **[arXiv cs.CY]** [How AI Is Reconfiguring Work in India: A Task-Based Framework for Understanding Augmentation, Displacement, New Roles and the Changing Structure of Jobs](https://arxiv.org/abs/2611.34065)
+- **[arXiv cs.CY]** [Silent on Code? A Computing Lens on Generative AI Guidance at Canadian Polytechnics and Research Universities](https://arxiv.org/abs/2611.34094)
+- **[arXiv cs.CY]** [The Socratic PAUSE: safeguarding scientific judgement at AI speed](https://arxiv.org/abs/2611.34222)
+- **[arXiv cs.CY]** [Data Centers: The Error of Generalizing Environmental and Socioeconomic Impacts. The Need for a Contextualized Assessment of Computing Infrastructure in Brazil and Worldwide](https://arxiv.org/abs/2611.34272)
+- **[arXiv cs.CY]** [Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions](https://arxiv.org/abs/2611.34383)
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: Better bionic hands and AI’s natural-gas boom](https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Nvidia backs startup developing chiller-free data center cooling system](https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/)
+- **[Data Center Dynamics]** [500MW data center project planned outside San Diego, California](https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/)
+- **[Data Center Dynamics]** [Modern data center cooling](https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/)
+- **[Data Center Dynamics]** [Sponsored: From pipeline to power: what will determine which data centre projects get built?](https://www.datacenterdynamics.com/en/opinions/from-pipeline-to-power-what-will-determine-which-data-centre-projects-get-built/)
+- **[Data Center Dynamics]** [KT Cloud signs 60MW lease at data center in Ansan, South Korea](https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/)
+- **[Data Center Dynamics]** [University of Augsburg breaks ground on data center at Augsburg Innovation Park, Germany](https://www.datacenterdynamics.com/en/news/university-of-augsburg-breaks-ground-on-new-data-center-at-augsburg-innovation-park-germany/)
+- **[Data Center Dynamics]** [Pennsylvania police arrest suspects over threats to Olyphant council after controversial data center vote](https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/)
+- **[Data Center Dynamics]** [Prologis sells industrial facility to Fluidstack for data center in Pennsylvania](https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/)
+- **[Data Center Dynamics]** [Etix launches 23MW data center in Bangkok, Thailand](https://www.datacenterdynamics.com/en/news/etix-launches-23mw-data-center-in-bangkok-thailand/)
+- **[Data Center Dynamics]** [Tecto announces TREC1, its first data center in Recife, Brazil](https://www.datacenterdynamics.com/en/news/tecto-announces-trec1-its-first-data-center-in-recife-and-connects-pernambuco-to-its-operations-in-fortaleza/)
+- **[Data Center Dynamics]** [India's state-owned natural gas company seeks investment partner for data center project](https://www.datacenterdynamics.com/en/news/indias-state-owned-natural-gas-company-seeks-investment-partner-for-data-center-project/)
+- **[Data Center Dynamics]** [IQM to deliver Radiance R3 quantum computer to QAI data center in South Korea](https://www.datacenterdynamics.com/en/news/iqm-to-deliver-radiance-r3-quantum-computer-to-qai-data-center-in-south-korea/)
+
+---
+
 ## 2026-11-25
 
 ### Research & Working Papers

@@ -1,255 +1,273 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
-      "title": "Burning the Bridge: Agentification and Domestic Value Added",
-      "url": "https://arxiv.org/abs/2611.31518",
+      "title": "Will AI Replace Juniors? How Task Complexity Reduces Automation Risk",
+      "url": "https://arxiv.org/abs/2611.34099",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Training decision models for simulating human respondents",
-      "url": "https://arxiv.org/abs/2611.31613",
+      "title": "Optimization of a Hybrid Solar-Biogas-Battery Energy Storage Microgrid: A Case Study",
+      "url": "https://arxiv.org/abs/2611.33593",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
-      "url": "https://arxiv.org/abs/2611.33050",
+      "title": "Budget, Readout or Reasoning? Where Small Reasoning Models Lose Value in Auction Bidding",
+      "url": "https://arxiv.org/abs/2611.34068",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Binding Constraints in a Strategic Technology: An Industrial Vulnerability Index for the Foundation Model Industry",
-      "url": "https://arxiv.org/abs/2510.23421",
+      "title": "AI and the Division of Labor in Public Sector Jobs and Teams",
+      "url": "https://arxiv.org/abs/2512.05659",
       "source": "arXiv econ.GN",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Stay, Reposition, or Recharge: Battery-Aware Operation of Robotaxi Fleets",
-      "url": "https://arxiv.org/abs/2611.07699",
-      "source": "arXiv econ.GN",
-      "category": "Research & Working Papers"
-    },
-    {
-      "title": "Typical-query energy figures mislead institutional AI electricity demand",
-      "url": "https://arxiv.org/abs/2611.31960",
+      "title": "Unpacking Digital Sovereignty: A Three-Pillar Framework and a Research Agenda",
+      "url": "https://arxiv.org/abs/2611.33397",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Do Clinician-Scored Examples Help LLMs Code ADOS-2 from Hour-Long Transcripts?",
-      "url": "https://arxiv.org/abs/2611.32050",
+      "title": "Designing an Integrated Learning Ecosystem for Introductory Python Programming: Scaffolded Problem Solving, Tablet-Inspired Navigation, and AI-Enhanced Instruction",
+      "url": "https://arxiv.org/abs/2611.33471",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "An expert consensus on identification likelihood in NeuroImaging data",
-      "url": "https://arxiv.org/abs/2611.32330",
+      "title": "Language models call themselves AI but do not favor AI over people",
+      "url": "https://arxiv.org/abs/2611.33851",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "AI, Bias, and Inclusion: A Two-Phase Mixed-Methods Study of Gender Bias, Awareness, and Trust in Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2611.32869",
+      "title": "How AI Is Reconfiguring Work in India: A Task-Based Framework for Understanding Augmentation, Displacement, New Roles and the Changing Structure of Jobs",
+      "url": "https://arxiv.org/abs/2611.34065",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Who decides the norms in TCS? Analysing the composition of the STOC 2027 committees and of the Simons Institute \"AI+TCS\" working group",
-      "url": "https://arxiv.org/abs/2611.33082",
+      "title": "Silent on Code? A Computing Lens on Generative AI Guidance at Canadian Polytechnics and Research Universities",
+      "url": "https://arxiv.org/abs/2611.34094",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense",
-      "url": "https://arxiv.org/abs/2611.31429",
+      "title": "The Socratic PAUSE: safeguarding scientific judgement at AI speed",
+      "url": "https://arxiv.org/abs/2611.34222",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Where Agent Defenses Fail: A Case Study of Policy Compositions and Measurement Limits",
-      "url": "https://arxiv.org/abs/2611.31541",
+      "title": "Data Centers: The Error of Generalizing Environmental and Socioeconomic Impacts. The Need for a Contextualized Assessment of Computing Infrastructure in Brazil and Worldwide",
+      "url": "https://arxiv.org/abs/2611.34272",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "(No) Separation of Concerns: Philosophical Concerns about Agent Ethics and Implications for SE Practitioners",
-      "url": "https://arxiv.org/abs/2611.31927",
+      "title": "Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions",
+      "url": "https://arxiv.org/abs/2611.34383",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant",
-      "url": "https://arxiv.org/abs/2611.32266",
+      "title": "Decision and Support Mechanisms under Platform Information Overload: A Generative-Agent Experiment on College Application",
+      "url": "https://arxiv.org/abs/2611.34709",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Gamification in the age of AI: surveying player perceptions of motivation, manipulation, and data protection",
-      "url": "https://arxiv.org/abs/2611.32464",
+      "title": "Learning the Platform, Not the Learner: Sequencing Shortcuts in the Offline Evaluation of Educational Recommender Systems and LLM Rankers",
+      "url": "https://arxiv.org/abs/2611.33240",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Red-Teaming a Sovereign LLM, Its Reasoning and Its Training Stages",
-      "url": "https://arxiv.org/abs/2611.32710",
+      "title": "Using AI to Simulate the Behaviour of European Populations",
+      "url": "https://arxiv.org/abs/2611.33503",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Virology Capabilities Test (VCT): A Multimodal Virology Q&A Benchmark",
-      "url": "https://arxiv.org/abs/2504.16137",
+      "title": "Before They Were Cool: Do Early Fans Abandon Artists Who Suddenly Become Popular? Evidence from Online Music Listening",
+      "url": "https://arxiv.org/abs/2611.33619",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "The Hermon Moment: AI Self-Transcendence and Its Human Narration",
-      "url": "https://arxiv.org/abs/2608.30971",
+      "title": "Refusal Is Not Scored: A Coverage Limit in Content-Based Bias Evaluation",
+      "url": "https://arxiv.org/abs/2611.33690",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Fairness of Explanations in Artificial Intelligence (AI): A Unifying Framework, Axioms, and Future Direction toward Responsible AI",
-      "url": "https://arxiv.org/abs/2605.09852",
+      "title": "Is Sara Omar the true author of D{\\o}devaskeren (The Dead Washer)? Authorship attribution in Danish literature",
+      "url": "https://arxiv.org/abs/2611.34131",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Training-Free Cultural Alignment of Large Language Models via Persona Disagreement",
-      "url": "https://arxiv.org/abs/2605.10843",
+      "title": "Atunda: Building an Afrogenic Dance Movement Dataset for AI-Driven Classification",
+      "url": "https://arxiv.org/abs/2611.34649",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "Framing the Narrative: Ideological Mimicry in Large Language Models",
-      "url": "https://arxiv.org/abs/2609.38256",
+      "title": "Proverbs As A Window On Collective Prescriptions",
+      "url": "https://arxiv.org/abs/2611.34832",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "InvestigationWorlds: An Agentic Environment for Legal Investigation",
-      "url": "https://arxiv.org/abs/2610.04129",
+      "title": "Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines",
+      "url": "https://arxiv.org/abs/2611.34859",
       "source": "arXiv cs.CY",
       "category": "Research & Working Papers"
     },
     {
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "title": "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+      "url": "https://arxiv.org/abs/2611.34868",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections",
+      "url": "https://arxiv.org/abs/2409.09045",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market",
+      "url": "https://arxiv.org/abs/2506.00058",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Inferential Privacy Leakage in Anonymized Conversational AI Logs",
+      "url": "https://arxiv.org/abs/2605.23820",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "A Tool to Map AI Programs in the U.S.: A Snapshot from April 2026 and an Analysis of Requirements for AI Majors and Minors",
+      "url": "https://arxiv.org/abs/2606.12428",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Consumer Search and Social Learning in Agentic Markets",
+      "url": "https://arxiv.org/abs/2603.25893",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "Information Discernment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19355",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "MERIDIAN: Memory-Encoded Rituals for Intimacy across Distance in an Interactive, Asynchronous Neighbourhood",
+      "url": "https://arxiv.org/abs/2610.41776",
+      "source": "arXiv cs.CY",
+      "category": "Research & Working Papers"
+    },
+    {
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
       "source": "MIT Technology Review",
       "category": "Industry & Market"
     },
     {
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "source": "MIT Technology Review",
-      "category": "Industry & Market"
-    },
-    {
-      "title": "GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations",
-      "url": "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
+      "title": "Nvidia backs startup developing chiller-free data center cooling system",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Panthalassa, floating data centers, and the power of the ocean",
-      "url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+      "title": "500MW data center project planned outside San Diego, California",
+      "url": "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Trio of Japanese real estate developers invest in 15MW Hokkaido data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/trio-of-japanese-real-estate-developers-invest-in-15mw-hokkaido-data-center-development/",
+      "title": "Modern data center cooling",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
-      "url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+      "title": "Sponsored: From pipeline to power: what will determine which data centre projects get built?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-pipeline-to-power-what-will-determine-which-data-centre-projects-get-built/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Sponsored: The case for an integrated power and cooling approach for AI workloads",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-case-for-an-integrated-power-and-cooling-approach-for-ai-workloads/",
+      "title": "KT Cloud signs 60MW lease at data center in Ansan, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Promera acquires Irish electrical contractor B&G to expand data center offering",
-      "url": "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
+      "title": "University of Augsburg breaks ground on data center at Augsburg Innovation Park, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/university-of-augsburg-breaks-ground-on-new-data-center-at-augsburg-innovation-park-germany/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "South African gov't floats converting old power stations into data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/south-african-govt-floats-converting-old-power-stations-into-data-centers/",
+      "title": "Pennsylvania police arrest suspects over threats to Olyphant council after controversial data center vote",
+      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
-      "url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+      "title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Three data center projects planned around Phoenix, Arizona",
-      "url": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+      "title": "Etix launches 23MW data center in Bangkok, Thailand",
+      "url": "https://www.datacenterdynamics.com/en/news/etix-launches-23mw-data-center-in-bangkok-thailand/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "UK government seeks new AI investment-focused secretary, reporting to country's AI Minister",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-government-seeks-new-ai-investment-focused-secretary-reporting-to-countrys-ai-minister/",
+      "title": "Tecto announces TREC1, its first data center in Recife, Brazil",
+      "url": "https://www.datacenterdynamics.com/en/news/tecto-announces-trec1-its-first-data-center-in-recife-and-connects-pernambuco-to-its-operations-in-fortaleza/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Stratum Holdings and Ocean Power Technologies partner on offshore data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/",
+      "title": "India's state-owned natural gas company seeks investment partner for data center project",
+      "url": "https://www.datacenterdynamics.com/en/news/indias-state-owned-natural-gas-company-seeks-investment-partner-for-data-center-project/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Man charged over explosion at electrical substation serving Apple data center in Mesa, Arizona",
-      "url": "https://www.datacenterdynamics.com/en/news/man-charged-over-explosion-at-electrical-substation-serving-apple-data-center-in-mesa-arizona/",
+      "title": "IQM to deliver Radiance R3 quantum computer to QAI data center in South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/iqm-to-deliver-radiance-r3-quantum-computer-to-qai-data-center-in-south-korea/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Cryptominer Sato Technologies secures neocloud Datum as customer for Canadian data center",
-      "url": "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+      "title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Decision delayed on Prime Group plan to convert self-storage facility into data center in South Carolina",
-      "url": "https://www.datacenterdynamics.com/en/news/decision-delayed-on-prime-group-plan-to-convert-self-storage-facility-into-data-center-in-south-carolina/",
+      "title": "Vertiv expands 800VDC power portfolio for AI data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/vertiv-expands-800vdc-power-portfolio-for-ai-data-center-market/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     },
     {
-      "title": "Quant trading firm XTX Markets launches 22.5MW data center in Kajaani, Finland",
-      "url": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-xtx-markets-launches-225mw-data-center-in-kajaani-finland/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Exaion signs $79m GPUaaS contract with US customer",
-      "url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
-      "source": "Data Center Dynamics",
-      "category": "Energy & Infrastructure Cost"
-    },
-    {
-      "title": "Applied Digital brings online 25MW data hall at Polaris Forge 2 data center in North Dakota",
-      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-brings-online-25mw-data-hall-at-polaris-forge-2-data-center-in-north-dakota/",
+      "title": "Fortitude Capital plans 202MW AI data center campus in Sines, Portugal",
+      "url": "https://www.datacenterdynamics.com/en/news/fortitude-capital-plans-a-202-mw-ai-campus-in-sines/",
       "source": "Data Center Dynamics",
       "category": "Energy & Infrastructure Cost"
     }
