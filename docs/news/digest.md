@@ -9,6 +9,30 @@ Roughly 90 days of history are kept on this page; the latest run is also written
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-27
+
+### Industry & Market
+
+- **[MIT Technology Review]** [The Download: Innovators Under 35 nominations are open, and a bionic window into the mind](https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/)
+- **[MIT Technology Review]** [How cutting-edge prosthetics can help probe the human mind](https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/)
+
+### Energy & Infrastructure Cost
+
+- **[Data Center Dynamics]** [Datlantis pitches underwater data centers powered by offshore wind](https://www.datacenterdynamics.com/en/news/datlantis-pitches-underwater-data-centers-powered-by-offshore-wind/)
+- **[Data Center Dynamics]** [Abundant Mines plans landfill-powered Bitcoin mine near Mexico City](https://www.datacenterdynamics.com/en/news/abundant-mines-plans-landfill-powered-bitcoin-mine-near-mexico-city/)
+- **[Data Center Dynamics]** [The silicone advantage: why next-gen data centers need a breathable skin](https://www.datacenterdynamics.com/en/opinions/the-silicone-advantage-why-next-gen-data-centers-need-a-breathable-skin/)
+- **[Data Center Dynamics]** [Hyperscale data center solutions for confident decommissioning](https://www.datacenterdynamics.com/en/whitepapers/hyperscale-data-center-solutions-for-confident-decommissioning/)
+- **[Data Center Dynamics]** [Nexus DC files to build two data center buildings at site in Hubbard, Texas](https://www.datacenterdynamics.com/en/news/nexus-dc-files-to-build-two-data-center-buildings-at-site-in-hubbard-texas/)
+- **[Data Center Dynamics]** [SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report](https://www.datacenterdynamics.com/en/news/spacex-installs-250m-worth-of-tesla-megapack-batteries-at-starbase-data-center-site-in-texas-report/)
+- **[Data Center Dynamics]** [Vodafone to triple Safaricom’s data center footprint to 35MW](https://www.datacenterdynamics.com/en/news/vodafone-to-triple-safaricoms-data-center-footprint-to-35mw/)
+- **[Data Center Dynamics]** [Galaxy Digital files for next phase of development at Helios data center campus in Texas](https://www.datacenterdynamics.com/en/news/galaxy-digital-files-for-next-phase-of-development-at-helios-data-center-campus-in-texas/)
+- **[Data Center Dynamics]** [FCC approves SpaceX application to deploy one million satellites for data centers in space](https://www.datacenterdynamics.com/en/news/fcc-approves-spacex-application-to-deploy-one-million-satellites-for-data-centers-in-space/)
+- **[Data Center Dynamics]** [UAE's BitHash targets AI data centers, eyes 250MW project in Oman](https://www.datacenterdynamics.com/en/news/uaes-bithash-targets-ai-data-centers-eyes-250mw-project-in-oman/)
+- **[Data Center Dynamics]** [Helios Solar and Galaxy Venus Data Center sign MoU to explore solar supply for data center in Perak, Malaysia](https://www.datacenterdynamics.com/en/news/helios-solar-and-galaxy-venus-data-center-sign-mou-to-explore-solar-supply-for-data-center-in-perak-malaysia/)
+- **[Data Center Dynamics]** [Japan's Jera in talks with US hyperscalers to colocate data centers at thermal power plants in Japan](https://www.datacenterdynamics.com/en/news/japans-jera-in-talks-with-us-hyperscalers-to-colocate-data-centers-at-thermal-power-plants-in-japan/)
+
+---
+
 ## 2026-11-26
 
 ### Research & Working Papers
